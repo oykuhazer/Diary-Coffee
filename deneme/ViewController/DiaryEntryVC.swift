@@ -4,7 +4,7 @@
 //
 //  Created by Öykü Hazer Ekinci on 4.10.2024.
 //
-
+/*
 import UIKit
 
 
@@ -884,3 +884,4 @@ class DiaryEntryVC: UIViewController, UITextViewDelegate, PhotoManagerDelegate {
        }
    
 }
+*/

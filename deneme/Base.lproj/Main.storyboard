@@ -8,61 +8,21 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Security View Controller2-->
-        <scene sceneID="tne-QT-ifu">
-            <objects>
-                <viewController id="BYZ-38-t0r" customClass="SecurityViewController2" customModule="deneme" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="MuF-Nh-Tsh"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1954.9618320610687" y="3.5211267605633805"/>
-        </scene>
-        <!--Security View Controller-->
-        <scene sceneID="VXe-nt-nin">
-            <objects>
-                <viewController id="AUm-rf-7o4" customClass="SecurityViewController" customModule="deneme" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="EGF-GK-TuD">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="XJg-bm-NnS"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="x71-FO-RHp"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dRR-F2-ebE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="4987.0229007633588" y="3.5211267605633805"/>
-        </scene>
         <!--CalendarVC-->
-        <scene sceneID="ded-ub-OV5">
-            <objects>
-                <viewController id="emd-nR-kIw" customClass="CalendarVC" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="xRV-bl-xTD">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="Dkm-hn-vfS"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="286-ah-i6J"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="4Zi-GM-4L1" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="4060.3053435114502" y="-1192.2535211267607"/>
-        </scene>
-        <!--AnalysisVC-->
         <scene sceneID="jkL-gz-PBG">
             <objects>
-                <viewController id="tqt-gl-eHV" customClass="AnalysisVC" customModule="deneme" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="tqt-gl-eHV" customClass="CalendarVC" customModule="deneme" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="JUP-xd-EY1">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="czG-vv-AL4">
+                                <rect key="frame" x="83" y="628" width="104" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" image="rectangle.grid.1x2" catalog="system" title="Button"/>
+                            </button>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="ovV-Ai-DhY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
@@ -92,6 +52,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="rectangle.grid.1x2" catalog="system" width="128" height="100"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
