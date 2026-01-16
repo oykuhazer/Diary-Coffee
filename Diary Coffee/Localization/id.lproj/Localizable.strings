@@ -1,0 +1,523 @@
+/* 
+  Localizable(Indonesian).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 18.01.2025.
+  
+*/
+
+//DiaryEntryVC
+"daily_max_limit" = "Anda telah mencapai batas harian maksimum.";
+"record_mood" = "Silakan catat suasana hati Anda.";
+"record_coffee_moment" = "Silakan catat jenis momen kopi Anda.";
+"record_coffee_type" = "Silakan catat jenis kopi Anda.";
+"unsaved_changes" = "Perubahan belum disimpan.";
+"confirm_exit" = "Apakah Anda yakin ingin keluar?";
+"exit" = "Keluar";
+
+//CalendarVC
+"delete_entry" = "Hapus entri?";
+"confirm_delete_entry" = "Apakah Anda yakin ingin menghapus entri ini?";
+"day_recorded" = "Hari telah dicatat!";
+
+//AnalysisVC
+"report" = "Laporan";
+
+//AnalysisDetailVC
+"frequently_recorded" = "Sering dicatat";
+"most_records" = "Paling banyak catatan";
+"least_records" = "Paling sedikit catatan";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "Setahun bersama kopi";
+
+//ProfileVC
+"my_info" = "Informasi saya";
+
+//ProfileDetailVC
+"account" = "Akun";
+"not_set" = "Belum diatur";
+"change_name" = "Ubah nama";
+"info_updated" = "Informasi Anda berhasil diperbarui!";
+"change_birthday" = "Ubah tanggal lahir";
+"change_gender" = "Ubah jenis kelamin";
+"profile_photo_updated" = "Foto profil berhasil diperbarui!";
+
+//PhotoGalleryVC
+"photo_gallery" = "Galeri foto";
+"no_photos" = "Belum ada foto yang direkam.";
+
+//SettingsVC
+"settings" = "Pengaturan";
+"records_deleted" = "Catatan Anda telah dihapus!";
+"pin_all_set" = "PIN telah diatur!";
+"customization" = "Kustomisasi";
+"change_pin" = "Ubah PIN";
+"notifications" = "Notifikasi";
+"language" = "Bahasa";
+"haptics" = "Haptik";
+"send_feedback" = "Kirim Umpan Balik";
+"system" = "Sistem";
+"service_center" = "Pusat layanan";
+"write_review" = "Tulis Ulasan";
+"app_version" = "Versi Aplikasi";
+"data" = "Data";
+"delete_data" = "Hapus Data Saya";
+"pin_lock" = "Kunci PIN";
+"password_warning" = "Kata sandi tidak dapat dipulihkan jika lupa.";
+"info_updated_settings" = "Informasi Anda berhasil diperbarui! Mulai ulang aplikasi.";
+
+//LanguageVC
+"select_language" = "Pilih Bahasa";
+"done" = "Selesai";
+
+//ProfileNotificationVC
+"notifications" = "Notifikasi";
+"record_notification" = "Pemberitahuan catatan";
+"get_daily_reminders" = "Dapatkan pengingat harian";
+"remind_me_at" = "Ingatkan saya pada";
+"smart_scheduling_reminder" = "Pengingat penjadwalan pintar";
+"fortune_cookie_notification" = "Notifikasi kue keberuntungan";
+"info_updated" = "Informasi Anda berhasil diperbarui!";
+
+//DeleteDataVC
+"delete_my_data" = "Hapus Data Saya";
+"my_records" = "Catatan Saya";
+"delete_all_records" = "Hapus Semua Catatan";
+"account" = "Akun";
+"delete_my_account" = "Hapus Akun Saya";
+"delete_my_data_description" = "Semua yang pernah Anda catat - semua catatan, foto, ikon, dan lainnya - akan dihapus. Pembelian dan pengaturan rekaman Anda akan tetap ada. Harap lanjutkan dengan hati-hati, karena ini tidak dapat dibatalkan.";
+"delete_my_account_description" = "Jika Anda menghapus akun Anda, semua catatan Anda (catatan, foto, ikon, dll.), pembelian (tema, biji, dll.), dan data juga akan dihapus. Harap lanjutkan dengan hati-hati, karena ini tidak dapat dibatalkan.";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "Hapus Semua Catatan";
+"are_you_sure" = "Anda yakin?";
+"delete_all_records_description" = "Semua yang pernah Anda catat - semua catatan, foto, ikon, dan lainnya - akan dihapus. Pembelian dan pengaturan rekaman Anda akan tetap ada. Harap lanjutkan dengan hati-hati, karena ini tidak dapat dibatalkan.";
+"read_and_agree" = "Saya telah membaca tindakan pencegahan dan setuju untuk melanjutkan.";
+"cancel" = "Batalkan";
+
+//DeleteMyAccountVC
+"delete_my_account" = "Hapus Akun Saya";
+"are_you_sure" = "Anda yakin?";
+"delete_my_account_description" = "Jika Anda menghapus akun Anda, semua catatan Anda (catatan, foto, ikon, dll.), pembelian (tema, semanggi, dll.), dan data juga akan dihapus. Harap lanjutkan dengan hati-hati, karena ini tidak dapat dibatalkan.";
+"read_and_agree" = "Saya telah membaca tindakan pencegahan dan setuju untuk melanjutkan.";
+
+//WidgetsVC
+"apply" = "Terapkan";
+"widgets" = "Widget";
+"widget_changed_successfully" = "Widget berhasil diubah!";
+
+//StoreVC
+"themes" = "Tema";
+"stickers" = "Stiker";
+"beans" = "Biji";
+"store" = "Toko";
+"payment_success" = "Pembayaran Anda berhasil diproses!";
+"payment_failed" = "Pembayaran gagal. Silakan coba lagi.";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "Analisis Mendalam";
+"in_depth_analysis_desc" = "Temukan pola tersembunyi dalam rutinitas harian Anda.";
+"up_to_3_photos" = "Hingga 3 Foto";
+"up_to_3_photos_desc" = "Tangkap lebih banyak momen dari hari Anda.";
+"daily_entries" = "Entri Harian";
+"daily_entries_desc" = "Tingkatkan untuk merekam hingga 3 momen per hari.";
+"express_your_mood" = "Ekspresikan Mood Anda";
+"express_your_mood_desc" = "Buka koleksi lengkap untuk variasi lebih.";
+"special_gift" = "Hadiah Khusus Menanti Anda";
+"special_gift_desc" = "180 Biji Kopi untuk pelanggan baru.";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "Untuk pecinta cangkir klasik";
+
+//PrimeEmotionSetCell
+"natures_joy" = "Kegembiraan alam, ekor bergoyang di mana-mana.";
+"golden_leaves" = "Daun emas, kesegaran udara yang menyenangkan.";
+"camping" = "Bintang di atas, api di bawah.";
+"warm_lights" = "Lampu hangat, momen nyaman yang berharga.";
+"spooky_thrills" = "Sensasi menyeramkan, malam yang manis dan bersinar.";
+"sweet_bites" = "Gigitan manis, momen bahagia yang tak terlupakan.";
+"laughter_louder" = "Tawa lebih keras dengan koneksi hati.";
+"heartbeats_shared" = "Denyut jantung bersama, segalanya terasa lebih cerah.";
+"stars_whisper" = "Bintang berbisik, rahasia di bawah sinar bulan terbuka.";
+"dancing_nights" = "Malam menari, irama bahagia tanpa akhir.";
+"time_fades" = "Waktu berlalu, kreativitas tetap hidup.";
+"learning_laughter" = "Belajar, tertawa, kertas terkadang kusut.";
+"colors_bloom" = "Warna bermekaran, harapan cerah muncul.";
+"cozy_warmth" = "Hangat di bawah selimut bersalju.";
+"golden_rays" = "Sinar emas, matahari terbenam merayakan kehidupan.";
+"dreams_realized" = "Mimpi terwujud, momen fokus berkembang.";
+
+//MainAlertView
+"cancel" = "Batal";
+"delete" = "Hapus";
+"exit" = "Keluar";
+
+//PointView
+"enjoying_diary_coffee" = "Menikmati Kopi Harian?";
+"no" = "Tidak";
+"yes" = "Ya";
+
+//CreateAccountView
+"create_an_account" = "Buat akun";
+"log_in_save_records" = "Masuk dan simpan semua catatan Anda ke akun Anda sendiri!";
+"later" = "Nanti";
+"create" = "Buat";
+
+//FirstRecordView
+"congratulations" = "Selamat";
+"first_coffee_recorded" = "Kopi pertama telah tercatat!";
+"next" = "Berikutnya";
+"look_a_bit_deeper" = "Lihat lebih dalam sedikit";
+"personal_reports" = "Anda dapat melihat laporan pribadi tentang catatan Anda!";
+"got_it" = "Mengerti!";
+
+//PremiumAccessView
+"premium_access" = "Akses Premium";
+"get_started" = "Mulai Sekarang!";
+"in_depth_analysis" = "Analisis Mendalam";
+"up_to_3_photos" = "Hingga 3 Foto";
+"daily_entries" = "Entri Harian";
+"express_your_mood" = "Ekspresikan Mood Anda";
+"special_gift_awaits" = "Hadiah Istimewa Menanti Anda";
+
+//DisconnectView
+"failed_to_connect" = "Gagal terhubung ke jaringan.";
+"try_again" = "Coba Lagi";
+
+//ProblemView
+"something_went_wrong" = "Terjadi kesalahan, tapi kami sedang mengatasinya!";
+"services_maintenance" = "Layanan kami sedang dalam pemeliharaan. Silakan tutup dan buka kembali aplikasi.";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "Tangkap Setiap Tegukan\nMasuk dan Mulai Membuat Kenangan";
+
+//PinContainerView
+"pin_code" = "Kode PIN";
+"set_pin" = "Atur PIN";
+
+//NameTextFieldView
+"enter_your_name" = "Masukkan nama Anda";
+
+//BirthdayButtonView
+"select_your_birthday" = "Pilih tanggal lahir Anda";
+
+//BirthdayDatePickerView
+"select_date" = "Pilih tanggal";
+//ReminderTimePickerView
+"select_time" = "Pilih waktu";
+
+//MoodSelectorView
+"coffee_mood_today" = "Mood kopi apa yang Anda rasakan hari ini?";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "Momen Kopi";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "Jenis Kopi";
+
+//NoteView
+"todays_brewed_thoughts" = "Pikiran yang Diracik Hari Ini";
+"write" = "Tulis…";
+
+//PhotoView
+"coffee_moments_in_photos" = "Momen Kopi dalam Foto";
+"camera" = "Kamera";
+"album" = "Album";
+
+//PhotoSelectView
+"photo_options" = "Opsi Foto";
+"select_from_album" = "Pilih dari Album";
+"open_camera" = "Buka Kamera";
+
+//StickerView
+"coffee_moments_in_stickers" = "Momen Kopi dalam Stiker";
+"no_stickers_available" = "Tidak Ada Stiker yang Tersedia";
+"no_stickers_message" = "Anda tidak memiliki stiker untuk digunakan. Harap beli terlebih dahulu.";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "Beli";
+
+//CalendarMiniView
+"which_day_record_for" = "Catatan ini untuk hari apa?";
+"cancel" = "Batal";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "Ups, hari itu belum tiba!";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "Bagaimana harimu?";
+
+//YearMonthSegmentControl
+"entire_year" = "Seluruh Tahun";
+"by_month" = "Berdasarkan Bulan";
+
+//YearMonthPickerView
+"choose_month_and_year" = "Pilih Bulan dan Tahun";
+
+//CoffeeMoodFlowView
+"mood_flow" = "Aliran Suasana Hati";
+"start_mood_flow" = "Mulai aliran suasana hati Anda dengan sebuah entri!";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "Skor Mood Kopi";
+"moods_logged" = "Mood Tercatat";
+"coffee_logged" = "Kopi Tercatat";
+"start_logging_coffee_moods" = "Mulai mencatat mood kopi Anda!";
+
+//MoodStatusView
+"mood_statistics" = "Statistik Suasana Hati";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "Perjalanan Cangkir";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "Satu Tahun Bersama Kopi";
+"look_back_on_2024" = "Lihat kembali tahun %d Anda.";
+"go" = "Pergi";
+
+//MomentStatusView
+"frequently_together" = "Sering bersama";
+"moments_you_drank_coffee" = "Momen Anda Minum Kopi";
+"you_drank_coffee" = "Anda Minum Kopi";
+"moments" = "Momen";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "Kopi Favorit Anda";
+"the_coffee_you_enjoyed_the_most" = "Kopi yang Paling Anda Nikmati";
+"you_enjoyed_the_most" = "Yang Paling Anda Nikmati";
+"the_coffee" = "Kopi";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "Kopi untuk Suasana Hati Anda";
+"your_favorite_in_this_mood" = "Favorit Anda dalam Suasana Hati Ini";
+"recorded_together_with" = "Tercatat bersama…";
+
+//SortByView
+"sort_by" = "Urutkan Berdasarkan";
+"most_records" = "Rekor Terbanyak";
+"least_records" = "Rekor Terkecil";
+
+//PremiumAnalysisView
+"premium_analysis" = "Analisis Premium";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "Langganan Premium\n untuk melihat lebih banyak analisis!";
+"premium_pass" = "Pass Premium";
+
+//ThemesView
+"special_theme" = "Tema Khusus";
+"classic_theme" = "Tema Klasik";
+
+//StoreStickerView
+"coffee_break_alone" = "Istirahat kopi sendirian, nama lain dari ketenangan.";
+"warm_up_with_coffee" = "Hangatkan diri dengan kopi di udara segar musim gugur.";
+"coffee_accompanying_you" = "Biarkan kopi menemani Anda saat Anda tenggelam dalam halaman.";
+"campfire_and_coffee" = "Harmoni sempurna antara api unggun dan kopi.";
+"coffee_with_purring_companion" = "Nikmati secangkir kopi dengan teman purring Anda.";
+"christmas_with_ginger_scented_coffee" = "Rayakan Natal dengan kopi beraroma jahe!";
+"coffee_leads" = "Kopi selalu menjadi peran utama!";
+"coffee_in_conversations" = "Percakapan terhangat selalu ditemani kopi.";
+"sip_of_coffee_inspiration" = "Seteguk kopi, sentuhan inspirasi.";
+"coffee_and_dessert_harmony" = "Harmoni sempurna antara kopi dan pencuci mulut.";
+"balanced_coffee_break" = "Istirahat kopi yang seimbang untuk gaya hidup sehat.";
+"walk_with_coffee" = "Jalan-jalan dengan teman setia Anda dan secangkir kopi.";
+"deepen_feelings_with_coffee" = "Perdalam perasaan Anda dengan secangkir kopi.";
+"sweet_closeness_with_coffee" = "Kedekatan manis yang dimulai dengan kopi.";
+"coffee_complements_hobbies" = "Kopi melengkapi segalanya, termasuk hobi Anda.";
+"peaceful_moments_with_coffee" = "Momen damai selama liburan dengan kopi.";
+"warm_and_deep_like_coffee" = "Hangat dan mendalam, seperti kopi.";
+"serenity_with_coffee" = "Temukan ketenangan dengan seteguk kopi dalam keheningan.";
+"little_break_with_coffee" = "Istirahat kecil untuk diri Anda sendiri dengan kopi.";
+"first_light_and_coffee" = "Cahaya pertama pagi dan aroma kopi.";
+"make_night_beautiful_with_coffee" = "Buat malam lebih indah dengan kopi.";
+"coffee_planning_day" = "Kopi selalu berada di sisi Anda saat merencanakan hari Anda.";
+"coffee_with_podcast" = "Kopi hangat menemani podcast Anda.";
+"coffee_with_moments_together" = "Kopi menambahkan rasa pada momen yang dihabiskan bersama.";
+"coffee_between_classes" = "Siapa yang bisa menolak secangkir kopi di antara kelas?";
+"coffee_is_self_love" = "Cara terbaik untuk menunjukkan cinta pada diri sendiri: kopi.";
+"recharge_with_coffee" = "Isi ulang dengan kopi di tengah belanja.";
+"share_coffee_moments" = "Ini adalah waktu yang sempurna untuk berbagi momen penuh kopi Anda!";
+"spring_freshness_and_coffee" = "Kesegaran musim semi dan hangatnya kopi.";
+"time_for_a_cup_of_coffee" = "Selalu ada waktu untuk secangkir kopi.";
+"coffee_while_exploring" = "Kopi selalu bersama saya saat menjelajahi tempat baru.";
+"romantic_coffee_with_loved_one" = "Kopi romantis bersama orang yang Anda cintai.";
+"weather_and_coffee" = "Tidak peduli cuaca, kopi membuat segalanya lebih baik.";
+"warm_touch_in_winter" = "Sentuhan hangat kopi di dinginnya musim dingin.";
+"power_of_coffee_at_work" = "Rasakan kekuatan kopi selama istirahat kerja.";
+"refresh_after_workout" = "Segarkan diri setelah olahraga dengan secangkir kopi.";
+"balance_mind_body_with_coffee" = "Seimbangkan pikiran dan tubuh Anda dengan kopi.";
+
+//BeansView
+"premium_pass" = "Pass Premium";
+"beans_180" = "180 Kacang";
+"gifted_on_subscription" = "Diberikan saat berlangganan";
+"learn_more" = "Pelajari lebih lanjut";
+"bonus_19_percent" = "19% bonus";
+"bonus_39_percent" = "39% bonus";
+"bonus_79_percent" = "79% bonus";
+
+//BuyView
+"buy_now" = "BELI SEKARANG";
+"sticker_already_purchased" = "Stiker sudah dibeli.";
+"emotion_already_purchased" = "Emosi sudah dibeli.";
+"not_enough_beans" = "Anda tidak memiliki cukup biji kopi untuk pembelian ini.";
+"successfully_purchased" = "berhasil dibeli.";
+
+//PremiumView
+"elevate_coffee_moments" = "Tingkatkan momen kopi Anda";
+"upgrade_ultimate_experience" = "Tingkatkan untuk pengalaman terbaik!";
+
+//AccountView
+"account" = "Akun";
+"user_id" = "ID Pengguna:";
+
+//RecordsView
+"my_records" = "Catatan saya";
+"recorded_days" = "Hari yang dicatat";
+"photos" = "Foto";
+"photo_gallery" = "Galeri Foto";
+
+//FeaturesView
+"features" = "Fitur";
+"widgets" = "Widget";
+
+//ProfilePictureView
+"change_profile_picture" = "Ganti foto profil";
+
+//ProfileNameChangeView
+"change_name" = "Ganti Nama";
+"done" = "Selesai";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "Ganti Tanggal Lahir";
+"cancel" = "Batal";
+"yes" = "Ya";
+
+//ProfileGenderChangeView
+"change_gender" = "Ubah Jenis Kelamin";
+"male" = "Pria";
+"female" = "Wanita";
+"other" = "Lainnya";
+"done" = "Selesai";
+
+//ProfileFeedbackView
+"send_feedback" = "Kirim umpan balik";
+"cancel" = "Batal";
+"send" = "Kirim";
+
+//NotificationManager
+"morning_notification" = "Apakah kopi pagimu sudah siap? Mari mulai mencatat hari ini!"; 
+"day_rhythm_notification" = "Bagaimana ritme harimu? Bagaimana kalau istirahat kopi dan mengabadikan momen ini?"; 
+"record_reminder" = "Jangan lupa mencatat harimu!";
+"week_checkin" = "Bagaimana minggu Anda? Jangan lupa istirahat kopi!";
+"monday_greeting" = "Halo Senin!☀️ Bisakah kamu baik kepada kami hari ini? 🤞 Tapi pertama-tama... kopi! ☕🫶"; 
+"weekend_reminder" = "Akhir pekan hampir tiba! Bagaimana jika merencanakan momen kopi yang nyaman? ☕🎉";
+"journal_update" = "Tampilan baru untuk jurnal Anda! Tema dan stiker keren menunggu Anda, mulailah menjelajah sekarang! ✨☕";
+"coffee_day" = "Hari Kopi Internasional";
+"coffee_day_celebration" = "Hari ini adalah Hari Kopi Internasional! ☕🎉 Rayakan dengan kopi favorit Anda dan abadikan momennya.";
+"espresso_day" = "Hari Espresso";
+"espresso_day_message" = "Hari ini adalah Hari Espresso! ⚡☕ Mulailah hari Anda dengan energi dari espresso yang kuat.";
+"chocolate_day" = "Hari Cokelat Sedunia";
+"chocolate_day_message" = "Hari ini adalah Hari Cokelat Sedunia! 🍫☕ Padukan kopi Anda dengan sepotong cokelat untuk istirahat manis.";
+"barista_day" = "Hari Barista Sedunia";
+"barista_day_message" = "Hari ini adalah Hari Barista Sedunia! 🎨☕ Rayakan seni membuat kopi dan rasakan seperti seorang barista.";
+"valentines_day" = "Hari Valentine"; 
+"valentines_day_message" = "Hari ini adalah Hari Valentine! ❤️☕ Bagikan kopi Anda dengan orang tercinta dan rayakan hari istimewa ini bersama-sama."; 
+"friendship_day" = "Hari Persahabatan Internasional";
+"friendship_day_message" = "Hari ini adalah Hari Persahabatan Internasional! 🤝☕ Ciptakan kenangan dengan sahabat terbaik Anda sambil minum kopi.";
+"new_years_day" = "Hari Tahun Baru";
+"new_years_day_message" = "Hari ini adalah hari pertama tahun ini! 🎉☕ Ambil kopi Anda dan mulailah bermimpi tentang awal yang baru.";
+"
+//PremiumVC
+premium_pass" = "Pass Premium";
+"free_3_days" = "Gratis selama 3 hari penuh!";
+"cancel_anytime" = "Bisa dibatalkan kapan saja.";
+"monthly_pass" = "Pass Bulanan";
+"annual_pass" = "Pass Tahunan";
+"free_for_3_days" = "Gratis selama 3 hari";
+"per_month" = "%@ /bulan";
+"coffee_beans_gifted" = "*180 biji kopi diberikan di awal uji coba gratis.";
+"terms_and_privacy" = "Syarat Layanan dan Kebijakan Privasi"; 
+"terms_of_service" = "Syarat Layanan";
+"privacy_policy" = "Kebijakan Privasi"; 
+"and" = "dan";
+"begin_free_trial" = "Mulai Uji Coba Gratis"; 
+"subscription_unavailable" = "Informasi langganan tidak tersedia saat ini."; 
+"apple_account_subscription" = "
+Akun Apple Anda akan dikenakan biaya. Tiket bulanan (berlangganan) adalah %@ dan diperbarui secara otomatis setiap bulan. Tiket tahunan (berlangganan), yang dibebankan sebagai pembayaran di muka, adalah %@ dan diperbarui secara otomatis setiap tahun. Langganan akan diperbarui secara otomatis dalam waktu 24 jam sebelum periode saat ini berakhir. Anda dapat mengelola langganan Anda melalui Pengaturan Akun Apple.
+";
+"trial_info_unavailable" = "Informasi uji coba gratis tidak tersedia saat ini.";
+"trial_info_annual" = "%@ per tahun setelah uji coba gratis. Batalkan kapan saja.";
+"subscribe_premium_pass" = "Berlangganan Premium Pass\nuntuk mengakses semua fitur!";
+"become_premium_user" = "Jadilah Pengguna Premium";
+"monthly_trial_info" = "%@ per bulan. Batalkan kapan saja.";
+"completely_free_3_days" = "Gratis sepenuhnya selama 3 hari!";
+"begin_free_trial" = "Mulai Uji Coba Gratis";
+"annual_trial_info" = "%@ per tahun setelah uji coba gratis. Batalkan kapan saja.";
+"daily_streak_title" = "Rekor Harian";
+"daily_streak_label_zero" = "Rekor kopi terpanjang: 0 hari";
+"daily_streak_message" = "Mulailah rekor harian Anda dengan sebuah entri!";
+"daily_streak_label" = "Rekor kopi terpanjang: %d hari";
+
+//AchievementLockAnalysisVC
+"first_sip" = "Tegukan Pertama";
+"morning_brew" = "Seduhan Pagi";
+"sweet_moments" = "Momen Manis";
+"favorite_coffee_quest" = "Pencarian Kopi Favorit";
+"sweet_coffee_stop" = "Pemberhentian Kopi Manis";
+"taste_of_repetition" = "Rasa dari Pengulangan";
+"motivation_filter" = "Filter Motivasi";
+"work_break_revitalizer" = "Penyegar Istirahat Kerja";
+"natures_brew" = "Seduhan Alam";
+"inspiration_with_coffee" = "Inspirasi dengan Kopi";
+"different_sips" = "Tegukan Berbeda";
+"world_coffees" = "Kopi Dunia";
+"gourmet_coffee_expert" = "Ahli Kopi Gourmet";
+"cold_enthusiast" = "Pecinta Minuman Dingin";
+"night_owl" = "Burung Hantu Malam";
+"travelers_cup" = "Cangkir Pelancong";
+"coffee_classic" = "Kopi Klasik";
+"white_coffee" = "Kopi Putih";
+"love_in_first_sip" = "Cinta pada Tegukan Pertama";
+"romance_in_cup" = "Romansa dalam Cangkir";
+"friends_sip" = "Tegukan Bersama Teman";
+"special_moments" = "Momen Spesial";
+"chat_in_cup" = "Obrolan dalam Cangkir";
+"coffee_journey" = "Perjalanan Kopi";
+"explore_together" = "Jelajahi Bersama";
+"calm_sips" = "Tegukan Tenang";
+"chat_tour" = "Tur Obrolan";
+"every_moment" = "Setiap Momen";
+"first_sip_achievement" = "Langkah pertama dalam perjalanan kopi Anda! Catat tegukan pertama Anda, buka pencapaian istimewa ini, dan buka pintu menuju hasrat kopi Anda. 🎈☕";
+"morning_brew_achievement" = "Buka pencapaian istimewa ini dengan mencoba 10 jenis kopi yang berbeda dalam momen kopi pagi Anda! Memulai hari tidak pernah seindah ini. ☀️☕";
+"flavor_harmony_achievement" = "Coba 5 jenis kopi berbeda di Sweet Moments untuk membuka pencapaian harmoni rasa! 🍩☕";
+"crown_favorite_coffee" = "Coba kopi yang sama sebanyak 20 kali untuk menentukan favoritmu! ⭐☕";
+"delicious_achievement" = "Jelajahi 10 kopi manis seperti Mocha, Affogato, dan Irish Coffee, dan buka pencapaian lezat ini! ✨☕";
+"relive_coffee_achievement" = "Hidupkan kembali kopi dan momen yang sama 5 kali untuk membuka pencapaian! ☕🌀";
+"work_break_energy" = "Tingkatkan energi Anda dengan 20 kopi saat istirahat kerja! ☕⚡";
+"work_break_ritual" = "Buka pencapaian ini dengan 5 kopi saat istirahat kerja dan mulai ritual Anda! ☕💼";
+"camp_coffee_achievement" = "Buka pencapaian petualangan ini dengan 5 kopi kemah dalam satu bulan! ☕🏕️";
+"inspiring_coffee_achievement" = "Buka kunci ini dengan total 5 buku atau kopi inspirasi selama sebulan! ☕📝";
+"flavor_map_achievement" = "Temukan peta rasa dengan 7 kopi berbeda dalam 7 hari! 🌟☕";
+"cultural_flavors" = "Jelajahi dunia kopi dengan rasa budaya seperti Kopi Turki, Kopi Wina, dan Café de Olla! ☕🌍";
+"exquisite_coffees" = "Masuki dunia rasa dengan dua kopi luar biasa seperti Macchiato, Ristretto, dan Breve! 🧭☕";
+"cool_success" = "Capai kesuksesan keren dengan 20 kopi dingin seperti Frappe, Cold Brew, dan Shakerato! ❄️☕";
+"spirit_of_night" = "Tetap terjaga dengan kopi selama 20 malam dan tangkap semangat malam! 🌌☕";
+"taste_world" = "Rasakan dunia dengan 10 jenis kopi berbeda saat bepergian, tuliskan cerita baru di setiap tegukan! 🗺️☕";
+"crown_culture" = "Mahkotai budaya kopi dengan 20 rasa klasik seperti Espresso, Americano, dan Kopi Turki! 🌰☕";
+"explore_smoothness" = "Jelajahi kelembutan kopi dengan mencoba 20 kopi berbasis susu seperti Latte, Breve, dan Cappuccino! 🍶☕";
+"romantic_moment" = "Lengkapi keajaiban di momen romantis dengan kopi pertama Anda, dan rayakan pengalaman istimewa ini! ❤️☕";
+"crown_love_moments" = "Hiasi momen penuh cinta Anda dengan 10 jenis kopi berbeda dalam suasana romantis! 💖☕";
+"first_coffee_friend" = "Kopi pertama dengan teman, tegukan pertama dari kisah persahabatan Anda! 🕊️☕";
+"friendship_love_moments" = "Ciptakan momen penuh persahabatan atau cinta dengan 20 kopi dan selesaikan pencapaian istimewa ini! 🎀☕";
+"deepen_conversations" = "Perdalam percakapan Anda dengan kopi 5 kali dalam sebulan dan buka hadiah ini! ☕💬";
+"discover_all_coffee_types" = "Jelajahi semua jenis kopi dan jadilah legenda kopi! ☕🏆";
+"share_coffee_with_friends" = "Bagikan 10 jenis kopi yang berbeda dengan teman-teman Anda, biarkan persahabatan menyatu dengan kopi! 🤗☕";
+"discover_worlds_with_coffee" = "Temukan dunia baru dengan 10 kopi saat membaca atau berkemah! 📚🌄☕";
+"enhance_conversations_with_coffee" = "Perkaya percakapan Anda dengan 20 kopi berbeda saat mengobrol! 💭☕";
+"experience_all_coffee_moments" = "Rasakan semua momen kopi dan capai puncak perjalanan kopi Anda! 🎉☕";
+"journey_of_the_cup" = "Perjalanan Cangkir";

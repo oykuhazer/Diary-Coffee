@@ -1,0 +1,518 @@
+
+
+//DiaryEntryVC
+"daily_max_limit" = "Dosáhli jste denního limitu.";
+"record_mood" = "Zaznamenejte prosím svou náladu.";
+"record_coffee_moment" = "Zaznamenejte prosím typ okamžiku s kávou.";
+"record_coffee_type" = "Zaznamenejte prosím typ kávy.";
+"unsaved_changes" = "Změny nebyly uloženy.";
+"confirm_exit" = "Opravdu chcete odejít?";
+"exit" = "Odejít";
+
+//CalendarVC
+"delete_entry" = "Smazat záznam?";
+"confirm_delete_entry" = "Opravdu chcete tento záznam smazat?";
+"day_recorded" = "Den zaznamenán!";
+
+//AnalysisVC
+"report" = "Zpráva";
+
+//AnalysisDetailVC
+"frequently_recorded" = "Často zaznamenané";
+"most_records" = "Nejvíce záznamů";
+"least_records" = "Nejméně záznamů";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "Rok s kávou";
+
+//ProfileVC
+"my_info" = "Moje informace";
+
+//ProfileDetailVC
+"account" = "Účet";
+"not_set" = "Nenastaveno";
+"change_name" = "Změnit jméno";
+"info_updated" = "Vaše informace byly úspěšně aktualizovány!";
+"change_birthday" = "Změnit datum narození";
+"change_gender" = "Změnit pohlaví";
+"profile_photo_updated" = "Profilová fotka byla úspěšně aktualizována!";
+
+//PhotoGalleryVC
+"photo_gallery" = "Fotogalerie";
+"no_photos" = "Zatím nebyly zaznamenány žádné fotografie.";
+
+//SettingsVC
+"settings" = "Nastavení";
+"records_deleted" = "Vaše záznamy byly smazány!";
+"pin_all_set" = "PIN byl nastaven!";
+"customization" = "Přizpůsobení";
+"change_pin" = "Změnit PIN";
+"notifications" = "Oznámení";
+"language" = "Jazyk";
+"haptics" = "Haptická odezva";
+"send_feedback" = "Odeslat zpětnou vazbu";
+"system" = "Systém";
+"service_center" = "Servisní centrum";
+"write_review" = "Napsat recenzi";
+"app_version" = "Verze aplikace";
+"data" = "Data";
+"delete_data" = "Smazat moje data";
+"pin_lock" = "PIN zámek";
+"password_warning" = "Heslo nelze obnovit, pokud je zapomenuto.";
+"info_updated_settings" = "Vaše informace byly úspěšně aktualizovány! Restartujte aplikaci.";
+
+//LanguageVC
+"select_language" = "Vyberte jazyk";
+"done" = "Hotovo";
+
+//ProfileNotificationVC
+"notifications" = "Oznámení";
+"record_notification" = "Oznámení o záznamu";
+"get_daily_reminders" = "Získejte denní připomenutí";
+"remind_me_at" = "Připomeňte mi v";
+"smart_scheduling_reminder" = "Chytré plánování připomínek";
+"fortune_cookie_notification" = "Oznámení o sušence štěstí";
+"info_updated" = "Vaše informace byly úspěšně aktualizovány!";
+
+//DeleteDataVC
+"delete_my_data" = "Smazat moje data";
+"my_records" = "Moje záznamy";
+"delete_all_records" = "Smazat všechny záznamy";
+"account" = "Účet";
+"delete_my_account" = "Smazat můj účet";
+"delete_my_data_description" = "Vše, co jste kdy zaznamenali - všechny vaše poznámky, fotografie, ikony a další - bude smazáno. Vaše nákupy a nastavení nahrávání zůstanou zachovány. Postupujte opatrně, protože toto nelze vrátit zpět.";
+"delete_my_account_description" = "Pokud smažete svůj účet, budou také smazány všechny vaše záznamy (poznámky, fotografie, ikony atd.), nákupy (témata, zrna atd.) a data. Postupujte opatrně, protože toto nelze vrátit zpět.";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "Smazat všechny záznamy";
+"are_you_sure" = "Jste si jistý?";
+"delete_all_records_description" = "Vše, co jste kdy zaznamenali - všechny vaše poznámky, fotografie, ikony a další - bude smazáno. Vaše nákupy a nastavení nahrávání zůstanou zachovány. Postupujte opatrně, protože toto nelze vrátit zpět.";
+"read_and_agree" = "Přečetl jsem si opatření a souhlasím s pokračováním.";
+"cancel" = "Zrušit";
+
+//DeleteMyAccountVC
+"delete_my_account" = "Smazat můj účet";
+"are_you_sure" = "Jste si jistý?";
+"delete_my_account_description" = "Pokud smažete svůj účet, budou také smazány všechny vaše záznamy (poznámky, fotografie, ikony atd.), nákupy (témata, jetel atd.) a data. Postupujte opatrně, protože toto nelze vrátit zpět.";
+"read_and_agree" = "Přečetl jsem si opatření a souhlasím s pokračováním.";
+
+//WidgetsVC
+"apply" = "Použít";
+"widgets" = "Widgety";
+"widget_changed_successfully" = "Widget byl úspěšně změněn!";
+
+//StoreVC
+"themes" = "Témata";
+"stickers" = "Samolepky";
+"beans" = "Fazole";
+"store" = "Obchod";
+"payment_success" = "Vaše platba byla úspěšně zpracována!";
+"payment_failed" = "Platba selhala. Zkuste to prosím znovu.";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "Hloubková analýza";
+"in_depth_analysis_desc" = "Objevte skryté vzory ve své každodenní rutině.";
+"up_to_3_photos" = "Až 3 fotografie";
+"up_to_3_photos_desc" = "Zachyťte více okamžiků ze svého dne.";
+"daily_entries" = "Denní záznamy";
+"daily_entries_desc" = "Upgradujte a zaznamenejte až 3 okamžiky denně.";
+"express_your_mood" = "Vyjádřete svou náladu";
+"express_your_mood_desc" = "Odemkněte celou sbírku pro větší rozmanitost.";
+"special_gift" = "Čeká na vás speciální dárek";
+"special_gift_desc" = "180 kávových zrn pro nové předplatitele.";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "Pro milovníky klasických šálků";
+
+//PrimeEmotionSetCell
+"natures_joy" = "Radost přírody, vrtící se ocasy všude.";
+"golden_leaves" = "Zlaté listí, čerstvý vzduch a blaho.";
+"camping" = "Hvězdy nahoře, oheň dole.";
+"warm_lights" = "Teplá světla, cenné útulné okamžiky.";
+"spooky_thrills" = "Strašidelné vzrušení, sladké zářící noci.";
+"sweet_bites" = "Sladké kousky, nezapomenutelné radostné okamžiky.";
+"laughter_louder" = "Hlasitější smích s připojením srdce.";
+"heartbeats_shared" = "Sdílené srdeční tepny, všechno vypadá jasněji.";
+"stars_whisper" = "Hvězdy šeptají, tajemství měsíčního svitu se odhalují.";
+"dancing_nights" = "Taneční noci, nekonečné radostné rytmy.";
+"time_fades" = "Čas mizí, kreativita zůstává živá.";
+"learning_laughter" = "Učení, smích a občas pomačkané papíry.";
+"colors_bloom" = "Barvy kvetou, slunné naděje stoupají.";
+"cozy_warmth" = "Pohodlné teplo pod zasněženými přikrývkami.";
+"golden_rays" = "Zlaté paprsky, západy slunce oslavují život.";
+"dreams_realized" = "Splněné sny, zaměřené okamžiky vzkvétají.";
+
+//MainAlertView
+"cancel" = "Zrušit";
+"delete" = "Smazat";
+"exit" = "Ukončit";
+
+//PointView
+"enjoying_diary_coffee" = "Užíváte si kávu z deníku?";
+"no" = "Ne";
+"yes" = "Ano";
+
+//CreateAccountView
+"create_an_account" = "Vytvořit účet";
+"log_in_save_records" = "Přihlaste se a uložte všechny své záznamy na svůj vlastní účet!";
+"later" = "Později";
+"create" = "Vytvořit";
+
+//FirstRecordView
+"congratulations" = "Gratulujeme";
+"first_coffee_recorded" = "První káva zaznamenána!";
+"next" = "Další";
+"look_a_bit_deeper" = "Podívejte se trochu hlouběji";
+"personal_reports" = "Můžete se podívat na osobní zprávy o svých záznamech!";
+"got_it" = "Chápu!";
+
+//PremiumAccessView
+"premium_access" = "Prémiový Přístup";
+"get_started" = "Začněte!";
+"in_depth_analysis" = "Hloubková Analýza";
+"up_to_3_photos" = "Až 3 Fotografie";
+"daily_entries" = "Denní Záznamy";
+"express_your_mood" = "Vyjádřete Svou Náladu";
+"special_gift_awaits" = "Čeká na Vás Speciální Dárek";
+
+//DisconnectView
+"failed_to_connect" = "Nepodařilo se připojit k síti.";
+"try_again" = "Zkusit znovu";
+
+//ProblemView
+"something_went_wrong" = "Něco se pokazilo, ale my to zvládneme!";
+"services_maintenance" = "Naše služby procházejí údržbou. Zavřete a znovu otevřete aplikaci.";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "Zachyťte Každý Doušek\nPřihlaste se a Začněte Tvořit Vzpomínky";
+
+//PinContainerView
+"pin_code" = "PIN kód";
+"set_pin" = "Nastavit PIN";
+
+//NameTextFieldView
+"enter_your_name" = "Zadejte své jméno";
+
+//BirthdayButtonView
+"select_your_birthday" = "Vyberte své datum narození";
+
+//BirthdayDatePickerView
+"select_date" = "Vyberte datum";
+
+//ReminderTimePickerView
+"select_time" = "Vyberte čas";
+
+//MoodSelectorView
+"coffee_mood_today" = "V jaké kávové náladě jste dnes byli?";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "Kávové Chvíle";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "Typy Kávy";
+
+//NoteView
+"todays_brewed_thoughts" = "Dnešní Vylouhované Myšlenky";
+"write" = "Psát…";
+
+//PhotoView
+"coffee_moments_in_photos" = "Kávové Chvíle na Fotografiích";
+"camera" = "Fotoaparát";
+"album" = "Album";
+
+//PhotoSelectView
+"photo_options" = "Možnosti Fotografie";
+"select_from_album" = "Vybrat z Alba";
+"open_camera" = "Otevřít Fotoaparát";
+
+//StickerView
+"coffee_moments_in_stickers" = "Kávové Chvíle v Nálepky";
+"no_stickers_available" = "Žádné Nálepky K Dispozici";
+"no_stickers_message" = "Nemáte žádné nálepky k použití. Nejprve je prosím zakupte.";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "Koupit";
+
+//CalendarMiniView
+"which_day_record_for" = "Pro který den je tento záznam?";
+"cancel" = "Zrušit";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "Jejda, ten den ještě nepřišel!";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "Jaký byl váš den?";
+
+//YearMonthSegmentControl
+"entire_year" = "Celý Rok";
+"by_month" = "Po Měsících";
+
+//YearMonthPickerView
+"choose_month_and_year" = "Vyberte Měsíc a Rok";
+
+//CoffeeMoodFlowView
+"mood_flow" = "Tok Nálad";
+"start_mood_flow" = "Začněte tok nálad záznamem!";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "Hodnocení Kávového Nálady";
+"moods_logged" = "Zaznamenané Nálady";
+"coffee_logged" = "Zaznamenaná Káva";
+"start_logging_coffee_moods" = "Začněte zaznamenávat své kávové nálady!";
+
+//MoodStatusView
+"mood_statistics" = "Statistiky Nálady";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "Cesta Poháru";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "Rok Uplynul s Kávou";
+"look_back_on_2024" = "Pohlédněte zpět na svůj rok %d.";
+"go" = "Jít";
+
+//MomentStatusView
+"frequently_together" = "Často spolu";
+"moments_you_drank_coffee" = "Chvíle, kdy jsi pil kávu";
+"you_drank_coffee" = "Pil jsi kávu";
+"moments" = "Chvíle";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "Vaše Oblíbené Kávy";
+"the_coffee_you_enjoyed_the_most" = "Káva, Kterou Jste Nejvíce Užívali";
+"you_enjoyed_the_most" = "Nejvíce Vás Bavilo";
+"the_coffee" = "Káva";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "Káva pro Tvou Náladu";
+"your_favorite_in_this_mood" = "Tvé Oblíbené v Téhleté Náladě";
+"recorded_together_with" = "Zaznamenáno spolu s…";
+
+//SortByView
+"sort_by" = "Třídit Podle";
+"most_records" = "Nejvíce Záznamů";
+"least_records" = "Nejméně Záznamů";
+
+//PremiumAnalysisView
+"premium_analysis" = "Prémiová Analýza";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "Přihlaste se k odběru Premium\n pro zobrazení více analýz!";
+"premium_pass" = "Premium Pass";
+
+//ThemesView
+"special_theme" = "Speciální Téma";
+"classic_theme" = "Klasické Téma";
+
+//StoreStickerView
+"coffee_break_alone" = "Pauza na kávu o samotě, jiné jméno pro klid.";
+"warm_up_with_coffee" = "Zahřejte se kávou na čerstvém podzimním vzduchu.";
+"coffee_accompanying_you" = "Nechte kávu, aby vás doprovázela, když se ztratíte v stránkách.";
+"campfire_and_coffee" = "Dokonalá harmonie mezi táborákem a kávou.";
+"coffee_with_purring_companion" = "Užijte si šálek kávy se svým vrnícím společníkem.";
+"christmas_with_ginger_scented_coffee" = "Oslavte Vánoce s kávou vonící po zázvoru!";
+"coffee_leads" = "Káva vždy hraje hlavní roli!";
+"coffee_in_conversations" = "Nejteplejší rozhovory vždy doprovází káva.";
+"sip_of_coffee_inspiration" = "Doucuc kávy, špetka inspirace.";
+"coffee_and_dessert_harmony" = "Dokonalá harmonie mezi kávou a dezertem.";
+"balanced_coffee_break" = "Vyvážená pauza na kávu pro zdravý životní styl.";
+"walk_with_coffee" = "Procházka s věrným přítelem a šálkem kávy.";
+"deepen_feelings_with_coffee" = "Prohlubte své pocity se šálkem kávy.";
+"sweet_closeness_with_coffee" = "Sladká blízkost, která začíná kávou.";
+"coffee_complements_hobbies" = "Káva doplňuje vše, včetně vašich koníčků.";
+"peaceful_moments_with_coffee" = "Poklidné chvíle během dovolené s kávou.";
+"warm_and_deep_like_coffee" = "Teplá a hluboká, jako káva.";
+"serenity_with_coffee" = "Najděte klid s douškem kávy v tichu.";
+"little_break_with_coffee" = "Malá přestávka pro vás s kávou.";
+"first_light_and_coffee" = "První světlo rána a vůně kávy.";
+"make_night_beautiful_with_coffee" = "Uděláte noc krásnější s kávou.";
+"coffee_planning_day" = "Káva je vždy po vašem boku, když plánujete den.";
+"coffee_with_podcast" = "Teplý šálek kávy doprovází váš podcast.";
+"coffee_with_moments_together" = "Káva přidává chuť společně stráveným chvílím.";
+"coffee_between_classes" = "Kdo by odmítl šálek kávy mezi hodinami?";
+"coffee_is_self_love" = "Nejlepší způsob, jak ukázat lásku k sobě: šálek kávy.";
+"recharge_with_coffee" = "Dobijte energii kávou během nakupování.";
+"share_coffee_moments" = "Je to ideální chvíle pro sdílení svých kávových okamžiků!";
+"spring_freshness_and_coffee" = "Jarní čerstvost a teplo kávy.";
+"time_for_a_cup_of_coffee" = "Vždy je čas na šálek kávy.";
+"coffee_while_exploring" = "Káva je vždy se mnou, když objevuji nová místa.";
+"romantic_coffee_with_loved_one" = "Romantická káva sdílená s milovanou osobou.";
+"weather_and_coffee" = "Nezáleží na počasí, káva dělá všechno lepší.";
+"warm_touch_in_winter" = "Teplý dotek kávy v zimním chladu.";
+"power_of_coffee_at_work" = "Pociťte sílu kávy během pracovní přestávky.";
+"refresh_after_workout" = "Osvěžte se po tréninku šálkem kávy.";
+"balance_mind_body_with_coffee" = "Vyvážte svou mysl a tělo kávou.";
+
+//BeansView
+"premium_pass" = "Prémiový průkaz";
+"beans_180" = "180 Fazolí";
+"gifted_on_subscription" = "Dárek při předplatném";
+"learn_more" = "Zjistit více";
+"bonus_19_percent" = "19% bonus";
+"bonus_39_percent" = "39% bonus";
+"bonus_79_percent" = "79% bonus";
+
+//BuyView
+"buy_now" = "KOUPIT NYNÍ";
+"sticker_already_purchased" = "Samolepka již byla zakoupena.";
+"emotion_already_purchased" = "Emoce již byla zakoupena.";
+"not_enough_beans" = "Nemáte dostatek kávových zrn k provedení tohoto nákupu.";
+"successfully_purchased" = "bylo úspěšně zakoupeno.";
+
+//PremiumView
+"elevate_coffee_moments" = "Pozvedněte své chvíle s kávou";
+"upgrade_ultimate_experience" = "Vylepšete pro dokonalý zážitek!";
+
+//AccountView
+"account" = "Účet";
+"user_id" = "ID Uživatele:";
+
+//RecordsView
+"my_records" = "Moje záznamy";
+"recorded_days" = "Zaznamenané dny";
+"photos" = "Fotografie";
+"photo_gallery" = "Fotogalerie";
+
+//FeaturesView
+"features" = "Funkce";
+"widgets" = "Widgety";
+
+//ProfilePictureView
+"change_profile_picture" = "Změnit profilový obrázek";
+
+//ProfileNameChangeView
+"change_name" = "Změnit jméno";
+"done" = "Hotovo";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "Změnit datum narození";
+"cancel" = "Zrušit";
+"yes" = "Ano";
+
+//ProfileGenderChangeView
+"change_gender" = "Změnit pohlaví";
+"male" = "Muž";
+"female" = "Žena";
+"other" = "Jiné";
+"done" = "Hotovo";
+
+//ProfileFeedbackView
+"send_feedback" = "Odeslat zpětnou vazbu";
+"cancel" = "Zrušit";
+"send" = "Odeslat";
+
+//NotificationManager
+"morning_notification" = "Je vaše ranní káva připravena? Začněme zaznamenávat den!"; 
+"day_rhythm_notification" = "Jaký je rytmus vašeho dne? Co takhle pauza na kávu a zachycení okamžiku?"; 
+"record_reminder" = "Nezapomeňte si zaznamenat svůj den!";
+"week_checkin" = "Jak se vám daří tento týden? Nezapomeňte si dát pauzu na kávu!";
+"monday_greeting" = "Ahoj pondělí!☀️ Můžeš být k nám dnes laskavý? 🤞 Ale nejdřív... káva! ☕🫶"; 
+"weekend_reminder" = "Víkend je téměř tady! Co takhle naplánovat příjemný kávový moment? ☕🎉"; 
+"journal_update" = "Zcela nový vzhled vašeho deníku! Skvělé motivy a samolepky na vás čekají, začněte objevovat hned teď! ✨☕";
+"coffee_day" = "Mezinárodní den kávy";
+"coffee_day_celebration" = "Dnes je Mezinárodní den kávy! ☕🎉 Oslavte to se svou oblíbenou kávou a zachyťte tento okamžik.";
+"espresso_day" = "Den Espresso";
+"espresso_day_message" = "Dnes je Den Espresso! ⚡☕ Začněte svůj den s energií silného espressa.";
+"chocolate_day" = "Světový den čokolády";
+"chocolate_day_message" = "Dnes je Světový den čokolády! 🍫☕ Spojte svou kávu s kouskem čokolády pro sladkou pauzu.";
+"barista_day" = "Světový den baristů"; 
+"barista_day_message" = "Dnes je Světový den baristů! 🎨☕ Oslavte umění přípravy kávy a ciťte se jako barista.";
+"valentines_day" = "Den svatého Valentýna";
+"valentines_day_message" = "Dnes je Den svatého Valentýna! ❤️☕ Sdílejte svou kávu se svým milovaným a oslavte společně tento výjimečný den.";
+"friendship_day" = "Mezinárodní den přátelství";
+"friendship_day_message" = "Dnes je Mezinárodní den přátelství! 🤝☕ Vytvořte vzpomínky se svým nejlepším přítelem u šálku kávy.";
+"new_years_day" = "Nový rok"; 
+"new_years_day_message" = "Dnes je první den roku! 🎉☕ Vezměte si kávu a začněte snít o nových začátcích.";
+
+//PremiumVC
+"premium_pass" = "Prémiový pas";
+"free_3_days" = "Úplně zdarma na 3 dny!";
+"cancel_anytime" = "Zrušit kdykoliv.";
+"monthly_pass" = "Měsíční Pas";
+"annual_pass" = "Roční Pas"; 
+"free_for_3_days" = "Zdarma na 3 dny"; 
+"per_month" = "%@ /měsíc";
+"coffee_beans_gifted" = "*Na začátku zkušební verze zdarma je darováno 180 kávových zrn.";
+"terms_and_privacy" = "Podmínky služby a zásady ochrany osobních údajů";
+"terms_of_service" = "Podmínky služby"; 
+"privacy_policy" = "Zásady ochrany osobních údajů";
+"and" = "a";
+"begin_free_trial" = "Začněte bezplatnou zkušební verzi";
+"subscription_unavailable" = "Informace o předplatném nejsou v tuto chvíli k dispozici.";
+"apple_account_subscription" = "
+Váš účet Apple bude naúčtován. Měsíční (předplatné) průkaz stojí %@ a automaticky se obnovuje každý měsíc. Roční (předplatné) průkaz, účtovaný jako jednorázová platba, stojí %@ a automaticky se obnovuje každý rok. Předplatné bude automaticky obnoveno do 24 hodin před koncem aktuálního období. Předplatné můžete spravovat prostřednictvím nastavení účtu Apple.
+";
+"trial_info_unavailable" = "Informace o bezplatné zkušební verzi nejsou momentálně dostupné.";
+"trial_info_annual" = "%@ ročně po bezplatné zkušební verzi. Lze kdykoli zrušit.";
+"subscribe_premium_pass" = "Předplaťte si Premium Pass\na získejte přístup ke všem funkcím!";
+"become_premium_user" = "Staňte se prémiovým uživatelem";
+"monthly_trial_info" = "%@ měsíčně. Zrušit můžete kdykoli.";
+"completely_free_3_days" = "Úplně zdarma na 3 dny!";
+"begin_free_trial" = "Začněte bezplatnou zkušební verzi";
+"annual_trial_info" = "%@ ročně po bezplatné zkušební verzi. Zrušit můžete kdykoli.";
+"daily_streak_title" = "Denní Série";
+"daily_streak_label_zero" = "Nejdelší kávová série: 0 den";
+"daily_streak_message" = "Začněte svou denní sérii záznamem!";
+"daily_streak_label" = "Nejdelší kávová série: %d den(dnů)";
+
+//AchievementLockAnalysisVC
+"first_sip" = "První Doušek";
+"morning_brew" = "Ranní Káva";
+"sweet_moments" = "Sladké Chvíle";
+"favorite_coffee_quest" = "Hledání Oblíbené Kávy";
+"sweet_coffee_stop" = "Sladká Kávová Zastávka";
+"taste_of_repetition" = "Chuť Opakování";
+"motivation_filter" = "Filtr Motivace";
+"work_break_revitalizer" = "Osvěžovač Pauzy v Práci";
+"natures_brew" = "Nápoj Přírody";
+"inspiration_with_coffee" = "Inspirace s Kávou";
+"different_sips" = "Různé Doušky";
+"world_coffees" = "Kávy Světa";
+"gourmet_coffee_expert" = "Gurmánský Kávový Expert";
+"cold_enthusiast" = "Nadšenec Studených Nápojů";
+"night_owl" = "Noční Sova";
+"travelers_cup" = "Cestovní Hrnek";
+"coffee_classic" = "Klasická Káva";
+"white_coffee" = "Bílá Káva";
+"love_in_first_sip" = "Láska Na První Doušek";
+"romance_in_cup" = "Romantika v Šálku";
+"friends_sip" = "Doušek s Přáteli";
+"special_moments" = "Zvláštní Chvíle";
+"chat_in_cup" = "Rozhovor v Šálku";
+"coffee_journey" = "Cesta s Kávou";
+"explore_together" = "Objevujme Společně";
+"calm_sips" = "Klidné Doušky";
+"chat_tour" = "Tour Rozhovorů";
+"every_moment" = "Každý Okamžik";
+"first_sip_achievement" = "První krok na vaší kávové cestě! Zaznamenejte svůj první doušek, odemkněte tento speciální úspěch a otevřete dveře své vášni pro kávu. 🎈☕";
+"morning_brew_achievement" = "Odemkněte tento speciální úspěch tím, že ochutnáte 10 různých druhů kávy během svého ranního kávového momentu! Začátek dne nikdy nebyl příjemnější. ☀️☕";
+"flavor_harmony_achievement" = "Vyzkoušejte 5 různých druhů kávy ve Sweet Moments a odemkněte dosažení harmonie chutí! 🍩☕";
+"crown_favorite_coffee" = "Vyzkoušejte stejnou kávu 20krát a korunujte svůj oblíbený druh! ⭐☕";
+"delicious_achievement" = "Prozkoumejte 10 sladkých druhů kávy, jako je Mocha, Affogato a Irish Coffee, a odemkněte toto lahodné dosažení! ✨☕";
+"relive_coffee_achievement" = "Prožijte stejnou kávu a okamžik 5krát, abyste odemkli tento úspěch! ☕🌀";
+"work_break_energy" = "Zvyšte svou energii 20 pracovními přestávkami na kávu! ☕⚡";
+"work_break_ritual" = "Odemkněte tento úspěch s 5 pracovními přestávkami na kávu a začněte svůj rituál! ☕💼";
+"camp_coffee_achievement" = "Odemkněte toto dobrodružné ocenění s 5 táborovými kávami během jednoho měsíce! ☕🏕️";
+"inspiring_coffee_achievement" = "Odemkněte tento zámek s celkem 5 knihami nebo inspirativními kávami během měsíce! ☕📝";
+"flavor_map_achievement" = "Objevte mapu chutí se 7 různými kávami během 7 dní! 🌟☕";
+"cultural_flavors" = "Prozkoumejte svět kávy s kulturními chutěmi, jako je Turecká Káva, Vídeňská Káva a Café de Olla! ☕🌍";
+"exquisite_coffees" = "Vstupte do světa chutí se dvěma vynikajícími kávami, jako je Macchiato, Ristretto a Breve! 🧭☕";
+"cool_success" = "Dosáhněte chladného úspěchu s 20 studenými kávami, jako je Frappe, Cold Brew a Shakerato! ❄️☕";
+"spirit_of_night" = "Zůstaňte vzhůru 20 nocí s kávou a zachyťte ducha noci! 🌌☕";
+"taste_world" = "Ochutnejte svět s 10 různými druhy kávy během cestování, napište nový příběh s každým douškem! 🗺️☕";
+"crown_culture" = "Oslavte kulturu kávy s 20 klasickými příchutěmi, jako je Espresso, Americano a Turecká Káva! 🌰☕";
+"explore_smoothness" = "Prozkoumejte jemnost kávy vyzkoušením 20 mléčných káv, jako je Latte, Breve a Cappuccino! 🍶☕";
+"romantic_moment" = "Dokončete kouzlo romantické chvíle s vaší první kávou a oslavte tento zvláštní zážitek! ❤️☕";
+"crown_love_moments" = "Ozdobte své milostné okamžiky s 10 různými druhy kávy v romantické náladě! 💖☕";
+"first_coffee_friend" = "První káva s přítelem, první doušek vašeho příběhu přátelství! 🕊️☕";
+"friendship_love_moments" = "Vytvořte okamžiky přátelství nebo lásky s 20 kávami a dokončete tento speciální úspěch! 🎀☕";
+"deepen_conversations" = "Prohlubte své rozhovory nad kávou 5krát za měsíc a odemkněte tuto odměnu! ☕💬";
+"discover_all_coffee_types" = "Objevte všechny druhy kávy a staňte se legendou kávy! ☕🏆";
+"share_coffee_with_friends" = "Sdílejte 10 různých druhů kávy se svými přáteli, nechte přátelství spojit s kávou! 🤗☕";
+"discover_worlds_with_coffee" = "Objevte nové světy s 10 druhy kávy během čtení nebo kempování! 📚🌄☕";
+"enhance_conversations_with_coffee" = "Zlepšete své rozhovory díky 20 různým druhům kávy během chatu! 💭☕";
+"experience_all_coffee_moments" = "Zažijte všechny kávové okamžiky a dosáhněte vrcholu své kávové cesty! 🎉☕";
+"journey_of_the_cup" = "Cesta Poháru";

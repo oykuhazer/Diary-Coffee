@@ -1,0 +1,524 @@
+/* 
+  Localizable(Dutch).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 18.01.2025.
+  
+*/
+
+//DiaryEntryVC
+"daily_max_limit" = "U heeft de dagelijkse limiet bereikt.";
+"record_mood" = "Houd uw stemming bij.";
+"record_coffee_moment" = "Registreer het type koffiemoment.";
+"record_coffee_type" = "Registreer het type koffie.";
+"unsaved_changes" = "Wijzigingen zijn niet opgeslagen.";
+"confirm_exit" = "Weet u zeker dat u wilt afsluiten?";
+"exit" = "Afsluiten";
+
+//CalendarVC
+"delete_entry" = "Invoer verwijderen?";
+"confirm_delete_entry" = "Weet u zeker dat u deze invoer wilt verwijderen?";
+"day_recorded" = "Dag geregistreerd!";
+
+//AnalysisVC
+"report" = "Verslag";
+
+//AnalysisDetailVC
+"frequently_recorded" = "Vaak geregistreerd";
+"most_records" = "Meeste records";
+"least_records" = "Minste records";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "Een jaar met koffie";
+
+//ProfileVC
+"my_info" = "Mijn informatie";
+
+//ProfileDetailVC
+"account" = "Account";
+"not_set" = "Niet ingesteld";
+"change_name" = "Naam wijzigen";
+"info_updated" = "Je informatie is succesvol bijgewerkt!";
+"change_birthday" = "Verander verjaardag";
+"change_gender" = "Geslacht wijzigen";
+"profile_photo_updated" = "Profielfoto succesvol bijgewerkt!";
+
+//PhotoGalleryVC
+"photo_gallery" = "Fotogalerij";
+"no_photos" = "Nog geen foto's opgenomen.";
+
+//SettingsVC
+"settings" = "Instellingen";
+"records_deleted" = "Uw gegevens zijn verwijderd!";
+"pin_all_set" = "PIN ingesteld!";
+"customization" = "Aanpassing";
+"change_pin" = "PIN wijzigen";
+"notifications" = "Meldingen";
+"language" = "Taal";
+"haptics" = "Haptiek";
+"send_feedback" = "Feedback verzenden";
+"system" = "Systeem";
+"service_center" = "Servicecentrum";
+"write_review" = "Een beoordeling schrijven";
+"app_version" = "App-versie";
+"data" = "Gegevens";
+"delete_data" = "Mijn gegevens verwijderen";
+"pin_lock" = "PIN-vergrendeling";
+"password_warning" = "Het wachtwoord kan niet worden hersteld als het vergeten is.";
+"info_updated_settings" = "Uw gegevens zijn succesvol bijgewerkt! Start de applicatie opnieuw.";
+
+//LanguageVC
+"select_language" = "Selecteer taal";
+"done" = "Klaar";
+
+//ProfileNotificationVC
+"notifications" = "Meldingen";
+"record_notification" = "Opname melding";
+"get_daily_reminders" = "Dagelijkse herinneringen ontvangen";
+"remind_me_at" = "Herinner me om";
+"smart_scheduling_reminder" = "Slimme planning herinnering";
+"fortune_cookie_notification" = "Gelukskoekje melding";
+"info_updated" = "Uw informatie is succesvol bijgewerkt!";
+
+//DeleteDataVC
+"delete_my_data" = "Verwijder mijn gegevens";
+"my_records" = "Mijn records";
+"delete_all_records" = "Verwijder alle records";
+"account" = "Account";
+"delete_my_account" = "Verwijder mijn account";
+"delete_my_data_description" = "Alles wat je ooit hebt vastgelegd - al je notities, foto's, pictogrammen en meer - wordt verwijderd. Je aankopen en opname-instellingen blijven behouden. Ga voorzichtig te werk, want dit kan niet ongedaan worden gemaakt.";
+"delete_my_account_description" = "Als je je account verwijdert, worden al je records (notities, foto's, pictogrammen, enz.), aankopen (thema's, bonen, enz.) en gegevens ook gewist. Ga voorzichtig te werk, want dit kan niet ongedaan worden gemaakt.";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "Verwijder alle records";
+"are_you_sure" = "Weet je het zeker?";
+"delete_all_records_description" = "Alles wat je ooit hebt vastgelegd - al je notities, foto's, pictogrammen en meer - wordt verwijderd. Je aankopen en opname-instellingen blijven behouden. Ga voorzichtig te werk, want dit kan niet ongedaan worden gemaakt.";
+"read_and_agree" = "Ik heb de voorzorgsmaatregelen gelezen en ga akkoord om door te gaan.";
+"cancel" = "Annuleren";
+
+//DeleteMyAccountVC
+"delete_my_account" = "Verwijder mijn account";
+"are_you_sure" = "Weet je het zeker?";
+"delete_my_account_description" = "Als je je account verwijdert, worden al je records (notities, foto's, pictogrammen, enz.), aankopen (thema's, klavers, enz.) en gegevens ook gewist. Ga voorzichtig te werk, want dit kan niet ongedaan worden gemaakt.";
+"read_and_agree" = "Ik heb de voorzorgsmaatregelen gelezen en ga akkoord om door te gaan.";
+
+//WidgetsVC
+"apply" = "Toepassen";
+"widgets" = "Widgets";
+"widget_changed_successfully" = "Widget succesvol gewijzigd!";
+
+//StoreVC
+"themes" = "Thema's";
+"stickers" = "Stickers";
+"beans" = "Bonen";
+"store" = "Winkel";
+"payment_success" = "Uw betaling is succesvol verwerkt!";
+"payment_failed" = "Betaling mislukt. Probeer het alstublieft opnieuw.";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "Diepgaande analyse";
+"in_depth_analysis_desc" = "Ontdek verborgen patronen in je dagelijkse routine.";
+"up_to_3_photos" = "Tot 3 foto's";
+"up_to_3_photos_desc" = "Leg meer momenten van je dag vast.";
+"daily_entries" = "Dagelijkse invoer";
+"daily_entries_desc" = "Upgrade om maximaal 3 momenten per dag vast te leggen.";
+"express_your_mood" = "Druk je stemming uit";
+"express_your_mood_desc" = "Ontgrendel de volledige collectie voor meer variatie.";
+"special_gift" = "Een speciaal cadeau wacht op je";
+"special_gift_desc" = "180 koffiebonen voor nieuwe abonnees.";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "Voor liefhebbers van klassieke kopjes";
+
+//PrimeEmotionSetCell
+"natures_joy" = "De vreugde van de natuur, kwispelende staarten overal.";
+"golden_leaves" = "Gouden bladeren, frisse lucht en gelukzaligheid.";
+"camping" = "Sterren boven, vuur beneden.";
+"warm_lights" = "Warme lichten, gekoesterde gezellige momenten.";
+"spooky_thrills" = "Spannende griezelmomenten, zoete verlichte nachten.";
+"sweet_bites" = "Zoete hapjes, onvergetelijke gelukkige momenten.";
+"laughter_louder" = "Luider gelach met hartenverbindingen.";
+"heartbeats_shared" = "Gedeelde hartslagen, alles voelt helderder.";
+"stars_whisper" = "Sterren fluisteren, maanlichtgeheimen worden onthuld.";
+"dancing_nights" = "Dansnachten, eindeloze vrolijke ritmes.";
+"time_fades" = "De tijd vervaagt, creativiteit blijft leven.";
+"learning_laughter" = "Leren, lachen, af en toe gekreukeld papier.";
+"colors_bloom" = "Kleuren bloeien, zonnige hoop stijgt.";
+"cozy_warmth" = "Gezellige warmte onder sneeuwdekens.";
+"golden_rays" = "Gouden stralen, zonsondergangen vieren het leven.";
+"dreams_realized" = "Dromen verwezenlijkt, gefocuste momenten gedijen.";
+
+//MainAlertView
+"cancel" = "Annuleren";
+"delete" = "Verwijderen";
+"exit" = "Afsluiten";
+
+//PointView
+"enjoying_diary_coffee" = "Geniet je van Dagboek Koffie?";
+"no" = "Nee";
+"yes" = "Ja";
+
+//CreateAccountView
+"create_an_account" = "Maak een account aan";
+"log_in_save_records" = "Log in en sla al je gegevens op je eigen account op!";
+"later" = "Later";
+"create" = "Aanmaken";
+
+//FirstRecordView
+"congratulations" = "Gefeliciteerd";
+"first_coffee_recorded" = "Eerste koffie geregistreerd!";
+"next" = "Volgende";
+"look_a_bit_deeper" = "Kijk iets dieper";
+"personal_reports" = "Je kunt persoonlijke rapporten over je gegevens bekijken!";
+"got_it" = "Begrepen!";
+
+//PremiumAccessView
+"premium_access" = "Premium Toegang";
+"get_started" = "Begin Nu!";
+"in_depth_analysis" = "Diepgaande Analyse";
+"up_to_3_photos" = "Tot 3 Foto's";
+"daily_entries" = "Dagelijkse Invoer";
+"express_your_mood" = "Druk je Stemming uit";
+"special_gift_awaits" = "Een Speciaal Cadeau Wacht Op Jou";
+
+//DisconnectView
+"failed_to_connect" = "Kon geen verbinding maken met het netwerk.";
+"try_again" = "Probeer opnieuw";
+
+//ProblemView
+"something_went_wrong" = "Er ging iets mis, maar we lossen het op!";
+"services_maintenance" = "Onze diensten worden onderhouden. Sluit en heropen de applicatie.";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "Leg Elke Slok Vast\nLog in en Begin Herinneringen te Creëren";
+
+//PinContainerView
+"pin_code" = "PIN-code";
+"set_pin" = "PIN Instellen";
+
+//NameTextFieldView
+"enter_your_name" = "Voer je naam in";
+
+//BirthdayButtonView
+"select_your_birthday" = "Selecteer je geboortedatum";
+
+//BirthdayDatePickerView
+"select_date" = "Selecteer datum";
+
+//ReminderTimePickerView
+"select_time" = "Selecteer tijd";
+
+//MoodSelectorView
+"coffee_mood_today" = "In welke koffiestemming was je vandaag?";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "Koffiemomenten";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "Koffiesoorten";
+
+//NoteView
+"todays_brewed_thoughts" = "Vandaag Gebrouwen Gedachten";
+"write" = "Schrijf…";
+
+//PhotoView
+"coffee_moments_in_photos" = "Koffiemomenten in Foto's";
+"camera" = "Camera";
+"album" = "Album";
+
+//PhotoSelectView
+"photo_options" = "Foto-opties";
+"select_from_album" = "Selecteer uit Album";
+"open_camera" = "Open Camera";
+
+//StickerView
+"coffee_moments_in_stickers" = "Koffiemomenten in Stickers";
+"no_stickers_available" = "Geen Stickers Beschikbaar";
+"no_stickers_message" = "Je hebt geen stickers om te gebruiken. Koop ze alstublieft eerst.";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "Aankoop";
+
+//CalendarMiniView
+"which_day_record_for" = "Voor welke dag is deze registratie?";
+"cancel" = "Annuleren";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "Oeps, die dag moet nog komen!";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "Hoe was je dag?";
+
+//YearMonthSegmentControl
+"entire_year" = "Geheel Jaar";
+"by_month" = "Per Maand";
+
+//YearMonthPickerView
+"choose_month_and_year" = "Kies Maand en Jaar";
+
+//CoffeeMoodFlowView
+"mood_flow" = "Stemmingsstroom";
+"start_mood_flow" = "Begin je stemmingsstroom met een invoer!";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "Koffiemood Score";
+"moods_logged" = "Geregistreerde Stemmingen";
+"coffee_logged" = "Geregistreerde Koffie";
+"start_logging_coffee_moods" = "Begin je koffiemood te registreren!";
+
+//MoodStatusView
+"mood_statistics" = "Stemmingsstatistieken";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "Reis van de Kop";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "Een Jaar Gegaan met Koffie";
+"look_back_on_2024" = "Kijk terug op je %d.";
+"go" = "Ga";
+
+//MomentStatusView
+"frequently_together" = "Vaak samen";
+"moments_you_drank_coffee" = "Momenten waarop je koffie hebt gedronken";
+"you_drank_coffee" = "Je hebt koffie gedronken";
+"moments" = "Momenten";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "Jouw Favoriete Koffies";
+"the_coffee_you_enjoyed_the_most" = "De Koffie Die Je Het Meest Genoten Hebt";
+"you_enjoyed_the_most" = "Je Genoot Het Meest";
+"the_coffee" = "De Koffie";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "Koffie voor Je Stemming";
+"your_favorite_in_this_mood" = "Je Favoriet in Deze Stemming";
+"recorded_together_with" = "Opgenomen samen met…";
+
+//SortByView
+"sort_by" = "Sorteren Op";
+"most_records" = "Meeste Records";
+"least_records" = "Minste Records";
+
+//PremiumAnalysisView
+"premium_analysis" = "Premium Analyse";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "Abonneer op Premium\n om meer analyses te zien!";
+"premium_pass" = "Premium Pas";
+
+//ThemesView
+"special_theme" = "Speciale Thema";
+"classic_theme" = "Klassiek Thema";
+
+//StoreStickerView
+"coffee_break_alone" = "Een koffiepauze alleen, de andere naam voor rust.";
+"warm_up_with_coffee" = "Warm op met koffie in de frisse herfstlucht.";
+"coffee_accompanying_you" = "Laat koffie je vergezellen terwijl je verdwaalt in de pagina's.";
+"campfire_and_coffee" = "De perfecte harmonie van een kampvuur en koffie.";
+"coffee_with_purring_companion" = "Geniet van een kopje koffie met je spinnende metgezel.";
+"christmas_with_ginger_scented_coffee" = "Vier Kerstmis met koffie met een vleugje gember!";
+"coffee_leads" = "Koffie speelt altijd de hoofdrol!";
+"coffee_in_conversations" = "De warmste gesprekken worden begeleid door koffie.";
+"sip_of_coffee_inspiration" = "Een slokje koffie, een vleugje inspiratie.";
+"coffee_and_dessert_harmony" = "De perfecte harmonie tussen koffie en dessert.";
+"balanced_coffee_break" = "Een gebalanceerde koffiepauze voor een gezonde levensstijl.";
+"walk_with_coffee" = "Een wandeling met je trouwe vriend en een kopje koffie.";
+"deepen_feelings_with_coffee" = "Verdiep je gevoelens met een kopje koffie.";
+"sweet_closeness_with_coffee" = "Een zoete nabijheid die begint met koffie.";
+"coffee_complements_hobbies" = "Koffie maakt alles compleet, ook je hobby's.";
+"peaceful_moments_with_coffee" = "Rustige momenten tijdens vakanties met koffie.";
+"warm_and_deep_like_coffee" = "Warm en diep, net als koffie.";
+"serenity_with_coffee" = "Vind rust met een slokje koffie in stilte.";
+"little_break_with_coffee" = "Een klein pauzemomentje voor jezelf met koffie.";
+"first_light_and_coffee" = "Het eerste licht van de ochtend en de geur van koffie.";
+"make_night_beautiful_with_coffee" = "Maak de nacht mooier met koffie.";
+"coffee_planning_day" = "Koffie is altijd aan je zijde terwijl je je dag plant.";
+"coffee_with_podcast" = "Een warme kop koffie begeleidt je podcast.";
+"coffee_with_moments_together" = "Koffie geeft smaak aan momenten samen.";
+"coffee_between_classes" = "Wie kan nee zeggen tegen een kopje koffie tussen de lessen door?";
+"coffee_is_self_love" = "De beste manier om jezelf liefde te tonen: een kop koffie.";
+"recharge_with_coffee" = "Herlaad jezelf met koffie tijdens het winkelen.";
+"share_coffee_moments" = "Het is de perfecte tijd om je koffiemomenten te delen!";
+"spring_freshness_and_coffee" = "De frisheid van de lente en de warmte van koffie.";
+"time_for_a_cup_of_coffee" = "Er is altijd tijd voor een kop koffie.";
+"coffee_while_exploring" = "Koffie is altijd bij me terwijl ik nieuwe plaatsen verken.";
+"romantic_coffee_with_loved_one" = "Een romantische kop koffie gedeeld met je geliefde.";
+"weather_and_coffee" = "Wat voor weer het ook is, koffie maakt alles beter.";
+"warm_touch_in_winter" = "De warme aanraking van koffie in de winterkou.";
+"power_of_coffee_at_work" = "Voel de kracht van koffie tijdens werkpauzes.";
+"refresh_after_workout" = "Verfris jezelf na een workout met een kopje koffie.";
+"balance_mind_body_with_coffee" = "Balans in geest en lichaam met koffie.";
+
+//BeansView
+"premium_pass" = "Premium Pas";
+"beans_180" = "180 Bonen";
+"gifted_on_subscription" = "Cadeau bij abonnement";
+"learn_more" = "Meer informatie";
+"bonus_19_percent" = "19% bonus";
+"bonus_39_percent" = "39% bonus";
+"bonus_79_percent" = "79% bonus";
+
+//BuyView
+"buy_now" = "NU KOPEN";
+"sticker_already_purchased" = "Sticker is al gekocht.";
+"emotion_already_purchased" = "Emotie is al gekocht.";
+"not_enough_beans" = "Je hebt niet genoeg koffiebonen om deze aankoop te doen.";
+"successfully_purchased" = "is succesvol gekocht.";
+
+//PremiumView
+"elevate_coffee_moments" = "Verhoog je koffiemomenten";
+"upgrade_ultimate_experience" = "Upgrade voor de ultieme ervaring!";
+
+//AccountView
+"account" = "Account";
+"user_id" = "Gebruikers-ID:";
+
+//RecordsView
+"my_records" = "Mijn records";
+"recorded_days" = "Opgenomen dagen";
+"photos" = "Foto's";
+"photo_gallery" = "Fotogalerij";
+
+//FeaturesView
+"features" = "Functies";
+"widgets" = "Widgets";
+
+//ProfilePictureView
+"change_profile_picture" = "Profielfoto wijzigen";
+
+//ProfileNameChangeView
+"change_name" = "Naam wijzigen";
+"done" = "Klaar";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "Verjaardag wijzigen";
+"cancel" = "Annuleren";
+"yes" = "Ja";
+
+//ProfileGenderChangeView
+"change_gender" = "Geslacht wijzigen";
+"male" = "Man";
+"female" = "Vrouw";
+"other" = "Anders";
+"done" = "Klaar";
+
+//ProfileFeedbackView
+"send_feedback" = "Feedback verzenden";
+"cancel" = "Annuleren";
+"send" = "Verzenden";
+
+//NotificationManager
+"morning_notification" = "Is je ochtendkoffie klaar? Laten we de dag vastleggen!";
+"day_rhythm_notification" = "Hoe verloopt het ritme van je dag? Zin in een koffiepauze en het moment vastleggen?"; 
+"record_reminder" = "Vergeet niet je dag vast te leggen!";
+"week_checkin" = "Hoe gaat jouw week? Vergeet niet een koffiepauze te nemen!"; 
+"monday_greeting" = "Hallo maandag!☀️ Kun je vandaag aardig voor ons zijn? 🤞 Maar eerst... koffie! ☕🫶";
+"weekend_reminder" = "Het weekend is bijna hier! Wat dacht je van een gezellig koffiemoment plannen? ☕🎉";
+"journal_update" = "Een gloednieuwe look voor je dagboek! Coole thema's en stickers wachten op je, begin nu met ontdekken! ✨☕";
+"coffee_day" = "Internationale Koffiedag";
+"coffee_day_celebration" = "Vandaag is het Internationale Koffiedag! ☕🎉 Vier het met je favoriete koffie en leg het moment vast.";
+"espresso_day" = "Espresso Dag";
+"espresso_day_message" = "Vandaag is het Espresso Dag! ⚡☕ Begin je dag met de energie van een sterke espresso.";
+"chocolate_day" = "Wereld Chocolade Dag"; 
+"chocolate_day_message" = "Vandaag is het Wereld Chocolade Dag! 🍫☕ Combineer je koffie met een stukje chocolade voor een zoete pauze.";
+"barista_day" = "Wereld Barista Dag";
+"barista_day_message" = "Vandaag is het Wereld Barista Dag! 🎨☕ Vier de kunst van het koffiezetten en voel je als een barista.";
+"valentines_day" = "Valentijnsdag";
+"valentines_day_message" = "Vandaag is het Valentijnsdag! ❤️☕ Deel je koffie met je geliefde en vier deze speciale dag samen.";
+"friendship_day" = "Internationale Vriendschapsdag";
+"friendship_day_message" = "Vandaag is het Internationale Vriendschapsdag! 🤝☕ Creëer herinneringen met je beste vriend met een kop koffie.";
+"new_years_day" = "Nieuwjaarsdag"; 
+"new_years_day_message" = "Vandaag is de eerste dag van het jaar! 🎉☕ Pak je koffie en begin te dromen over nieuwe beginnen.";
+
+//PremiumVC
+"premium_pass" = "Premium Pas";
+"free_3_days" = "Volledig gratis gedurende 3 dagen!";
+"cancel_anytime" = "Annuleer op elk moment."; 
+"monthly_pass" = "Maandelijkse Pas";
+"annual_pass" = "Jaarlijkse Pas"; 
+"free_for_3_days" = "Gratis voor 3 dagen";
+"per_month" = "%@ /maand";
+"coffee_beans_gifted" = "*De 180 koffiebonen worden aan het begin van de gratis proefperiode geschonken.";
+"terms_and_privacy" = "Gebruiksvoorwaarden en privacybeleid";
+"terms_of_service" = "Gebruiksvoorwaarden"; 
+"privacy_policy" = "Privacybeleid"; 
+"and" = "en"; 
+"begin_free_trial" = "Begin Gratis Proefversie"; 
+"subscription_unavailable" = "Informatie over abonnementen is momenteel niet beschikbaar.";
+"apple_account_subscription" = "
+Uw Apple-account wordt belast. De maandelijkse (abonnement) pas kost %@ en wordt automatisch elke maand verlengd. De jaarlijkse (abonnement) pas, in één keer vooraf betaald, kost %@ en wordt automatisch elk jaar verlengd. Het abonnement wordt automatisch verlengd binnen 24 uur voordat de huidige periode eindigt. U kunt uw abonnement beheren via de Apple-accountinstellingen.
+";
+"trial_info_unavailable" = "Proefperiode-informatie is momenteel niet beschikbaar.";
+"trial_info_annual" = "%@ per jaar na de gratis proefperiode. Annuleer op elk moment.";
+"subscribe_premium_pass" = "Subskrybuj Premium Pass\naby uzyskać dostęp do wszystkich funkcji!";
+"become_premium_user" = "Zostań użytkownikiem Premium";
+"monthly_trial_info" = "%@ miesięcznie. Możesz anulować w każdej chwili.";
+"completely_free_3_days" = "Całkowicie za darmo przez 3 dni!";
+"begin_free_trial" = "Rozpocznij darmowy okres próbny";
+"annual_trial_info" = "%@ rocznie po darmowym okresie próbnym. Możesz anulować w każdej chwili.";
+"daily_streak_title" = "Dagelijkse Reeks";
+"daily_streak_label_zero" = "De langste koffiereeks: 0 dag";
+"daily_streak_message" = "Begin je dagelijkse reeks met een invoer!";
+"daily_streak_label" = "De langste koffiereeks: %d dag(en)";
+
+//AchievementLockAnalysisVC
+"first_sip" = "Eerste Slok";
+"morning_brew" = "Ochtendkoffie";
+"sweet_moments" = "Zoete Momenten";
+"favorite_coffee_quest" = "Zoektocht naar Favoriete Koffie";
+"sweet_coffee_stop" = "Zoete Koffiestop";
+"taste_of_repetition" = "De Smaak van Herhaling";
+"motivation_filter" = "Motivatiefilter";
+"work_break_revitalizer" = "Verkwikker voor Werkpauze";
+"natures_brew" = "Natuurlijke Infusie";
+"inspiration_with_coffee" = "Inspiratie met Koffie";
+"different_sips" = "Verschillende Slokken";
+"world_coffees" = "Wereldkoffies";
+"gourmet_coffee_expert" = "Gourmet Koffie-expert";
+"cold_enthusiast" = "Liefhebber van Koude Dranken";
+"night_owl" = "Nachtuil";
+"travelers_cup" = "Reiziger's Beker";
+"coffee_classic" = "Koffie Klassiek";
+"white_coffee" = "Witte Koffie";
+"love_in_first_sip" = "Liefde bij de Eerste Slok";
+"romance_in_cup" = "Romantiek in de Beker";
+"friends_sip" = "Slok met Vrienden";
+"special_moments" = "Speciale Momenten";
+"chat_in_cup" = "Gesprek in de Beker";
+"coffee_journey" = "Koffiereis";
+"explore_together" = "Samen Ontdekken";
+"calm_sips" = "Rustige Slokken";
+"chat_tour" = "Gesprekstocht";
+"every_moment" = "Elk Moment";
+"first_sip_achievement" = "De eerste stap van je koffieavontuur! Registreer je eerste slok, ontgrendel deze speciale prestatie en open de deuren naar je koffieliefde. 🎈☕";
+"morning_brew_achievement" = "Ontgrendel deze speciale prestatie door 10 verschillende soorten koffie te ervaren tijdens je ochtendkoffiemoment! De dag beginnen was nog nooit zo plezierig. ☀️☕";
+"flavor_harmony_achievement" = "Probeer 5 verschillende koffiesoorten in Sweet Moments om de smaakharmonieprestatie te ontgrendelen! 🍩☕";
+"crown_favorite_coffee" = "Probeer dezelfde koffie 20 keer om je favoriet te kronen! ⭐☕";
+"delicious_achievement" = "Ontdek 10 zoete koffiesoorten zoals Mocha, Affogato en Irish Coffee en ontgrendel deze heerlijke prestatie! ✨☕";
+"relive_coffee_achievement" = "Beleef dezelfde koffie en moment 5 keer om de prestatie te ontgrendelen! ☕🌀";
+"work_break_energy" = "Kroon je energie met 20 koffies tijdens werkpauzes! ☕⚡";
+"work_break_ritual" = "Ontgrendel deze prestatie met 5 koffies tijdens werkpauzes en begin je ritueel! ☕💼";
+"camp_coffee_achievement" = "Ontgrendel deze avonturenprestatie met 5 kampkoffies in één maand! ☕🏕️";
+"inspiring_coffee_achievement" = "Ontgrendel dit slot met in totaal 5 boeken of inspirerende koffies gedurende de maand! ☕📝";
+"flavor_map_achievement" = "Ontdek de smaakkaart met 7 verschillende koffies in 7 dagen! 🌟☕";
+"cultural_flavors" = "Ontdek de wereld van koffie met culturele smaken zoals Turkse Koffie, Weense Koffie en Café de Olla! ☕🌍";
+"exquisite_coffees" = "Betreed de wereld van smaak met twee verfijnde koffies zoals Macchiato, Ristretto en Breve! 🧭☕";
+"cool_success" = "Behaal een coole prestatie met 20 koude koffies zoals Frappe, Cold Brew en Shakerato! ❄️☕";
+"spirit_of_night" = "Blijf 20 nachten wakker met koffie en vang de geest van de nacht! 🌌☕";
+"taste_world" = "Proef de wereld met 10 verschillende soorten koffie tijdens het reizen, schrijf een nieuw verhaal bij elke slok! 🗺️☕";
+"crown_culture" = "Kroonde de koffiecultuur met 20 klassieke smaken zoals Espresso, Americano en Turkse Koffie! 🌰☕";
+"explore_smoothness" = "Ontdek de zachtheid van koffie door 20 melkachtige koffies zoals Latte, Breve en Cappuccino te proberen! 🍶☕";
+"romantic_moment" = "Voltooi de magie in een romantisch moment met je eerste koffie en vier deze speciale ervaring! ❤️☕";
+"crown_love_moments" = "Bekroon je liefdevolle momenten met 10 verschillende koffiesoorten in een romantische sfeer! 💖☕";
+"first_coffee_friend" = "De eerste koffie met een vriend, de eerste slok van je vriendschapsverhaal! 🕊️☕";
+"friendship_love_moments" = "Creëer momenten van vriendschap of liefde met 20 koffies en voltooi deze speciale prestatie! 🎀☕";
+"deepen_conversations" = "Verdiep je gesprekken met koffie 5 keer per maand en ontgrendel deze beloning! ☕💬";
+"discover_all_coffee_types" = "Ontdek alle soorten koffie en word een koffielegende! ☕🏆";
+"share_coffee_with_friends" = "Deel 10 verschillende koffies met je vrienden en laat vriendschap mengen met koffie! 🤗☕";
+"discover_worlds_with_coffee" = "Ontdek nieuwe werelden met 10 koffies tijdens lezen of kamperen! 📚🌄☕";
+"enhance_conversations_with_coffee" = "Verhoog je gesprekken met 20 verschillende koffies tijdens chats! 💭☕";
+"experience_all_coffee_moments" = "Beleef alle koffiemomenten en bereik het hoogtepunt van je koffieavontuur! 🎉☕";
+"journey_of_the_cup" = "Reis van de Beker";

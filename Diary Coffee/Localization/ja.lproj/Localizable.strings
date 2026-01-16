@@ -1,0 +1,526 @@
+/* 
+  Localizable(Japanese).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 18.01.2025.
+  
+*/
+
+//DiaryEntryVC
+"daily_max_limit" = "1日の最大制限に達しました。";
+"record_mood" = "気分を記録してください。";
+"record_coffee_moment" = "コーヒーの瞬間タイプを記録してください。";
+"record_coffee_type" = "コーヒーの種類を記録してください。";
+"unsaved_changes" = "変更が保存されていません。";
+"confirm_exit" = "終了してもよろしいですか？";
+"exit" = "終了";
+
+//CalendarVC
+"delete_entry" = "エントリを削除しますか？";
+"confirm_delete_entry" = "このエントリを削除してもよろしいですか？";
+"day_recorded" = "記録された日！";
+
+//AnalysisVC
+"report" = "報告";
+
+//AnalysisDetailVC
+"frequently_recorded" = "頻繁に記録された";
+"most_records" = "最多記録";
+"least_records" = "最少記録";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "コーヒーと過ごした一年";
+
+//ProfileVC
+"my_info" = "私の情報";
+
+//ProfileDetailVC
+"account" = "アカウント";
+"not_set" = "未設定";
+"change_name" = "名前を変更";
+"info_updated" = "情報が正常に更新されました！";
+"change_birthday" = "誕生日を変更";
+"change_gender" = "性別を変更";
+"profile_photo_updated" = "プロフィール写真が正常に更新されました！";
+
+//PhotoGalleryVC
+"photo_gallery" = "フォトギャラリー";
+"no_photos" = "まだ写真が記録されていません。";
+
+//SettingsVC
+"settings" = "設定";
+"records_deleted" = "記録が削除されました！";
+"pin_all_set" = "PIN が設定されました！";
+"customization" = "カスタマイズ";
+"change_pin" = "PIN を変更";
+"notifications" = "通知";
+"language" = "言語";
+"haptics" = "触覚フィードバック";
+"send_feedback" = "フィードバックを送信";
+"system" = "システム";
+"service_center" = "サービスセンター";
+"write_review" = "レビューを書く";
+"app_version" = "アプリバージョン";
+"data" = "データ";
+"delete_data" = "データを削除する";
+"pin_lock" = "PIN ロック";
+"password_warning" = "パスワードは忘れると回復できません。";
+"info_updated_settings" = "情報が正常に更新されました！アプリケーションを再起動してください";
+
+//LanguageVC
+"select_language" = "言語を選択";
+"done" = "完了";
+
+//ProfileNotificationVC
+"notifications" = "通知";
+"record_notification" = "記録通知";
+"get_daily_reminders" = "毎日のリマインダーを受け取る";
+"remind_me_at" = "リマインダーの時間";
+"smart_scheduling_reminder" = "スマートスケジューリングリマインダー";
+"fortune_cookie_notification" = "フォーチュンクッキー通知";
+"info_updated" = "情報が正常に更新されました！";
+
+//DeleteDataVC
+"delete_my_data" = "データを削除";
+"my_records" = "私の記録";
+"delete_all_records" = "すべての記録を削除";
+"account" = "アカウント";
+"delete_my_account" = "アカウントを削除";
+"delete_my_data_description" = "記録したすべてのデータ - ノート、写真、アイコンなど - が削除されます。購入内容や記録設定は保持されます。慎重に進めてください。この操作は元に戻せません。";
+"delete_my_account_description" = "アカウントを削除すると、記録（ノート、写真、アイコンなど）、購入内容（テーマ、豆など）、データがすべて消去されます。慎重に進めてください。この操作は元に戻せません。";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "すべての記録を削除";
+"are_you_sure" = "本当に削除しますか？";
+"delete_all_records_description" = "記録したすべてのデータ - ノート、写真、アイコンなど - が削除されます。購入内容や記録設定は保持されます。慎重に進めてください。この操作は元に戻せません。";
+"read_and_agree" = "注意事項を読み、進めることに同意します。";
+"cancel" = "キャンセル";
+
+//DeleteMyAccountVC
+"delete_my_account" = "アカウントを削除";
+"are_you_sure" = "本当に削除しますか？";
+"delete_my_account_description" = "アカウントを削除すると、記録（ノート、写真、アイコンなど）、購入内容（テーマ、クローバーなど）、およびデータがすべて消去されます。慎重に進めてください。この操作は元に戻せません。";
+"read_and_agree" = "注意事項を読み、進めることに同意します。";
+
+//WidgetsVC
+"apply" = "適用";
+"widgets" = "ウィジェット";
+"widget_changed_successfully" = "ウィジェットが正常に変更されました！";
+
+//StoreVC
+"themes" = "テーマ";
+"stickers" = "ステッカー";
+"beans" = "豆";
+"store" = "ストア";
+"payment_success" = "お支払いが正常に処理されました！";
+"payment_failed" = "支払いに失敗しました。再試行してください。";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "詳細な分析";
+"in_depth_analysis_desc" = "日常の隠れたパターンを発見しましょう。";
+"up_to_3_photos" = "最大3枚の写真";
+"up_to_3_photos_desc" = "1日の瞬間をもっと記録しましょう。";
+"daily_entries" = "毎日のエントリー";
+"daily_entries_desc" = "1日に最大3つの瞬間を記録できるようにアップグレードしてください。";
+"express_your_mood" = "気分を表現する";
+"express_your_mood_desc" = "より多様なコレクションをアンロックしましょう。";
+"special_gift" = "特別なギフトがあなたを待っています";
+"special_gift_desc" = "初回登録者に180コーヒービーンズをプレゼント。";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "クラシックカップ愛好家のために";
+
+//PrimeEmotionSetCell
+"natures_joy" = "自然の喜び、あちこちで揺れるしっぽ。";
+"golden_leaves" = "黄金の葉、爽やかな空気と幸福感。";
+"camping" = "星空の下、焚き火の上。";
+"warm_lights" = "暖かな光、大切な居心地の良い瞬間。";
+"spooky_thrills" = "不気味なスリル、甘く輝く夜。";
+"sweet_bites" = "甘い一口、忘れられない喜びの瞬間。";
+"laughter_louder" = "心がつながる大きな笑い声。";
+"heartbeats_shared" = "共有された鼓動、すべてがより明るく感じる。";
+"stars_whisper" = "星がささやき、月明かりの秘密が明かされる。";
+"dancing_nights" = "踊る夜、終わりのない喜びのビート。";
+"time_fades" = "時が過ぎても、創造性は生き続ける。";
+"learning_laughter" = "学びと笑い、たまにくしゃくしゃの紙。";
+"colors_bloom" = "色が咲き、陽気な希望が広がる。";
+"cozy_warmth" = "雪のブランケットの下での暖かさ。";
+"golden_rays" = "黄金の光、夕焼けが人生を祝う。";
+"dreams_realized" = "夢が叶い、集中した瞬間が繁栄する。";
+
+//MainAlertView
+"cancel" = "キャンセル";
+"delete" = "削除";
+"exit" = "終了";
+
+//PointView
+"enjoying_diary_coffee" = "日記コーヒーを楽しんでいますか？";
+"no" = "いいえ";
+"yes" = "はい";
+
+//CreateAccountView
+"create_an_account" = "アカウントを作成する";
+"log_in_save_records" = "ログインしてすべての記録を自分のアカウントに保存しましょう！";
+"later" = "あとで";
+"create" = "作成";
+
+//FirstRecordView
+"congratulations" = "おめでとうございます";
+"first_coffee_recorded" = "最初のコーヒーが記録されました！";
+"next" = "次へ";
+"look_a_bit_deeper" = "もう少し深く見てみましょう";
+"personal_reports" = "記録に関する個人レポートを確認できます！";
+"got_it" = "わかりました！";
+
+//PremiumAccessView
+"premium_access" = "プレミアムアクセス";
+"get_started" = "始めましょう！";
+"in_depth_analysis" = "詳細な分析";
+"up_to_3_photos" = "最大3枚の写真";
+"daily_entries" = "日記エントリー";
+"express_your_mood" = "気分を表現する";
+"special_gift_awaits" = "特別なギフトがあなたを待っています";
+
+//DisconnectView
+"failed_to_connect" = "ネットワークへの接続に失敗しました。";
+"try_again" = "再試行";
+
+//ProblemView
+"something_went_wrong" = "問題が発生しましたが、対応しています！";
+"services_maintenance" = "現在サービスがメンテナンス中です。アプリケーションを閉じて再度開いてください。";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "すべての一口を記録\nログインして思い出を醸成し始めましょう";
+
+//PinContainerView
+"pin_code" = "PINコード";
+"set_pin" = "PINを設定";
+
+//NameTextFieldView
+"enter_your_name" = "名前を入力してください";
+
+//BirthdayButtonView
+"select_your_birthday" = "生年月日を選択してください";
+
+//BirthdayDatePickerView
+"select_date" = "日付を選択";
+
+//ReminderTimePickerView
+"select_time" = "時間を選択";
+
+//MoodSelectorView
+"coffee_mood_today" = "今日はどんなコーヒー気分でしたか？";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "コーヒーの瞬間";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "コーヒーの種類";
+
+//NoteView
+"todays_brewed_thoughts" = "今日の醸された思い";
+"write" = "書く…";
+
+//PhotoView
+"coffee_moments_in_photos" = "写真で見るコーヒーの瞬間";
+"camera" = "カメラ";
+"album" = "アルバム";
+
+//PhotoSelectView
+"photo_options" = "写真オプション";
+"select_from_album" = "アルバムから選択";
+"open_camera" = "カメラを開く";
+
+//StickerView
+"coffee_moments_in_stickers" = "コーヒーモーメントステッカー";
+"no_stickers_available" = "利用可能なステッカーはありません";
+"no_stickers_message" = "使用できるステッカーがありません。まず購入してください。";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "購入";
+
+//CalendarMiniView
+"which_day_record_for" = "この記録はどの日のものですか？";
+"cancel" = "キャンセル";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "おっと、その日はまだ来ていません！";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "今日はどうでしたか？";
+
+//YearMonthSegmentControl
+"entire_year" = "年間全体";
+"by_month" = "月別";
+
+//YearMonthPickerView
+"choose_month_and_year" = "月と年を選択";
+
+//CoffeeMoodFlowView
+"mood_flow" = "ムードフロー";
+"start_mood_flow" = "エントリーからムードフローを始めましょう！";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "コーヒーの気分スコア";
+"moods_logged" = "記録された気分";
+"coffee_logged" = "記録されたコーヒー";
+"start_logging_coffee_moods" = "コーヒーの気分を記録し始めましょう！";
+
+//MoodStatusView
+"mood_statistics" = "気分統計";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "カップの旅路";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "コーヒーと共に過ごした一年";
+"look_back_on_2024" = "%d年を振り返る。";
+"go" = "行く";
+
+//MomentStatusView
+"frequently_together" = "よく一緒に";
+"moments_you_drank_coffee" = "コーヒーを飲んだ瞬間";
+"you_drank_coffee" = "あなたはコーヒーを飲んだ";
+"moments" = "瞬間";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "あなたのお気に入りのコーヒー";
+"the_coffee_you_enjoyed_the_most" = "最も楽しんだコーヒー";
+"you_enjoyed_the_most" = "最も楽しんだ";
+"the_coffee" = "コーヒー";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "あなたの気分に合ったコーヒー";
+"your_favorite_in_this_mood" = "この気分でのお気に入り";
+"recorded_together_with" = "一緒に記録された…";
+
+//SortByView
+"sort_by" = "並べ替え";
+"most_records" = "最も記録された";
+"least_records" = "最も少ない記録";
+
+
+//PremiumAnalysisView
+"premium_analysis" = "プレミアム分析";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "プレミアムに登録して\nさらに多くの分析を表示！";
+"premium_pass" = "プレミアムパス";
+
+//ThemesView
+"special_theme" = "特別なテーマ";
+"classic_theme" = "クラシックテーマ";
+
+//StoreStickerView
+"coffee_break_alone" = "一人のコーヒーブレイク、静けさの別名。";
+"warm_up_with_coffee" = "秋の澄んだ空気の中でコーヒーで温まろう。";
+"coffee_accompanying_you" = "ページの中で迷子になりながら、コーヒーがあなたを伴います。";
+"campfire_and_coffee" = "キャンプファイヤーとコーヒーの完璧な調和。";
+"coffee_with_purring_companion" = "ゴロゴロ音を立てる愛猫と一緒にコーヒーを楽しんで。";
+"christmas_with_ginger_scented_coffee" = "ジンジャーの香りが漂うコーヒーでクリスマスをお祝いしよう！";
+"coffee_leads" = "コーヒーはいつも主役だ！";
+"coffee_in_conversations" = "最も温かい会話はコーヒーとともにあります。";
+"sip_of_coffee_inspiration" = "一口のコーヒー、ひとひねりのインスピレーション。";
+"coffee_and_dessert_harmony" = "コーヒーとデザートの完璧な調和。";
+"balanced_coffee_break" = "健康的なライフスタイルのためのバランスの取れたコーヒーブレイク。";
+"walk_with_coffee" = "忠実な友達と一緒に歩きながら、コーヒーを楽しんで。";
+"deepen_feelings_with_coffee" = "コーヒーで気持ちを深めよう。";
+"sweet_closeness_with_coffee" = "コーヒーから始まる甘い親密さ。";
+"coffee_complements_hobbies" = "コーヒーはすべてを補完し、趣味も含まれます。";
+"peaceful_moments_with_coffee" = "休日のコーヒーとともに過ごす穏やかなひととき。";
+"warm_and_deep_like_coffee" = "温かくて深い、まるでコーヒーのように。";
+"serenity_with_coffee" = "静寂の中でコーヒーを一口飲んで、安らぎを感じよう。";
+"little_break_with_coffee" = "自分だけの小さな休憩、コーヒーと一緒に。";
+"first_light_and_coffee" = "朝の最初の光とコーヒーの香り。";
+"make_night_beautiful_with_coffee" = "コーヒーで夜をもっと美しく。";
+"coffee_planning_day" = "コーヒーは一日を計画する際のあなたのそばにいつもいます。";
+"coffee_with_podcast" = "ポッドキャストを聴きながらの温かいコーヒー。";
+"coffee_with_moments_together" = "共に過ごす時間にコーヒーの風味が加わります。";
+"coffee_between_classes" = "授業の合間にコーヒーを拒否できる人はいますか？";
+"coffee_is_self_love" = "自分への愛を示す最高の方法：コーヒー。";
+"recharge_with_coffee" = "買い物の途中でコーヒーで充電しよう。";
+"share_coffee_moments" = "コーヒー満載の瞬間をシェアする完璧なタイミング！";
+"spring_freshness_and_coffee" = "春の新鮮さとコーヒーの温もり。";
+"time_for_a_cup_of_coffee" = "コーヒーを一杯飲む時間はいつでもあります。";
+"coffee_while_exploring" = "新しい場所を探検している間、コーヒーはいつも私と一緒。";
+"romantic_coffee_with_loved_one" = "大切な人と一緒に飲むロマンチックなコーヒー。";
+"weather_and_coffee" = "天気に関係なく、コーヒーがあればもっと良くなる。";
+"warm_touch_in_winter" = "冬の寒さの中でコーヒーの暖かさを感じて。";
+"power_of_coffee_at_work" = "仕事の休憩時にコーヒーの力を感じて。";
+"refresh_after_workout" = "トレーニング後、コーヒーでリフレッシュしよう。";
+"balance_mind_body_with_coffee" = "コーヒーで心と体のバランスを取ろう。";
+
+//BeansView
+"premium_pass" = "プレミアムパス";
+"beans_180" = "180個の豆";
+"gifted_on_subscription" = "サブスクリプションでプレゼント";
+"learn_more" = "詳しく知る";
+"bonus_19_percent" = "19% ボーナス";
+"bonus_39_percent" = "39% ボーナス";
+"bonus_79_percent" = "79% ボーナス";
+
+//BuyView
+"buy_now" = "今すぐ購入";
+"sticker_already_purchased" = "ステッカーはすでに購入済みです。";
+"emotion_already_purchased" = "感情はすでに購入済みです。";
+"not_enough_beans" = "この購入をするのに十分なコーヒー豆がありません。";
+"successfully_purchased" = "正常に購入されました。";
+
+//PremiumView
+"elevate_coffee_moments" = "コーヒーのひとときを高めましょう";
+"upgrade_ultimate_experience" = "究極の体験のためにアップグレード！";
+
+//AccountView
+"account" = "アカウント";
+"user_id" = "ユーザーID:";
+
+//RecordsView
+"my_records" = "私の記録";
+"recorded_days" = "記録された日";
+"photos" = "写真";
+"photo_gallery" = "フォトギャラリー";
+
+//FeaturesView
+"features" = "機能";
+"widgets" = "ウィジェット";
+
+//ProfilePictureView
+"change_profile_picture" = "プロフィール写真を変更";
+
+//ProfileNameChangeView
+"change_name" = "名前を変更";
+"done" = "完了";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "誕生日を変更";
+"cancel" = "キャンセル";
+"yes" = "はい";
+
+//ProfileGenderChangeView
+"change_gender" = "性別を変更";
+"male" = "男性";
+"female" = "女性";
+"other" = "その他";
+"done" = "完了";
+
+
+//ProfileFeedbackView
+"send_feedback" = "フィードバックを送信";
+"cancel" = "キャンセル";
+"send" = "送信";
+
+//NotificationManager
+"morning_notification" = "朝のコーヒーは準備できましたか？さあ、今日を記録しましょう！"; 
+"day_rhythm_notification" = "今日のリズムはどうですか？コーヒーブレイクをして、この瞬間を記録しませんか？"; 
+"record_reminder" = "一日を記録するのを忘れないでください！";
+"week_checkin" = "今週の調子はどうですか？コーヒーブレイクをお忘れなく！";
+"monday_greeting" = "こんにちは月曜日！☀️ 今日は私たちに優しくしてくれますか？🤞 でもまずは…コーヒー！☕🫶";
+"weekend_reminder" = "週末はもうすぐ！居心地の良いコーヒータイムを計画しませんか？☕🎉";
+"journal_update" = "あなたの日記の全く新しいルック！クールなテーマとステッカーがあなたを待っています。さあ、今すぐ探検を始めましょう！✨☕";
+"coffee_day" = "国際コーヒーの日";
+"coffee_day_celebration" = "今日は国際コーヒーの日です！☕🎉 お気に入りのコーヒーでお祝いして、この瞬間を記録してください。";
+"espresso_day" = "エスプレッソの日";
+"espresso_day_message" = "今日はエスプレッソの日です！⚡☕ 濃いエスプレッソのエネルギーで一日を始めましょう。";
+"chocolate_day" = "世界チョコレートデー";
+"chocolate_day_message" = "今日は世界チョコレートデーです！🍫☕ コーヒーにチョコレートを添えて、甘いひとときを楽しみましょう。";
+"barista_day" = "世界バリスタの日"; 
+"barista_day_message" = "今日は世界バリスタの日です！🎨☕ コーヒー作りの芸術を祝い、バリスタの気分を味わいましょう。";
+"valentines_day" = "バレンタインデー";
+"valentines_day_message" = "今日はバレンタインデーです！❤️☕ 大切な人とコーヒーをシェアして、この特別な日を一緒にお祝いしましょう。"; 
+"friendship_day" = "国際友情デー";
+"friendship_day_message" = "今日は国際友情デーです！🤝☕ 親友とコーヒーを楽しみながら思い出を作りましょう。";
+"new_years_day" = "元日";
+"new_years_day_message" = "今日は一年の初日です！🎉☕ コーヒーを手にして、新しい始まりを夢見ましょう。";
+
+//PremiumVC
+"premium_pass" = "プレミアムパス";
+"free_3_days" = "3日間完全無料！";
+"cancel_anytime" = "いつでもキャンセルできます。";
+"monthly_pass" = "月間パス";
+"annual_pass" = "年間パス";
+"free_for_3_days" = "3日間無料";
+"per_month" = "%@ /月";
+"coffee_beans_gifted" = "*無料トライアルの開始時に、180個のコーヒービーンズが贈られます。";
+"terms_and_privacy" = "利用規約とプライバシーポリシー";
+"terms_of_service" = "利用規約";
+"privacy_policy" = "プライバシーポリシー";
+"and" = "と";
+"begin_free_trial" = "無料体験を始める";
+"subscription_unavailable" = "現在、サブスクリプション情報を利用できません。";
+"apple_account_subscription" = "
+Appleアカウントに請求されます。月額（サブスクリプション）パスの料金は%@で、毎月自動更新されます。年額（サブスクリプション）パスは一括で請求され、料金は%@で、毎年自動更新されます。現在の期間が終了する24時間前にサブスクリプションが自動更新されます。Appleアカウントの設定からサブスクリプションを管理できます。
+";
+"trial_info_unavailable" = "無料トライアル情報は現在利用できません。";
+"trial_info_annual" = "無料トライアル後は年額%@です。いつでもキャンセル可能です。";
+"subscribe_premium_pass" = "プレミアムパスを購読して\nすべての機能にアクセスしましょう！";
+"become_premium_user" = "プレミアムユーザーになる";
+"monthly_trial_info" = "月額 %@。いつでもキャンセル可能です。";
+"completely_free_3_days" = "3日間完全無料！";
+"begin_free_trial" = "無料トライアルを開始";
+"annual_trial_info" = "無料トライアル後は年額 %@。いつでもキャンセル可能です。";
+"daily_streak_title" = "デイリーストリーク";
+"daily_streak_label_zero" = "最長のコーヒーストリーク: 0 日";
+"daily_streak_message" = "エントリーで日々のストリークを始めましょう！";
+"daily_streak_label" = "最長のコーヒーストリーク: %d 日";
+
+//AchievementLockAnalysisVC
+"first_sip" = "最初の一口";
+"morning_brew" = "朝のコーヒー";
+"sweet_moments" = "甘いひととき";
+"favorite_coffee_quest" = "お気に入りのコーヒー探し";
+"sweet_coffee_stop" = "甘いコーヒーブレイク";
+"taste_of_repetition" = "繰り返しの味わい";
+"motivation_filter" = "やる気フィルター";
+"work_break_revitalizer" = "仕事の休憩リフレッシュ";
+"natures_brew" = "自然の一杯";
+"inspiration_with_coffee" = "コーヒーとインスピレーション";
+"different_sips" = "さまざまな味わい";
+"world_coffees" = "世界のコーヒー";
+"gourmet_coffee_expert" = "グルメコーヒーの達人";
+"cold_enthusiast" = "冷たい飲み物愛好家";
+"night_owl" = "夜型人間";
+"travelers_cup" = "旅人のカップ";
+"coffee_classic" = "クラシックコーヒー";
+"white_coffee" = "ホワイトコーヒー";
+"love_in_first_sip" = "最初の一口で恋";
+"romance_in_cup" = "カップの中のロマンス";
+"friends_sip" = "友達との一杯";
+"special_moments" = "特別な瞬間";
+"chat_in_cup" = "カップの中の会話";
+"coffee_journey" = "コーヒーの旅";
+"explore_together" = "一緒に探索";
+"calm_sips" = "静かなひと口";
+"chat_tour" = "会話の旅";
+"every_moment" = "すべての瞬間";
+"first_sip_achievement" = "コーヒージャーニーの第一歩！最初の一口を記録し、この特別な達成をアンロックして、コーヒーへの情熱の扉を開けましょう。🎈☕";
+"morning_brew_achievement" = "朝のコーヒータイムで10種類の異なるコーヒーを体験して、この特別な達成をアンロックしましょう！一日を始めるのがこれまでになく楽しくなります。☀️☕";
+"flavor_harmony_achievement" = "スイートモーメントで5種類のコーヒーを試して、フレーバーハーモニーの達成を解放しましょう！🍩☕";
+"crown_favorite_coffee" = "同じコーヒーを20回試して、お気に入りを確定しましょう！⭐☕";
+"delicious_achievement" = "モカ、アフォガート、アイリッシュコーヒーなどの甘いコーヒー10種類を探索して、この美味しい達成を解放しましょう！✨☕";
+"relive_coffee_achievement" = "同じコーヒーと瞬間を5回再体験して達成を解除しましょう！ ☕🌀";
+"work_break_energy" = "仕事の合間に20杯のコーヒーでエネルギーを高めましょう！ ☕⚡";
+"work_break_ritual" = "5杯の仕事の休憩コーヒーでこの達成を解除して、あなたの儀式を始めましょう！ ☕💼";
+"camp_coffee_achievement" = "1ヶ月でキャンプコーヒーを5杯楽しんで、この冒険実績を解除しましょう！ ☕🏕️";
+"inspiring_coffee_achievement" = "1ヶ月で合計5冊の本またはインスピレーションを与えるコーヒーを楽しんで、このロックを解除しましょう！ ☕📝";
+"flavor_map_achievement" = "7日間で7種類の異なるコーヒーを楽しんで、風味の地図を発見しましょう！ 🌟☕";
+"cultural_flavors" = "トルココーヒー、ウィーンコーヒー、カフェ・デ・オージャなどの文化的な風味でコーヒーの世界を探索しましょう！☕🌍";
+"exquisite_coffees" = "マキアート、リストレット、ブレベなどの2種類の絶品コーヒーで風味の世界に踏み出しましょう！🧭☕";
+"cool_success" = "フラッペ、コールドブリュー、シェケラートなど、20杯の冷たいコーヒーで涼しい成功を達成しましょう！❄️☕";
+"spirit_of_night" = "20晩コーヒーで目を覚まし、夜の精神を捉えましょう！🌌☕";
+"taste_world" = "旅行中に10種類の異なるコーヒーを味わい、一口ごとに新しいストーリーを書きましょう！🗺️☕";
+"crown_culture" = "エスプレッソ、アメリカーノ、トルココーヒーなど、20のクラシックフレーバーでコーヒー文化に冠を！🌰☕";
+"explore_smoothness" = "ラテ、ブレベ、カプチーノなどのミルクベースのコーヒーを20種類試して、コーヒーの滑らかさを探求してください！🍶☕";
+"romantic_moment" = "初めてのコーヒーでロマンチックな瞬間に魔法を完成させ、この特別な体験をお祝いしましょう！❤️☕";
+"crown_love_moments" = "ロマンチックな気分で 10 種類のコーヒーで愛に満ちた瞬間を飾りましょう！💖☕";
+"first_coffee_friend" = "友達との最初のコーヒー、友情ストーリーの最初の一口！ 🕊️☕";
+"friendship_love_moments" = "20 杯のコーヒーで友情や愛に満ちた瞬間を作り、この特別な功績を達成しましょう！ 🎀☕";
+"deepen_conversations" = "1 か月に 5 回コーヒーで会話を深め、この報酬をアンロックしましょう！ ☕💬";
+"discover_all_coffee_types" = "すべてのコーヒータイプを探求し、コーヒーの伝説になりましょう！☕🏆";
+"share_coffee_with_friends" = "友達と10種類の異なるコーヒーを共有し、友情をコーヒーで深めましょう！🤗☕";
+"discover_worlds_with_coffee" = "読書やキャンプの時間に10種類のコーヒーで新しい世界を発見しましょう！📚🌄☕";
+"enhance_conversations_with_coffee" = "チャット中に20種類のコーヒーで会話を盛り上げましょう！💭☕";
+"experience_all_coffee_moments" = "すべてのコーヒーモーメントを体験し、コーヒー旅の頂点に到達しましょう！🎉☕";
+"journey_of_the_cup" = "カップの旅";

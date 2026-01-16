@@ -1,0 +1,523 @@
+/* 
+  Localizable(Norwegian).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 19.01.2025.
+  
+*/
+//DiaryEntryVC
+"daily_max_limit" = "Du har nådd den daglige grensen.";
+"record_mood" = "Vennligst registrer humøret ditt.";
+"record_coffee_moment" = "Vennligst registrer kaffestundtypen.";
+"record_coffee_type" = "Vennligst registrer kaffetypen din.";
+"unsaved_changes" = "Endringer er ikke lagret.";
+"confirm_exit" = "Er du sikker på at du vil avslutte?";
+"exit" = "Avslutt";
+
+//CalendarVC
+"delete_entry" = "Slett oppføring?";
+"confirm_delete_entry" = "Er du sikker på at du vil slette denne oppføringen?";
+"day_recorded" = "Dag registrert!";
+
+//AnalysisVC
+"report" = "Rapport";
+
+//AnalysisDetailVC
+"frequently_recorded" = "Ofte registrert";
+"most_records" = "Flest poster";
+"least_records" = "Færrest poster";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "Et år med kaffe";
+
+//ProfileVC
+"my_info" = "Min informasjon";
+
+//ProfileDetailVC
+"account" = "Konto";
+"not_set" = "Ikke satt";
+"change_name" = "Endre navn";
+"info_updated" = "Informasjonen din har blitt oppdatert!";
+"change_birthday" = "Endre bursdag";
+"change_gender" = "Endre kjønn";
+"profile_photo_updated" = "Profilbildet ble oppdatert!";
+
+//PhotoGalleryVC
+"photo_gallery" = "Fotogalleri";
+"no_photos" = "Ingen bilder registrert ennå.";
+
+//SettingsVC
+"settings" = "Innstillinger";
+"records_deleted" = "Dine poster er slettet!";
+"pin_all_set" = "PIN er satt!";
+"customization" = "Tilpasning";
+"change_pin" = "Endre PIN";
+"notifications" = "Varsler";
+"language" = "Språk";
+"haptics" = "Haptikk";
+"send_feedback" = "Send tilbakemelding";
+"system" = "System";
+"service_center" = "Servicesenter";
+"write_review" = "Skriv en anmeldelse";
+"app_version" = "Appversjon";
+"data" = "Data";
+"delete_data" = "Slett mine data";
+"pin_lock" = "PIN-lås";
+"password_warning" = "Passordet kan ikke gjenopprettes hvis det glemmes.";
+"info_updated_settings" = "Informasjonen din har blitt oppdatert! Start applikasjonen på nytt.";
+
+//LanguageVC
+"select_language" = "Velg språk";
+"done" = "Ferdig";
+
+//ProfileNotificationVC
+"notifications" = "Varsler";
+"record_notification" = "Registreringsvarsel";
+"get_daily_reminders" = "Få daglige påminnelser";
+"remind_me_at" = "Minn meg på kl.";
+"smart_scheduling_reminder" = "Smart planleggingsvarsel";
+"fortune_cookie_notification" = "Lykkekakevarsel";
+"info_updated" = "Informasjonen din er oppdatert!";
+
+//DeleteDataVC
+"delete_my_data" = "Slett dataene mine";
+"my_records" = "Mine oppføringer";
+"delete_all_records" = "Slett alle oppføringer";
+"account" = "Konto";
+"delete_my_account" = "Slett kontoen min";
+"delete_my_data_description" = "Alt du noen gang har registrert - alle notater, bilder, ikoner og mer - vil bli slettet. Kjøpene og innspillingsinnstillingene dine vil forbli. Vær forsiktig, da dette ikke kan angres.";
+"delete_my_account_description" = "Hvis du sletter kontoen din, vil alle oppføringene dine (notater, bilder, ikoner osv.), kjøp (temaer, bønner osv.) og data også bli slettet. Vær forsiktig, da dette ikke kan angres.";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "Slett alle oppføringer";
+"are_you_sure" = "Er du sikker?";
+"delete_all_records_description" = "Alt du noen gang har registrert - alle notater, bilder, ikoner og mer - vil bli slettet. Kjøpene og innspillingsinnstillingene dine vil forbli. Vær forsiktig, da dette ikke kan angres.";
+"read_and_agree" = "Jeg har lest forholdsreglene og godtar å fortsette.";
+"cancel" = "Avbryt";
+
+//DeleteMyAccountVC
+"delete_my_account" = "Slett kontoen min";
+"are_you_sure" = "Er du sikker?";
+"delete_my_account_description" = "Hvis du sletter kontoen din, vil alle oppføringene dine (notater, bilder, ikoner osv.), kjøp (temaer, kløver osv.) og data også bli slettet. Vær forsiktig, da dette ikke kan angres.";
+"read_and_agree" = "Jeg har lest forholdsreglene og godtar å fortsette.";
+
+//WidgetsVC
+"apply" = "Bruk";
+"widgets" = "Widgeter";
+"widget_changed_successfully" = "Widget endret vellykket!";
+
+//StoreVC
+"themes" = "Temaer";
+"stickers" = "Klistremerker";
+"beans" = "Bønner";
+"store" = "Butikk";
+"payment_success" = "Betalingen din ble behandlet vellykket!";
+"payment_failed" = "Betalingen mislyktes. Vennligst prøv igjen.";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "Dybdeanalyse";
+"in_depth_analysis_desc" = "Oppdag skjulte mønstre i din daglige rutine.";
+"up_to_3_photos" = "Opptil 3 bilder";
+"up_to_3_photos_desc" = "Fang flere øyeblikk fra dagen din.";
+"daily_entries" = "Daglige oppføringer";
+"daily_entries_desc" = "Oppgrader for å registrere opptil 3 øyeblikk om dagen.";
+"express_your_mood" = "Uttrykk humøret ditt";
+"express_your_mood_desc" = "Lås opp hele samlingen for mer variasjon.";
+"special_gift" = "En spesiell gave venter på deg";
+"special_gift_desc" = "180 kaffebønner for førstegangsabonnenter.";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "For elskere av klassiske kopper";
+
+//PrimeEmotionSetCell
+"natures_joy" = "Naturens glede, logrende haler overalt.";
+"golden_leaves" = "Gylne blader, frisk luft og glede.";
+"camping" = "Stjerner over, bål under.";
+"warm_lights" = "Varme lys, verdsatte koselige øyeblikk.";
+"spooky_thrills" = "Skumle spenninger, søte glødende netter.";
+"sweet_bites" = "Søte biter, uforglemmelige glade øyeblikk.";
+"laughter_louder" = "Høyere latter med hjerteforbindelser.";
+"heartbeats_shared" = "Delte hjerteslag, alt føles lysere.";
+"stars_whisper" = "Stjerner hvisker, måneskinnets hemmeligheter avsløres.";
+"dancing_nights" = "Dansende netter, endeløse gledelige rytmer.";
+"time_fades" = "Tiden falmer, kreativiteten lever videre.";
+"learning_laughter" = "Læring, latter, papir som av og til er krøllet.";
+"colors_bloom" = "Farger blomstrer, solrike håp stiger.";
+"cozy_warmth" = "Koselig varme under snødekte tepper.";
+"golden_rays" = "Gylne stråler, solnedganger feirer livet.";
+"dreams_realized" = "Drømmer realisert, fokuserte øyeblikk blomstrer.";
+
+//MainAlertView
+"cancel" = "Avbryt";
+"delete" = "Slett";
+"exit" = "Avslutt";
+
+//PointView
+"enjoying_diary_coffee" = "Nyter du dagbokkaffe?";
+"no" = "Nei";
+"yes" = "Ja";
+
+//CreateAccountView
+"create_an_account" = "Opprett en konto";
+"log_in_save_records" = "Logg inn og lagre alle postene dine på din egen konto!";
+"later" = "Senere";
+"create" = "Opprett";
+
+//FirstRecordView
+"congratulations" = "Gratulerer";
+"first_coffee_recorded" = "Første kaffe registrert!";
+"next" = "Neste";
+"look_a_bit_deeper" = "Se litt dypere";
+"personal_reports" = "Du kan se personlige rapporter om dine oppføringer!";
+"got_it" = "Forstått!";
+
+//PremiumAccessView
+"premium_access" = "Premiumtilgang";
+"get_started" = "Kom i Gang!";
+"in_depth_analysis" = "Dybdeanalyse";
+"up_to_3_photos" = "Opptil 3 Bilder";
+"daily_entries" = "Daglige Oppføringer";
+"express_your_mood" = "Uttrykk Humøret Ditt";
+"special_gift_awaits" = "En Spesiell Gave Venter På Deg";
+
+//DisconnectView
+"failed_to_connect" = "Kunne ikke koble til nettverket.";
+"try_again" = "Prøv igjen";
+
+//ProblemView
+"something_went_wrong" = "Noe gikk galt, men vi har kontroll!";
+"services_maintenance" = "Våre tjenester er under vedlikehold. Vennligst lukk og åpne applikasjonen igjen.";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "Fang Hver Slurk\nLogg Inn og Begynn å Skape Minner";
+
+//PinContainerView
+"pin_code" = "PIN-kode";
+"set_pin" = "Sett PIN";
+
+//NameTextFieldView
+"enter_your_name" = "Skriv inn navnet ditt";
+
+//BirthdayButtonView
+"select_your_birthday" = "Velg fødselsdatoen din";
+
+//BirthdayDatePickerView
+"select_date" = "Velg dato";
+
+//ReminderTimePickerView
+"select_time" = "Velg tid";
+
+//MoodSelectorView
+"coffee_mood_today" = "Hvilket kaffehumør var du i dag?";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "Kaffestunder";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "Kaffetyper";
+
+//NoteView
+"todays_brewed_thoughts" = "Dagens Bryggede Tanker";
+"write" = "Skriv…";
+
+//PhotoView
+"coffee_moments_in_photos" = "Kaffestunder i Bilder";
+"camera" = "Kamera";
+"album" = "Album";
+
+//PhotoSelectView
+"photo_options" = "Fotoalternativer";
+"select_from_album" = "Velg fra Album";
+"open_camera" = "Åpne Kamera";
+
+//StickerView
+"coffee_moments_in_stickers" = "Kaffestunder i Klistremerker";
+"no_stickers_available" = "Ingen Klistremerker Tilgjengelige";
+"no_stickers_message" = "Du har ingen klistremerker å bruke. Vennligst kjøp først.";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "Kjøp";
+
+//CalendarMiniView
+"which_day_record_for" = "Hvilken dag er denne oppføringen for?";
+"cancel" = "Avbryt";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "Oi, den dagen har ikke kommet ennå!";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "Hvordan var dagen din?";
+
+//YearMonthSegmentControl
+"entire_year" = "Hele Året";
+"by_month" = "Etter Måned";
+
+//YearMonthPickerView
+"choose_month_and_year" = "Velg Måned og År";
+
+//CoffeeMoodFlowView
+"mood_flow" = "Humørflyt";
+"start_mood_flow" = "Start humørflyten din med en oppføring!";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "Kaffemood Score";
+"moods_logged" = "Registrerte Humør";
+"coffee_logged" = "Registrert Kaffe";
+"start_logging_coffee_moods" = "Start å logge kaffemoodene dine!";
+
+//MoodStatusView
+"mood_statistics" = "Humørstatistikk";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "Koppens Reise";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "Et År Gått med Kaffe";
+"look_back_on_2024" = "Se tilbake på ditt %d.";
+"go" = "Gå";
+
+//MomentStatusView
+"frequently_together" = "Ofte sammen";
+"moments_you_drank_coffee" = "Øyeblikk du drakk kaffe";
+"you_drank_coffee" = "Du drakk kaffe";
+"moments" = "Øyeblikk";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "Dine Favorittkaffer";
+"the_coffee_you_enjoyed_the_most" = "Kaffen Du Liker Best";
+"you_enjoyed_the_most" = "Du Likte Best";
+"the_coffee" = "Kaffen";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "Kaffe for Ditt Humør";
+"your_favorite_in_this_mood" = "Din Favoritt i Dette Humøret";
+"recorded_together_with" = "Registrert sammen med…";
+
+//SortByView
+"sort_by" = "Sorter Etter";
+"most_records" = "Flest Poster";
+"least_records" = "Færrest Poster";
+
+//PremiumAnalysisView
+"premium_analysis" = "Premium Analyse";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "Abonner på Premium\n for å se flere analyser!";
+"premium_pass" = "Premium Pass";
+
+//ThemesView
+"special_theme" = "Spesielt Tema";
+"classic_theme" = "Klassisk Tema";
+
+//StoreStickerView
+"coffee_break_alone" = "En kaffepause alene, et annet navn på ro.";
+"warm_up_with_coffee" = "Varm opp med kaffe i den friske høstluften.";
+"coffee_accompanying_you" = "La kaffen følge deg mens du forsvinner inn i sidene.";
+"campfire_and_coffee" = "Den perfekte harmonien mellom bål og kaffe.";
+"coffee_with_purring_companion" = "Nyt en kopp kaffe med din malende følgesvenn.";
+"christmas_with_ginger_scented_coffee" = "Feir jul med en kaffe med ingefærduft!";
+"coffee_leads" = "Kaffe tar alltid hovedrollen!";
+"coffee_in_conversations" = "De varmeste samtalene ledsages alltid av kaffe.";
+"sip_of_coffee_inspiration" = "En slurk kaffe, en klype inspirasjon.";
+"coffee_and_dessert_harmony" = "Den perfekte harmonien mellom kaffe og dessert.";
+"balanced_coffee_break" = "En balansert kaffepause for en sunn livsstil.";
+"walk_with_coffee" = "En tur med din lojale venn og en kopp kaffe.";
+"deepen_feelings_with_coffee" = "Fordyp følelsene dine med en kopp kaffe.";
+"sweet_closeness_with_coffee" = "En søt nærhet som begynner med kaffe.";
+"coffee_complements_hobbies" = "Kaffe utfyller alt, inkludert hobbyene dine.";
+"peaceful_moments_with_coffee" = "Fredfulle øyeblikk i ferien med kaffe.";
+"warm_and_deep_like_coffee" = "Varm og dyp, akkurat som kaffe.";
+"serenity_with_coffee" = "Finn ro med en slurk kaffe i stillhet.";
+"little_break_with_coffee" = "En liten pause for deg selv med kaffe.";
+"first_light_and_coffee" = "Morgenens første lys og duften av kaffe.";
+"make_night_beautiful_with_coffee" = "Gjør natten vakrere med kaffe.";
+"coffee_planning_day" = "Kaffe er alltid ved din side når du planlegger dagen din.";
+"coffee_with_podcast" = "En varm kopp kaffe følger din podcast.";
+"coffee_with_moments_together" = "Kaffe tilfører smak til øyeblikk sammen.";
+"coffee_between_classes" = "Hvem kan si nei til en kopp kaffe mellom timene?";
+"coffee_is_self_love" = "Den beste måten å vise deg selv kjærlighet på: en kopp kaffe.";
+"recharge_with_coffee" = "Lad opp med kaffe midt i shoppingen.";
+"share_coffee_moments" = "Det er den perfekte tiden for å dele dine kaffefylte øyeblikk!";
+"spring_freshness_and_coffee" = "Vårens friskhet og kaffens varme.";
+"time_for_a_cup_of_coffee" = "Det er alltid tid for en kopp kaffe.";
+"coffee_while_exploring" = "Kaffe er alltid med meg mens jeg utforsker nye steder.";
+"romantic_coffee_with_loved_one" = "En romantisk kopp kaffe delt med din kjære.";
+"weather_and_coffee" = "Uansett vær, kaffe gjør alt bedre.";
+"warm_touch_in_winter" = "Den varme berøringen av kaffe i vinterkulden.";
+"power_of_coffee_at_work" = "Føl kraften av kaffe i arbeidspauser.";
+"refresh_after_workout" = "Frisk opp etter treningen med en kopp kaffe.";
+"balance_mind_body_with_coffee" = "Balanser sinn og kropp med kaffe.";
+
+//BeansView
+"premium_pass" = "Premium Pass";
+"beans_180" = "180 Bønner";
+"gifted_on_subscription" = "Gave ved abonnement";
+"learn_more" = "Lær mer";
+"bonus_19_percent" = "19% bonus";
+"bonus_39_percent" = "39% bonus";
+"bonus_79_percent" = "79% bonus";
+
+//BuyView
+"buy_now" = "KJØP NÅ";
+"sticker_already_purchased" = "Klistremerket er allerede kjøpt.";
+"emotion_already_purchased" = "Følelsen er allerede kjøpt.";
+"not_enough_beans" = "Du har ikke nok kaffebønner til å fullføre dette kjøpet.";
+"successfully_purchased" = "ble kjøpt med hell.";
+
+//PremiumView
+"elevate_coffee_moments" = "Løft kaffestundene";
+"upgrade_ultimate_experience" = "Oppgrader for den ultimate opplevelsen!";
+
+//AccountView
+"account" = "Konto";
+"user_id" = "Bruker-ID:";
+
+//RecordsView
+"my_records" = "Mine oppføringer";
+"recorded_days" = "Registrerte dager";
+"photos" = "Bilder";
+"photo_gallery" = "Fotogalleri";
+
+//FeaturesView
+"features" = "Funksjoner";
+"widgets" = "Widgeter";
+
+//ProfilePictureView
+"change_profile_picture" = "Endre profilbilde";
+
+//ProfileNameChangeView
+"change_name" = "Endre navn";
+"done" = "Ferdig";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "Endre bursdag";
+"cancel" = "Avbryt";
+"yes" = "Ja";
+
+//ProfileGenderChangeView
+"change_gender" = "Endre kjønn";
+"male" = "Mann";
+"female" = "Kvinne";
+"other" = "Annet";
+"done" = "Ferdig";
+
+//ProfileFeedbackView
+"send_feedback" = "Send tilbakemelding";
+"cancel" = "Avbryt";
+"send" = "Send";
+
+//NotificationManager
+"morning_notification" = "Er morgenkaffen din klar? La oss begynne å registrere dagen!";
+"day_rhythm_notification" = "Hvordan er rytmen i dagen din? Hva med en kaffepause og å fange øyeblikket?";
+"record_reminder" = "Ikke glem å registrere dagen din!";
+"week_checkin" = "Hvordan går uken din? Ikke glem å ta en kaffepause!";
+"monday_greeting" = "Hei mandag!☀️ Kan du være snill mot oss i dag? 🤞 Men først... kaffe! ☕🫶";
+"weekend_reminder" = "Helgen nærmer seg! Hva med å planlegge en koselig kaffestund? ☕🎉";
+"journal_update" = "En helt ny look for journalen din! Kule temaer og klistremerker venter på deg, start utforskingen nå! ✨☕";
+"coffee_day" = "Internasjonal Kaffedag";
+"coffee_day_celebration" = "I dag er det Internasjonal Kaffedag! ☕🎉 Feir med din favorittkaffe og fang øyeblikket."; 
+"espresso_day" = "Espressodagen"; 
+"espresso_day_message" = "I dag er det Espressodagen! ⚡☕ Start dagen med energien fra en sterk espresso."; 
+"chocolate_day" = "Verdens Sjokoladedag";
+"chocolate_day_message" = "I dag er det Verdens Sjokoladedag! 🍫☕ Kombiner kaffen din med et stykke sjokolade for en søt pause.";
+"barista_day" = "Verdens Baristadag";
+"barista_day_message" = "I dag er det Verdens Baristadag! 🎨☕ Feir kunsten å lage kaffe og føl deg som en barista.";
+"valentines_day" = "Valentinsdagen";
+"valentines_day_message" = "I dag er det Valentinsdagen! ❤️☕ Del kaffen din med din kjære og feir denne spesielle dagen sammen."; 
+"friendship_day" = "Internasjonal Vennskapsdag";
+"friendship_day_message" = "I dag er det Internasjonal Vennskapsdag! 🤝☕ Lag minner med din beste venn over en kopp kaffe."; 
+"new_years_day" = "Nyttårsdag";
+"new_years_day_message" = "I dag er årets første dag! 🎉☕ Ta kaffen din og begynn å drømme om nye begynnelser.";
+
+//PremiumVC
+"premium_pass" = "Premiumpass";
+"free_3_days" = "Helt gratis i 3 dager!";
+"cancel_anytime" = "Avbryt når som helst.";
+"monthly_pass" = "Månedlig Pass";
+"annual_pass" = "Årlig Pass"; 
+"free_for_3_days" = "Gratis i 3 dager"; 
+"per_month" = "%@ /måned";
+"coffee_beans_gifted" = "*De 180 kaffebønnene gis ved starten av den gratis prøveperioden.";
+"terms_and_privacy" = "Vilkår for bruk og personvernpolicy";
+"terms_of_service" = "Vilkår for bruk";
+"privacy_policy" = "Personvernpolicy"; 
+"and" = "og";
+"begin_free_trial" = "Start gratis prøveperiode"; 
+"subscription_unavailable" = "Abonnementsinformasjon er ikke tilgjengelig for øyeblikket.";
+"apple_account_subscription" = "
+Din Apple-konto vil bli belastet. Det månedlige (abonnement) passet koster %@ og fornyes automatisk hver måned. Det årlige (abonnement) passet, som belastes som en engangsbetaling, koster %@ og fornyes automatisk hvert år. Abonnementet vil bli automatisk fornyet innen 24 timer før den nåværende perioden avsluttes. Du kan administrere abonnementet ditt via Apple-kontoinnstillinger.
+";
+"trial_info_unavailable" = "Gratis prøveinformasjon er for øyeblikket ikke tilgjengelig.";
+"trial_info_annual" = "%@ per år etter gratis prøveperiode. Avslutt når som helst.";
+"subscribe_premium_pass" = "Abonner på Premium Pass\nfor å få tilgang til alle funksjoner!";
+"become_premium_user" = "Bli en Premium-bruker";
+"monthly_trial_info" = "%@ per måned. Avbryt når som helst.";
+"completely_free_3_days" = "Helt gratis i 3 dager!";
+"begin_free_trial" = "Start gratis prøveversjon";
+"annual_trial_info" = "%@ per år etter gratis prøveversjon. Avbryt når som helst.";
+"daily_streak_title" = "Daglig Rekke";
+"daily_streak_label_zero" = "Den lengste kafferekken: 0 dag";
+"daily_streak_message" = "Start din daglige rekke med en oppføring!";
+"daily_streak_label" = "Den lengste kafferekken: %d dag(er)";
+
+//AchievementLockAnalysisVC
+"first_sip" = "Første Slurk";
+"morning_brew" = "Morgenkaffe";
+"sweet_moments" = "Søte Øyeblikk";
+"favorite_coffee_quest" = "Jakten på Favorittkaffen";
+"sweet_coffee_stop" = "Søt Kaffestopp";
+"taste_of_repetition" = "Smaken av Gjentakelse";
+"motivation_filter" = "Motivasjonsfilter";
+"work_break_revitalizer" = "Forfriskning for Arbeidspausen";
+"natures_brew" = "Naturens Brygg";
+"inspiration_with_coffee" = "Inspirasjon med Kaffe";
+"different_sips" = "Forskjellige Slurker";
+"world_coffees" = "Verdens Kaffe";
+"gourmet_coffee_expert" = "Gourmet Kaffekjenner";
+"cold_enthusiast" = "Kald Drikke Entusiast";
+"night_owl" = "Nattugle";
+"travelers_cup" = "Reisekoppen";
+"coffee_classic" = "Kaffe Klassisk";
+"white_coffee" = "Hvit Kaffe";
+"love_in_first_sip" = "Kjærlighet ved Første Slurk";
+"romance_in_cup" = "Romantikk i Koppen";
+"friends_sip" = "Slurk med Venner";
+"special_moments" = "Spesielle Øyeblikk";
+"chat_in_cup" = "Samtale i Koppen";
+"coffee_journey" = "Kaffereise";
+"explore_together" = "Utforske Sammen";
+"calm_sips" = "Rolige Slurker";
+"chat_tour" = "Samtaletur";
+"every_moment" = "Hvert Øyeblikk";
+"first_sip_achievement" = "Det første steget på din kaffereise! Registrer din første slurk, lås opp denne spesielle prestasjonen og åpne dørene til din kaffepasjon. 🎈☕";
+"morning_brew_achievement" = "Lås opp denne spesielle prestasjonen ved å oppleve 10 forskjellige kaffesorter i ditt morgenkaffemoment! Å starte dagen har aldri vært mer behagelig. ☀️☕";
+"flavor_harmony_achievement" = "Prøv 5 forskjellige kaffesorter i Sweet Moments for å låse opp smakenes harmoni-prestasjon! 🍩☕";
+"crown_favorite_coffee" = "Prøv den samme kaffen 20 ganger for å krone din favoritt! ⭐☕";
+"delicious_achievement" = "Utforsk 10 søte kaffesorter som Mocha, Affogato og Irish Coffee, og lås opp denne deilige prestasjonen! ✨☕";
+"relive_coffee_achievement" = "Gjenopplev den samme kaffen og øyeblikket 5 ganger for å låse opp prestasjonen! ☕🌀";
+"work_break_energy" = "Kron energien din med 20 kaffepauser! ☕⚡";
+"work_break_ritual" = "Lås opp denne prestasjonen med 5 kaffepauser og start ritualet ditt! ☕💼";
+"camp_coffee_achievement" = "Lås opp denne eventyrprestasjonen med 5 leirkaffe på én måned! ☕🏕️";
+"inspiring_coffee_achievement" = "Lås opp denne låsen med totalt 5 bøker eller inspirerende kaffe i løpet av måneden! ☕📝";
+"flavor_map_achievement" = "Oppdag smakskartet med 7 forskjellige kaffe på 7 dager! 🌟☕";
+"cultural_flavors" = "Utforsk kaffens verden med kulturelle smaker som Tyrkisk Kaffe, Wienerkaffe og Café de Olla! ☕🌍";
+"exquisite_coffees" = "Trå inn i smakens verden med to utsøkte kaffer som Macchiato, Ristretto og Breve! 🧭☕";
+"cool_success" = "Oppnå en kul suksess med 20 kalde kaffer som Frappe, Cold Brew og Shakerato! ❄️☕";
+"spirit_of_night" = "Hold deg våken med kaffe i 20 netter og fang nattens ånd! 🌌☕";
+"taste_world" = "Opplev verden med 10 forskjellige kaffetyper mens du reiser, skriv en ny historie med hver slurk! 🗺️☕";
+"crown_culture" = "Kron kaffekulturen med 20 klassiske smaker som Espresso, Americano og Tyrkisk Kaffe! 🌰☕";
+"explore_smoothness" = "Utforsk kaffens mykhet ved å prøve 20 melkebaserte kaffer som Latte, Breve og Cappuccino! 🍶☕";
+"romantic_moment" = "Fullfør magien i et romantisk øyeblikk med din første kaffe og feire denne spesielle opplevelsen! ❤️☕";
+"crown_love_moments" = "Kron dine kjærlighetsfylte øyeblikk med 10 forskjellige kaffetyper i en romantisk stemning! 💖☕";
+"first_coffee_friend" = "Den første kaffen med en venn, den første slurken av din vennskapshistorie! 🕊️☕";
+"friendship_love_moments" = "Skap vennskaps- eller kjærlighetsfylte øyeblikk med 20 kopper kaffe og fullfør denne spesielle prestasjonen! 🎀☕";
+"deepen_conversations" = "Fordyp samtalene dine med kaffe 5 ganger i måneden og lås opp denne belønningen! ☕💬";
+"discover_all_coffee_types" = "Oppdag alle typer kaffe og bli en kaffens legende! ☕🏆";
+"share_coffee_with_friends" = "Del 10 forskjellige kaffer med vennene dine, la vennskap blande seg med kaffe! 🤗☕";
+"discover_worlds_with_coffee" = "Oppdag nye verdener med 10 kaffer under lesing eller camping! 📚🌄☕";
+"enhance_conversations_with_coffee" = "Forbedre samtalene dine med 20 forskjellige kaffer under chatter! 💭☕";
+"experience_all_coffee_moments" = "Opplev alle kaffestunder og nå toppen av kaffereisen din! 🎉☕";
+"journey_of_the_cup" = "Reisen til Koppen";

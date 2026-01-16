@@ -1,0 +1,525 @@
+/* 
+  Localizable(Chinese (Simplified)).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 18.01.2025.
+  
+*/
+
+
+//DiaryEntryVC
+"daily_max_limit" = "您已达到每日最大限制。";
+"record_mood" = "请记录您的心情。";
+"record_coffee_moment" = "请记录您的咖啡时刻类型。";
+"record_coffee_type" = "请记录您的咖啡类型。";
+"unsaved_changes" = "更改尚未保存。";
+"confirm_exit" = "您确定要退出吗？";
+"exit" = "退出";
+
+//CalendarVC
+"delete_entry" = "删除条目？";
+"confirm_delete_entry" = "您确定要删除此条目吗？";
+"day_recorded" = "记录的日子！";
+
+//AnalysisVC
+"report" = "报告";
+
+//AnalysisDetailVC
+"frequently_recorded" = "经常记录";
+"most_records" = "最多记录";
+"least_records" = "最少记录";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "与咖啡共度的一年";
+
+//ProfileVC
+"my_info" = "我的信息";
+
+//ProfileDetailVC
+"account" = "账户";
+"not_set" = "未设置";
+"change_name" = "更改名称";
+"info_updated" = "您的信息已成功更新！";
+"change_birthday" = "更改生日";
+"change_gender" = "更改性别";
+"profile_photo_updated" = "个人资料照片已成功更新！";
+
+//PhotoGalleryVC
+"photo_gallery" = "相册";
+"no_photos" = "尚未记录任何照片。";
+
+//SettingsVC
+"settings" = "设置";
+"records_deleted" = "您的记录已被删除！";
+"pin_all_set" = "PIN 已设置！";
+"customization" = "自定义";
+"change_pin" = "更改 PIN";
+"notifications" = "通知";
+"language" = "语言";
+"haptics" = "触觉反馈";
+"send_feedback" = "发送反馈";
+"system" = "系统";
+"service_center" = "服务中心";
+"write_review" = "写评论";
+"app_version" = "应用版本";
+"data" = "数据";
+"delete_data" = "删除我的数据";
+"pin_lock" = "PIN 锁";
+"password_warning" = "如果忘记，密码无法恢复。";
+"info_updated_settings" = "您的信息已成功更新！重启应用程序。";
+
+//LanguageVC
+"select_language" = "选择语言";
+"done" = "完成";
+
+//ProfileNotificationVC
+"notifications" = "通知";
+"record_notification" = "记录通知";
+"get_daily_reminders" = "获取每日提醒";
+"remind_me_at" = "提醒我在";
+"smart_scheduling_reminder" = "智能排程提醒";
+"fortune_cookie_notification" = "幸运饼干通知";
+"info_updated" = "您的信息已成功更新！";
+
+//DeleteDataVC
+"delete_my_data" = "删除我的数据";
+"my_records" = "我的记录";
+"delete_all_records" = "删除所有记录";
+"account" = "账户";
+"delete_my_account" = "删除我的账户";
+"delete_my_data_description" = "您曾记录的一切——所有笔记、照片、图标等——将被删除。您的购买记录和录制设置将保留。请谨慎操作，因为此操作无法撤销。";
+"delete_my_account_description" = "如果您删除帐户，您的所有记录（笔记、照片、图标等）、购买（主题、豆类等）和数据也将被删除。请谨慎操作，因为此操作无法撤销。";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "删除所有记录";
+"are_you_sure" = "你确定吗？";
+"delete_all_records_description" = "您曾记录的一切——所有笔记、照片、图标等——将被删除。您的购买记录和录制设置将保留。请谨慎操作，因为此操作无法撤销。";
+"read_and_agree" = "我已阅读注意事项并同意继续。";
+"cancel" = "取消";
+
+//DeleteMyAccountVC
+"delete_my_account" = "删除我的账户";
+"are_you_sure" = "你确定吗？";
+"delete_my_account_description" = "如果您删除帐户，您的所有记录（笔记、照片、图标等）、购买（主题、四叶草等）和数据也将被删除。请谨慎操作，因为此操作无法撤销。";
+"read_and_agree" = "我已阅读注意事项并同意继续。";
+
+//WidgetsVC
+"apply" = "应用";
+"widgets" = "小部件";
+"widget_changed_successfully" = "小部件更改成功！";
+
+//StoreVC
+"themes" = "主题";
+"stickers" = "贴纸";
+"beans" = "咖啡豆";
+"store" = "商店";
+"payment_success" = "您的付款已成功处理！";
+"payment_failed" = "付款失败。请再试一次。";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "深入分析";
+"in_depth_analysis_desc" = "发现您日常生活中的隐藏模式。";
+"up_to_3_photos" = "最多3张照片";
+"up_to_3_photos_desc" = "捕捉您一天中的更多瞬间。";
+"daily_entries" = "每日条目";
+"daily_entries_desc" = "升级以记录每天最多3个瞬间。";
+"express_your_mood" = "表达你的心情";
+"express_your_mood_desc" = "解锁完整收藏，增加更多选择。";
+"special_gift" = "特别礼物等待着您";
+"special_gift_desc" = "首次订阅赠送180颗咖啡豆。";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "经典杯子爱好者的选择";
+
+//PrimeEmotionSetCell
+"natures_joy" = "大自然的喜悦，摇摆的尾巴随处可见。";
+"golden_leaves" = "金色的叶子，清爽的空气带来幸福。";
+"camping" = "头顶繁星，脚下篝火。";
+"warm_lights" = "温暖的灯光，珍贵的舒适时光。";
+"spooky_thrills" = "惊悚刺激，甜美闪亮的夜晚。";
+"sweet_bites" = "甜蜜的咬一口，难忘的欢乐时光。";
+"laughter_louder" = "笑声更响亮，心连心的联系。";
+"heartbeats_shared" = "共享心跳，一切都显得更加明亮。";
+"stars_whisper" = "星星低语，月光下的秘密展开。";
+"dancing_nights" = "舞动的夜晚，无尽的欢乐节拍。";
+"time_fades" = "时间消逝，创造力永存。";
+"learning_laughter" = "学习中欢笑，偶尔揉皱的纸张。";
+"colors_bloom" = "颜色绽放，阳光希望升起。";
+"cozy_warmth" = "在雪白的被子下感受温暖。";
+"golden_rays" = "金色光芒，夕阳庆祝生命。";
+"dreams_realized" = "梦想实现，专注的时刻茁壮成长。";
+
+//MainAlertView
+"cancel" = "取消";
+"delete" = "删除";
+"exit" = "退出";
+
+//PointView
+"enjoying_diary_coffee" = "享受日记咖啡吗？";
+"no" = "否";
+"yes" = "是";
+
+//CreateAccountView
+"create_an_account" = "创建一个账户";
+"log_in_save_records" = "登录并将所有记录保存到您自己的帐户中！";
+"later" = "稍后";
+"create" = "创建";
+
+//FirstRecordView
+"congratulations" = "恭喜";
+"first_coffee_recorded" = "第一次咖啡记录！";
+"next" = "下一步";
+"look_a_bit_deeper" = "深入一点看看";
+"personal_reports" = "您可以查看有关记录的个人报告！";
+"got_it" = "明白了！";
+
+//PremiumAccessView
+"premium_access" = "高级访问";
+"get_started" = "开始吧！";
+"in_depth_analysis" = "深入分析";
+"up_to_3_photos" = "最多 3 张照片";
+"daily_entries" = "每日记录";
+"express_your_mood" = "表达你的心情";
+"special_gift_awaits" = "特别礼物等着你";
+
+//DisconnectView
+"failed_to_connect" = "连接网络失败。";
+"try_again" = "再试一次";
+
+//ProblemView
+"something_went_wrong" = "出现问题，但我们会处理的！";
+"services_maintenance" = "我们的服务正在维护中。请关闭并重新打开应用程序。";
+"ok" = "确定";
+
+//LoginTitleView
+"capture_every_sip" = "捕捉每一口\n登录并开始酿造回忆";
+
+//PinContainerView
+"pin_code" = "PIN 码";
+"set_pin" = "设置 PIN";
+
+//NameTextFieldView
+"enter_your_name" = "输入您的姓名";
+
+//BirthdayButtonView
+"select_your_birthday" = "选择您的生日";
+
+//BirthdayDatePickerView
+"select_date" = "选择日期";
+
+//ReminderTimePickerView
+"select_time" = "选择时间";
+
+//MoodSelectorView
+"coffee_mood_today" = "你今天是什么咖啡心情？";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "咖啡时刻";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "咖啡种类";
+
+//NoteView
+"todays_brewed_thoughts" = "今日酿造的想法";
+"write" = "写…";
+
+//PhotoView
+"coffee_moments_in_photos" = "照片中的咖啡时刻";
+"camera" = "相机";
+"album" = "相册";
+
+//PhotoSelectView
+"photo_options" = "照片选项";
+"select_from_album" = "从相册中选择";
+"open_camera" = "打开相机";
+
+//StickerView
+"coffee_moments_in_stickers" = "咖啡时刻贴纸";
+"no_stickers_available" = "无可用贴纸";
+"no_stickers_message" = "您没有可以使用的贴纸。请先购买。";
+"ok" = "确定";
+
+//StickerSelectorView
+"purchase" = "购买";
+
+//CalendarMiniView
+"which_day_record_for" = "这条记录是为哪一天的？";
+"cancel" = "取消";
+"ok" = "确定";
+
+//CalendarView
+"oops_day_yet_to_come" = "哎呀，那一天还没到！";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "你今天过得怎么样？";
+
+//YearMonthSegmentControl
+"entire_year" = "整年";
+"by_month" = "按月";
+
+//YearMonthPickerView
+"choose_month_and_year" = "选择月份和年份";
+
+//CoffeeMoodFlowView
+"mood_flow" = "情绪流";
+"start_mood_flow" = "从一个条目开始你的情绪流！";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "咖啡心情分数";
+"moods_logged" = "记录的心情";
+"coffee_logged" = "记录的咖啡";
+"start_logging_coffee_moods" = "开始记录你的咖啡心情！";
+
+//MoodStatusView
+"mood_statistics" = "心情统计";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "杯子的旅程";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "与咖啡一起度过的一年";
+"look_back_on_2024" = "回顾你的%d年。";
+"go" = "去";
+
+//MomentStatusView
+"frequently_together" = "经常一起";
+"moments_you_drank_coffee" = "你喝咖啡的时刻";
+"you_drank_coffee" = "你喝了咖啡";
+"moments" = "时刻";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "你最喜欢的咖啡";
+"the_coffee_you_enjoyed_the_most" = "你最喜欢的咖啡";
+"you_enjoyed_the_most" = "你最喜欢的";
+"the_coffee" = "咖啡";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "适合你心情的咖啡";
+"your_favorite_in_this_mood" = "在这种心情下你最喜欢的";
+"recorded_together_with" = "与...一起记录";
+
+//SortByView
+"sort_by" = "排序方式";
+"most_records" = "最多记录";
+"least_records" = "最少记录";
+
+//PremiumAnalysisView
+"premium_analysis" = "高级分析";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "订阅 Premium\n查看更多分析！";
+"premium_pass" = "Premium通行证";
+
+//ThemesView
+"special_theme" = "特别主题";
+"classic_theme" = "经典主题";
+
+//StoreStickerView
+"coffee_break_alone" = "独自的咖啡休息，宁静的另一种名字。";
+"warm_up_with_coffee" = "在秋天清新的空气中，和咖啡一起暖身。";
+"coffee_accompanying_you" = "让咖啡陪伴你在页面中迷失。";
+"campfire_and_coffee" = "篝火与咖啡的完美和谐。";
+"coffee_with_purring_companion" = "和你那呼噜声不断的伴侣一起享受一杯咖啡。";
+"christmas_with_ginger_scented_coffee" = "用姜味咖啡庆祝圣诞节！";
+"coffee_leads" = "咖啡永远是主角！";
+"coffee_in_conversations" = "最温暖的对话总是伴随着咖啡。";
+"sip_of_coffee_inspiration" = "一口咖啡，一点灵感。";
+"coffee_and_dessert_harmony" = "咖啡与甜点的完美和谐。";
+"balanced_coffee_break" = "健康生活方式的平衡咖啡休息。";
+"walk_with_coffee" = "和你忠诚的朋友一起散步，带着一杯咖啡。";
+"deepen_feelings_with_coffee" = "用一杯咖啡深化你的感受。";
+"sweet_closeness_with_coffee" = "从咖啡开始的甜蜜亲密。";
+"coffee_complements_hobbies" = "咖啡补充一切，包括你的爱好。";
+"peaceful_moments_with_coffee" = "假期中与咖啡的宁静时光。";
+"warm_and_deep_like_coffee" = "温暖而深沉，就像咖啡。";
+"serenity_with_coffee" = "在宁静中一口咖啡找到平静。";
+"little_break_with_coffee" = "和咖啡一起给自己一个小休息。";
+"first_light_and_coffee" = "晨曦的第一缕光与咖啡的香气。";
+"make_night_beautiful_with_coffee" = "用咖啡让夜晚更加美丽。";
+"coffee_planning_day" = "在规划你的一天时，咖啡永远在你身边。";
+"coffee_with_podcast" = "温暖的咖啡陪伴着你的播客。";
+"coffee_with_moments_together" = "咖啡为共度时光增添风味。";
+"coffee_between_classes" = "谁能拒绝课间一杯咖啡呢？";
+"coffee_is_self_love" = "表达自爱的最好方式：一杯咖啡。";
+"recharge_with_coffee" = "在购物中途，用咖啡恢复活力。";
+"share_coffee_moments" = "这是分享你充满咖啡的时刻的完美时机！";
+"spring_freshness_and_coffee" = "春天的清新与咖啡的温暖。";
+"time_for_a_cup_of_coffee" = "总有时间喝一杯咖啡。";
+"coffee_while_exploring" = "在探索新地方时，咖啡始终陪伴着我。";
+"romantic_coffee_with_loved_one" = "与心爱的人共享的浪漫咖啡。";
+"weather_and_coffee" = "无论天气如何，咖啡总能让一切变得更好。";
+"warm_touch_in_winter" = "冬天的寒冷中，咖啡的温暖触感。";
+"power_of_coffee_at_work" = "在工作间隙感受咖啡的力量。";
+"refresh_after_workout" = "锻炼后，喝一杯咖啡清新一下。";
+"balance_mind_body_with_coffee" = "通过咖啡平衡你的身心。";
+
+//BeansView
+"premium_pass" = "高级通行证";
+"beans_180" = "180颗豆";
+"gifted_on_subscription" = "订阅时赠送";
+"learn_more" = "了解更多";
+"bonus_19_percent" = "19% 奖励";
+"bonus_39_percent" = "39% 奖励";
+"bonus_79_percent" = "79% 奖励";
+
+//BuyView
+"buy_now" = "立即购买";
+"sticker_already_purchased" = "贴纸已购买。";
+"emotion_already_purchased" = "情绪已购买。";
+"not_enough_beans" = "您没有足够的咖啡豆进行购买。";
+"successfully_purchased" = "已成功购买。";
+
+//PremiumView
+"elevate_coffee_moments" = "提升咖啡时光";
+"upgrade_ultimate_experience" = "升级以获得终极体验！";
+
+//AccountView
+"account" = "账户";
+"user_id" = "用户 ID:";
+
+//RecordsView
+"my_records" = "我的记录";
+"recorded_days" = "记录的日子";
+"photos" = "照片";
+"photo_gallery" = "照片库";
+
+//FeaturesView
+"features" = "功能";
+"widgets" = "小部件";
+
+//ProfilePictureView
+"change_profile_picture" = "更改个人资料图片";
+
+//ProfileNameChangeView
+"change_name" = "更改名称";
+"done" = "完成";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "更改生日";
+"cancel" = "取消";
+"yes" = "是";
+
+//ProfileGenderChangeView
+"change_gender" = "更改性别";
+"male" = "男性";
+"female" = "女性";
+"other" = "其他";
+"done" = "完成";
+
+//ProfileFeedbackView
+"send_feedback" = "发送反馈";
+"cancel" = "取消";
+"send" = "发送";
+
+//NotificationManager
+"morning_notification" = "你的晨咖准备好了吗？让我们开始记录一天吧！"; 
+"day_rhythm_notification" = "你的一天节奏怎么样？来个咖啡休息，记录一下这一刻吧？"; 
+"record_reminder" = "别忘了记录你的一天！";
+"week_checkin" = "你这周过得怎么样？别忘了喝杯咖啡休息一下！";
+"monday_greeting" = "你好，周一！☀️ 今天可以对我们好一点吗？🤞 但首先……咖啡！☕🫶";
+"weekend_reminder" = "周末快到了！计划一个舒适的咖啡时光怎么样？☕🎉";
+"journal_update" = "您的日记有了全新外观！炫酷主题和贴纸在等着您，现在就开始探索吧！✨☕"; 
+"coffee_day" = "国际咖啡日"; 
+"coffee_day_celebration" = "今天是国际咖啡日！☕🎉 用你最喜欢的咖啡庆祝并记录下这一刻。";
+"espresso_day" = "浓缩咖啡日";
+"espresso_day_message" = "今天是浓缩咖啡日！⚡☕ 以浓烈的浓缩咖啡开启你的一天吧。";
+"chocolate_day" = "世界巧克力日";
+"chocolate_day_message" = "今天是世界巧克力日！🍫☕ 搭配一块巧克力来享受一场甜蜜的咖啡时光吧。";
+"barista_day" = "世界咖啡师日"; 
+"barista_day_message" = "今天是世界咖啡师日！🎨☕ 庆祝咖啡制作的艺术，感受像咖啡师一样的乐趣。";
+"valentines_day" = "情人节";
+"valentines_day_message" = "今天是情人节！❤️☕ 和你爱的人分享一杯咖啡，一起庆祝这个特别的日子。";
+"friendship_day" = "国际友谊日";
+"friendship_day_message" = "今天是国际友谊日！🤝☕ 和你最好的朋友一起喝咖啡创造回忆吧。"; 
+"new_years_day" = "新年";
+"new_years_day_message" = "今天是一年的第一天！🎉☕ 拿起你的咖啡，开始梦想新的开始吧。";
+
+//PremiumVC
+"premium_pass" = "高级通行证";
+"free_3_days" = "完全免费3天！";
+"cancel_anytime" = "随时取消。";
+"monthly_pass" = "月票"; 
+"annual_pass" = "年票"; 
+"free_for_3_days" = "免费 3 天";
+"per_month" = "%@ /月";
+"coffee_beans_gifted" = "*180颗咖啡豆在免费试用期开始时赠送。";
+"terms_and_privacy" = "服务条款和隐私政策";
+"terms_of_service" = "服务条款"; 
+"privacy_policy" = "隐私政策";
+"and" = "和";
+"begin_free_trial" = "开始免费试用"; 
+"subscription_unavailable" = "订阅信息目前不可用。";
+"apple_account_subscription" = "
+您的 Apple 帐户将被扣费。月度（订阅）通行证费用为 %@，每月自动续订。年度（订阅）通行证作为一次性预付款收费，费用为 %@，每年自动续订。订阅将在当前期限结束前 24 小时内自动续订。您可以通过 Apple 帐户设置管理订阅。
+";
+"trial_info_unavailable" = "免费试用信息目前不可用。";
+"trial_info_annual" = "免费试用后每年 %@。随时取消。";
+"subscribe_premium_pass" = "订阅高级通行证\n以访问所有功能！";
+"become_premium_user" = "成为高级用户";
+"monthly_trial_info" = "%@ 每月。随时取消。";
+"completely_free_3_days" = "完全免费3天！";
+"begin_free_trial" = "开始免费试用";
+"annual_trial_info" = "免费试用后每年 %@。随时取消。";
+"daily_streak_title" = "每日连击";
+"daily_streak_label_zero" = "最长的咖啡连击：0 天";
+"daily_streak_message" = "从一次记录开始您的每日连击！";
+"daily_streak_label" = "最长的咖啡连击：%d 天";
+
+//AchievementLockAnalysisVC
+"first_sip" = "第一口";
+"morning_brew" = "晨间咖啡";
+"sweet_moments" = "甜蜜时刻";
+"favorite_coffee_quest" = "最爱的咖啡探索";
+"sweet_coffee_stop" = "甜咖啡驿站";
+"taste_of_repetition" = "重复的味道";
+"motivation_filter" = "动力过滤器";
+"work_break_revitalizer" = "工作休息提神";
+"natures_brew" = "自然的冲泡";
+"inspiration_with_coffee" = "咖啡与灵感";
+"different_sips" = "不同的口感";
+"world_coffees" = "世界咖啡";
+"gourmet_coffee_expert" = "美食咖啡专家";
+"cold_enthusiast" = "冷饮爱好者";
+"night_owl" = "夜猫子";
+"travelers_cup" = "旅行者的咖啡杯";
+"coffee_classic" = "经典咖啡";
+"white_coffee" = "白咖啡";
+"love_in_first_sip" = "第一口的爱";
+"romance_in_cup" = "杯中的浪漫";
+"friends_sip" = "朋友的分享";
+"special_moments" = "特别时刻";
+"chat_in_cup" = "杯中的闲聊";
+"coffee_journey" = "咖啡之旅";
+"explore_together" = "一起探索";
+"calm_sips" = "宁静的品尝";
+"chat_tour" = "聊天之旅";
+"every_moment" = "每一刻";
+"first_sip_achievement" = "咖啡之旅的第一步！记录你的第一口，解锁这个特别成就，开启你的咖啡热情之门。🎈☕";
+"morning_brew_achievement" = "通过在早晨的咖啡时光中体验10种不同的咖啡类型，解锁这个特别成就！开启一天从未如此愉快。☀️☕";
+"flavor_harmony_achievement" = "在甜蜜时刻尝试5种不同的咖啡类型，解锁风味和谐成就！🍩☕";
+"crown_favorite_coffee" = "尝试同一种咖啡20次，为您的最爱加冕！⭐☕";
+"delicious_achievement" = "探索10种甜咖啡，例如摩卡、阿芙佳朵和爱尔兰咖啡，解锁这个美味成就！✨☕";
+"relive_coffee_achievement" = "重温相同的咖啡和时刻5次以解锁成就！ ☕🌀";
+"work_break_energy" = "用20杯工作休息咖啡为你的能量加冕！ ☕⚡";
+"work_break_ritual" = "通过5杯工作休息咖啡解锁此成就并开始你的仪式！ ☕💼";
+"camp_coffee_achievement" = "在一个月内喝5次露营咖啡，解锁此冒险成就！ ☕🏕️";
+"inspiring_coffee_achievement" = "通过一个月内阅读5本书或品尝5杯启发性咖啡来解锁此成就！ ☕📝";
+"flavor_map_achievement" = "在7天内品尝7种不同的咖啡，发现风味地图！ 🌟☕";
+"cultural_flavors" = "通过土耳其咖啡、维也纳咖啡和Café de Olla等文化风味探索咖啡世界！☕🌍";
+"exquisite_coffees" = "通过Macchiato、Ristretto和Breve等两种精致咖啡进入风味世界！🧭☕";
+"cool_success" = "通过20杯冷咖啡如Frappe、Cold Brew和Shakerato实现清凉成功！❄️☕";
+"spirit_of_night" = "用咖啡保持清醒20个夜晚，捕捉夜晚的精神！🌌☕";
+"taste_world" = "旅行时品尝10种不同的咖啡，每一口都写下一个新的故事！🗺️☕";
+"crown_culture" = "以20种经典口味，如浓缩咖啡、美式咖啡和土耳其咖啡，为咖啡文化加冕！🌰☕";
+"explore_smoothness" = "尝试20种牛奶咖啡，如拿铁、布雷维和卡布奇诺，探索咖啡的顺滑口感！🍶☕";
+"romantic_moment" = "用您的第一杯咖啡完成浪漫时刻的魔力，庆祝这一特殊体验！❤️☕";
+"crown_love_moments" = "用 10 种不同的咖啡点缀你的浪漫时刻！💖☕";
+"first_coffee_friend" = "与朋友的第一杯咖啡，友谊故事的第一口！ 🕊️☕";
+"friendship_love_moments" = "用 20 杯咖啡创造友谊或充满爱的时刻，完成这一特别成就！🎀☕";
+"deepen_conversations" = "每月 5 次深度咖啡对话，解锁此奖励！☕💬";
+"discover_all_coffee_types" = "探索所有咖啡种类，成为咖啡传奇！☕🏆";
+"share_coffee_with_friends" = "与朋友分享10种不同的咖啡，让友谊与咖啡融合！🤗☕";
+"discover_worlds_with_coffee" = "在阅读或露营时通过10种咖啡发现新的世界！📚🌄☕";
+"enhance_conversations_with_coffee" = "在聊天中通过20种不同的咖啡提升你的谈话！💭☕";
+"experience_all_coffee_moments" = "体验所有咖啡时刻，达到你的咖啡旅程的巅峰！🎉☕";
+"journey_of_the_cup" = "杯子的旅程";

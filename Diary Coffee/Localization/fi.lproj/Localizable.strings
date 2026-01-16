@@ -1,0 +1,523 @@
+/* 
+  Localizable(Finnish).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 19.01.2025.
+  
+*/
+//DiaryEntryVC
+"daily_max_limit" = "Olet saavuttanut päivittäisen enimmäisrajan.";
+"record_mood" = "Ole hyvä ja kirjaa mielialasi.";
+"record_coffee_moment" = "Ole hyvä ja kirjaa kahvihetken tyyppi.";
+"record_coffee_type" = "Ole hyvä ja kirjaa kahvityyppi.";
+"unsaved_changes" = "Muutoksia ei ole tallennettu.";
+"confirm_exit" = "Oletko varma, että haluat poistua?";
+"exit" = "Poistu";
+
+//CalendarVC
+"delete_entry" = "Poista merkintä?";
+"confirm_delete_entry" = "Oletko varma, että haluat poistaa tämän merkinnän?";
+"day_recorded" = "Päivä tallennettu!";
+
+//AnalysisVC
+"report" = "Raportti";
+
+//AnalysisDetailVC
+"frequently_recorded" = "Usein tallennettu";
+"most_records" = "Eniten merkintöjä";
+"least_records" = "Vähiten merkintöjä";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "Vuosi kahvin kanssa";
+
+//ProfileVC
+"my_info" = "Omat tiedot";
+
+//ProfileDetailVC
+"account" = "Tili";
+"not_set" = "Ei asetettu";
+"change_name" = "Vaihda nimi";
+"info_updated" = "Tietosi on päivitetty onnistuneesti!";
+"change_birthday" = "Vaihda syntymäpäivä";
+"change_gender" = "Vaihda sukupuoli";
+"profile_photo_updated" = "Profiilikuva päivitetty onnistuneesti!";
+
+//PhotoGalleryVC
+"photo_gallery" = "Valokuvagalleria";
+"no_photos" = "Ei vielä tallennettuja kuvia.";
+
+//SettingsVC
+"settings" = "Asetukset";
+"records_deleted" = "Tietosi on poistettu!";
+"pin_all_set" = "PIN on asetettu!";
+"customization" = "Mukauttaminen";
+"change_pin" = "Vaihda PIN";
+"notifications" = "Ilmoitukset";
+"language" = "Kieli";
+"haptics" = "Haptinen palaute";
+"send_feedback" = "Lähetä palautetta";
+"system" = "Järjestelmä";
+"service_center" = "Huoltokeskus";
+"write_review" = "Kirjoita arvostelu";
+"app_version" = "Sovelluksen versio";
+"data" = "Data";
+"delete_data" = "Poista tietoni";
+"pin_lock" = "PIN-lukitus";
+"password_warning" = "Salasanaa ei voi palauttaa, jos se unohtuu.";
+"info_updated_settings" = "Tietosi on päivitetty onnistuneesti! Käynnistä sovellus uudelleen.";
+
+//LanguageVC
+"select_language" = "Valitse kieli";
+"done" = "Valmis";
+
+//ProfileNotificationVC
+"notifications" = "Ilmoitukset";
+"record_notification" = "Tallennusilmoitus";
+"get_daily_reminders" = "Saat päivittäiset muistutukset";
+"remind_me_at" = "Muistuta minua aikaan";
+"smart_scheduling_reminder" = "Älykäs ajoitusmuistutus";
+"fortune_cookie_notification" = "Onnenkeksin ilmoitus";
+"info_updated" = "Tietosi on päivitetty onnistuneesti!";
+
+//DeleteDataVC
+"delete_my_data" = "Poista tietoni";
+"my_records" = "Omat tietueet";
+"delete_all_records" = "Poista kaikki tietueet";
+"account" = "Tili";
+"delete_my_account" = "Poista tilini";
+"delete_my_data_description" = "Kaikki mitä olet koskaan tallentanut - muistiinpanot, valokuvat, kuvakkeet ja muut - poistetaan. Ostoksesi ja tallennusasetuksesi säilyvät. Jatka varovasti, koska tätä ei voi peruuttaa.";
+"delete_my_account_description" = "Jos poistat tilisi, kaikki tietueesi (muistiinpanot, valokuvat, kuvakkeet jne.), ostokset (teemat, pavut jne.) ja tietosi poistetaan myös. Jatka varovasti, koska tätä ei voi peruuttaa.";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "Poista kaikki tietueet";
+"are_you_sure" = "Oletko varma?";
+"delete_all_records_description" = "Kaikki mitä olet koskaan tallentanut - muistiinpanot, valokuvat, kuvakkeet ja muut - poistetaan. Ostoksesi ja tallennusasetuksesi säilyvät. Jatka varovasti, koska tätä ei voi peruuttaa.";
+"read_and_agree" = "Olen lukenut varotoimet ja suostun jatkamaan.";
+"cancel" = "Peruuta";
+
+//DeleteMyAccountVC
+"delete_my_account" = "Poista tilini";
+"are_you_sure" = "Oletko varma?";
+"delete_my_account_description" = "Jos poistat tilisi, kaikki tietueesi (muistiinpanot, valokuvat, kuvakkeet jne.), ostokset (teemat, apilat jne.) ja tietosi poistetaan myös. Jatka varovasti, koska tätä ei voi peruuttaa.";
+"read_and_agree" = "Olen lukenut varotoimet ja suostun jatkamaan.";
+
+//WidgetsVC
+"apply" = "Käytä";
+"widgets" = "Widgetit";
+"widget_changed_successfully" = "Widget muutettu onnistuneesti!";
+
+//StoreVC
+"themes" = "Teemat";
+"stickers" = "Tarrat";
+"beans" = "Pavut";
+"store" = "Kauppa";
+"payment_success" = "Maksusi on käsitelty onnistuneesti!";
+"payment_failed" = "Maksu epäonnistui. Yritä uudelleen.";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "Syväanalyysi";
+"in_depth_analysis_desc" = "Löydä piilotetut kaavat päivittäisestä rutiinistasi.";
+"up_to_3_photos" = "Jopa 3 kuvaa";
+"up_to_3_photos_desc" = "Tallenna enemmän hetkiä päivästäsi.";
+"daily_entries" = "Päivittäiset merkinnät";
+"daily_entries_desc" = "Päivitä tallentaaksesi jopa 3 hetkeä päivässä.";
+"express_your_mood" = "Ilmaise mielialasi";
+"express_your_mood_desc" = "Avaa kokoelma saadaksesi lisää vaihtelua.";
+"special_gift" = "Erityinen lahja odottaa sinua";
+"special_gift_desc" = "180 kahvipapua ensimmäisille tilaajille.";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "Klassisten kuppien ystäville";
+
+//PrimeEmotionSetCell
+"natures_joy" = "Luonnon ilo, kaikkialla heiluvat hännät.";
+"golden_leaves" = "Kultaiset lehdet, raikas ilma ja ilo.";
+"camping" = "Tähdet ylhäällä, nuotio alhaalla.";
+"warm_lights" = "Lämpimät valot, arvokkaat kodikkaat hetket.";
+"spooky_thrills" = "Karmeita jännityksiä, suloisia hehkuvia öitä.";
+"sweet_bites" = "Makeita paloja, unohtumattomia ilon hetkiä.";
+"laughter_louder" = "Kovempaa naurua sydämen yhteyksien kanssa.";
+"heartbeats_shared" = "Jaetut sydämenlyönnit, kaikki tuntuu kirkkaammalta.";
+"stars_whisper" = "Tähdet kuiskivat, kuutamon salaisuudet paljastuvat.";
+"dancing_nights" = "Tanssi-illat, loputtomat iloiset rytmit.";
+"time_fades" = "Aika haalistuu, luovuus säilyy elossa.";
+"learning_laughter" = "Oppimista, naurua ja välillä ryppyistä paperia.";
+"colors_bloom" = "Värit kukkivat, aurinkoiset toiveet kohoavat.";
+"cozy_warmth" = "Kodikas lämpö lumipeittojen alla.";
+"golden_rays" = "Kultaiset säteet, auringonlaskut juhlivat elämää.";
+"dreams_realized" = "Unelmat toteutuvat, keskittyneet hetket kukoistavat.";
+
+//MainAlertView
+"cancel" = "Peruuta";
+"delete" = "Poista";
+"exit" = "Poistu";
+
+//PointView
+"enjoying_diary_coffee" = "Nautitko päiväkirjakahvista?";
+"no" = "Ei";
+"yes" = "Kyllä";
+
+//CreateAccountView
+"create_an_account" = "Luo tili";
+"log_in_save_records" = "Kirjaudu sisään ja tallenna kaikki tietosi omaan tiliisi!";
+"later" = "Myöhemmin";
+"create" = "Luo";
+
+//FirstRecordView
+"congratulations" = "Onnittelut";
+"first_coffee_recorded" = "Ensimmäinen kahvi tallennettu!";
+"next" = "Seuraava";
+"look_a_bit_deeper" = "Katso vähän syvemmälle";
+"personal_reports" = "Voit katsoa henkilökohtaisia raportteja muistiinpanoistasi!";
+"got_it" = "Ymmärretty!";
+
+//PremiumAccessView
+"premium_access" = "Premium-käyttöoikeus";
+"get_started" = "Aloita!";
+"in_depth_analysis" = "Syväanalyysi";
+"up_to_3_photos" = "Jopa 3 Kuvaa";
+"daily_entries" = "Päivittäiset Merkinnät";
+"express_your_mood" = "Ilmaise Mielialasi";
+"special_gift_awaits" = "Erityinen Lahja Odottaa Sinua";
+
+//DisconnectView
+"failed_to_connect" = "Verkkoon yhdistäminen epäonnistui.";
+"try_again" = "Yritä uudelleen";
+
+//ProblemView
+"something_went_wrong" = "Jotain meni pieleen, mutta me hoidamme sen!";
+"services_maintenance" = "Palvelumme ovat huollossa. Sulje ja avaa sovellus uudelleen.";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "Tallenna Jokainen Siemaus\nKirjaudu Sisään ja Aloita Muistojen Luominen";
+
+//PinContainerView
+"pin_code" = "PIN-koodi";
+"set_pin" = "Aseta PIN";
+
+//NameTextFieldView
+"enter_your_name" = "Syötä nimesi";
+
+//BirthdayButtonView
+"select_your_birthday" = "Valitse syntymäpäiväsi";
+
+//BirthdayDatePickerView
+"select_date" = "Valitse päivämäärä";
+
+//ReminderTimePickerView
+"select_time" = "Valitse aika";
+
+//MoodSelectorView
+"coffee_mood_today" = "Missä kahvitunnelmassa olit tänään?";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "Kahvihetket";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "Kahvityypit";
+
+//NoteView
+"todays_brewed_thoughts" = "Päivän Pannatut Ajatukset";
+"write" = "Kirjoita…";
+
+//PhotoView
+"coffee_moments_in_photos" = "Kahvihetket Kuvissa";
+"camera" = "Kamera";
+"album" = "Albumi";
+
+//PhotoSelectView
+"photo_options" = "Valokuva-asetukset";
+"select_from_album" = "Valitse Albumista";
+"open_camera" = "Avaa Kamera";
+
+//StickerView
+"coffee_moments_in_stickers" = "Kahvihetket Tarrat";
+"no_stickers_available" = "Ei Tarroja Saatavilla";
+"no_stickers_message" = "Sinulla ei ole tarroja käytettäväksi. Osta ensin.";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "Osto";
+
+//CalendarMiniView
+"which_day_record_for" = "Mille päivälle tämä merkintä on?";
+"cancel" = "Peruuta";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "Hups, se päivä ei ole vielä tullut!";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "Miten päiväsi meni?";
+
+//YearMonthSegmentControl
+"entire_year" = "Koko Vuosi";
+"by_month" = "Kuukausittain";
+
+//YearMonthPickerView
+"choose_month_and_year" = "Valitse Kuukausi ja Vuosi";
+
+//CoffeeMoodFlowView
+"mood_flow" = "Mielialavirta";
+"start_mood_flow" = "Aloita mielialavirta merkinnällä!";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "Kahvifiiliksen Pisteet";
+"moods_logged" = "Kirjatut Fiilikset";
+"coffee_logged" = "Kirjattu Kahvi";
+"start_logging_coffee_moods" = "Aloita kahvifiiliksesi kirjaaminen!";
+
+//MoodStatusView
+"mood_statistics" = "Mielialatilastot";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "Kupin Matka";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "Vuosi Kulunut Kahvin Kera";
+"look_back_on_2024" = "Katso taaksepäin vuoteesi %d.";
+"go" = "Mene";
+
+//MomentStatusView
+"frequently_together" = "Usein yhdessä";
+"moments_you_drank_coffee" = "Hetket, jolloin joit kahvia";
+"you_drank_coffee" = "Joisit kahvia";
+"moments" = "Hetket";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "Lempikahvisi";
+"the_coffee_you_enjoyed_the_most" = "Kahvi, Jota Nautit Eniten";
+"you_enjoyed_the_most" = "Nautit Eniten";
+"the_coffee" = "Kahvi";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "Kahvia Mielialaasi Varten";
+"your_favorite_in_this_mood" = "Suosikkisi Tässä Mielialassa";
+"recorded_together_with" = "Tallennettu yhdessä…";
+
+//SortByView
+"sort_by" = "Järjestä";
+"most_records" = "Eniten Kirjauksia";
+"least_records" = "Vähiten Kirjauksia";
+
+//PremiumAnalysisView
+"premium_analysis" = "Premium Analyysi";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "Tilaa Premium\n nähdäksesi lisää analyysejä!";
+"premium_pass" = "Premium Pass";
+
+//ThemesView
+"special_theme" = "Erity téma";
+"classic_theme" = "Klassinen Teema";
+
+//StoreStickerView
+"coffee_break_alone" = "Kahvitauko yksin, toinen nimi rauhalle.";
+"warm_up_with_coffee" = "Lämmittele kahvin kanssa raikkaassa syysilmassa.";
+"coffee_accompanying_you" = "Anna kahvin kulkea mukanasi, kun uppoudut sivuihin.";
+"campfire_and_coffee" = "Täydellinen harmonia nuotion ja kahvin välillä.";
+"coffee_with_purring_companion" = "Nauti kupillinen kahvia kehräävän kumppanisi kanssa.";
+"christmas_with_ginger_scented_coffee" = "Juhli joulua inkiväärintuoksuisella kahvilla!";
+"coffee_leads" = "Kahvi ottaa aina pääroolin!";
+"coffee_in_conversations" = "Lämpimimmät keskustelut sisältävät aina kahvia.";
+"sip_of_coffee_inspiration" = "Hörppy kahvia, ripaus inspiraatiota.";
+"coffee_and_dessert_harmony" = "Täydellinen harmonia kahvin ja jälkiruoan välillä.";
+"balanced_coffee_break" = "Tasapainoinen kahvitauko terveelliseen elämäntyyliin.";
+"walk_with_coffee" = "Kävely uskollisen ystäväsi ja kahvikupin kanssa.";
+"deepen_feelings_with_coffee" = "Syvennä tunteitasi kahvikupin äärellä.";
+"sweet_closeness_with_coffee" = "Makea läheisyys, joka alkaa kahvista.";
+"coffee_complements_hobbies" = "Kahvi täydentää kaiken, myös harrastuksesi.";
+"peaceful_moments_with_coffee" = "Rauhalliset hetket lomalla kahvin kera.";
+"warm_and_deep_like_coffee" = "Lämmin ja syvä, aivan kuten kahvi.";
+"serenity_with_coffee" = "Löydä rauha hiljaisuudessa kahvia siemaillen.";
+"little_break_with_coffee" = "Pieni tauko itsellesi kahvin kanssa.";
+"first_light_and_coffee" = "Aamun ensimmäinen valo ja kahvin tuoksu.";
+"make_night_beautiful_with_coffee" = "Tee yöstä kauniimpi kahvin avulla.";
+"coffee_planning_day" = "Kahvi on aina vierelläsi suunnitellessasi päivää.";
+"coffee_with_podcast" = "Lämmin kahvikuppi seurana podcastin aikana.";
+"coffee_with_moments_together" = "Kahvi lisää makua yhteisiin hetkiin.";
+"coffee_between_classes" = "Kuka voisi kieltäytyä kupillisesta kahvia tuntien välillä?";
+"coffee_is_self_love" = "Paras tapa osoittaa rakkautta itselle: kupillinen kahvia.";
+"recharge_with_coffee" = "Lataa itsesi kahvilla kesken ostosten.";
+"share_coffee_moments" = "Tämä on täydellinen hetki jakaa kahvin täyttämiä hetkiäsi!";
+"spring_freshness_and_coffee" = "Kevään raikkaus ja kahvin lämpö.";
+"time_for_a_cup_of_coffee" = "Aina on aikaa kupilliselle kahvia.";
+"coffee_while_exploring" = "Kahvi on aina mukanani tutkiessani uusia paikkoja.";
+"romantic_coffee_with_loved_one" = "Romanttinen kahvihetki rakkaasi kanssa.";
+"weather_and_coffee" = "Säästä riippumatta kahvi tekee kaikesta parempaa.";
+"warm_touch_in_winter" = "Kahvin lämmin kosketus talven kylmyydessä.";
+"power_of_coffee_at_work" = "Tunne kahvin voima työpausojen aikana.";
+"refresh_after_workout" = "Virkistäydy treenin jälkeen kahvikupillisella.";
+"balance_mind_body_with_coffee" = "Tasapainota mielesi ja kehosi kahvilla.";
+
+//BeansView
+"premium_pass" = "Premium Passi";
+"beans_180" = "180 Papua";
+"gifted_on_subscription" = "Lahja tilauksessa";
+"learn_more" = "Lisätietoja";
+"bonus_19_percent" = "19% bonus";
+"bonus_39_percent" = "39% bonus";
+"bonus_79_percent" = "79% bonus";
+
+//BuyView
+"buy_now" = "OSTA NYT";
+"sticker_already_purchased" = "Tarra on jo ostettu.";
+"emotion_already_purchased" = "Tunne on jo ostettu.";
+"not_enough_beans" = "Sinulla ei ole tarpeeksi kahvipapuja tämän ostoksen tekemiseen.";
+"successfully_purchased" = "on ostettu onnistuneesti.";
+
+//PremiumView
+"elevate_coffee_moments" = "Nosta kahvihetket uudelle tasolle";
+"upgrade_ultimate_experience" = "Päivitä saadaksesi parhaan kokemuksen!";
+
+//AccountView
+"account" = "Tili";
+"user_id" = "Käyttäjä-ID:";
+
+//RecordsView
+"my_records" = "Omat tallenteet";
+"recorded_days" = "Tallennetut päivät";
+"photos" = "Valokuvat";
+"photo_gallery" = "Valokuvagalleria";
+
+//FeaturesView
+"features" = "Ominaisuudet";
+"widgets" = "Widgetit";
+
+//ProfilePictureView
+"change_profile_picture" = "Vaihda profiilikuva";
+
+//ProfileNameChangeView
+"change_name" = "Vaihda nimi";
+"done" = "Valmis";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "Muuta syntymäpäivä";
+"cancel" = "Peruuta";
+"yes" = "Kyllä";
+
+//ProfileGenderChangeView
+"change_gender" = "Vaihda sukupuoli";
+"male" = "Mies";
+"female" = "Nainen";
+"other" = "Muu";
+"done" = "Valmis";
+
+//ProfileFeedbackView
+"send_feedback" = "Lähetä palautetta";
+"cancel" = "Peruuta";
+"send" = "Lähetä";
+
+//NotificationManager
+"morning_notification" = "Onko aamukahvisi valmis? Aloitetaan päivän kirjaaminen!";
+"day_rhythm_notification" = "Miten päiväsi rytmi sujuu? Mitä jos pitäisimme kahvitauon ja tallentaisimme hetken?"; 
+"record_reminder" = "Älä unohda kirjata päivääsi!"; 
+"week_checkin" = "Miten viikkosi sujuu? Älä unohda pitää kahvitaukoa!"; 
+"monday_greeting" = "Hei maanantai!☀️ Voisitko olla ystävällinen meille tänään? 🤞 Mutta ensin... kahvia! ☕🫶";
+"weekend_reminder" = "Viikonloppu on melkein täällä! Mitä jos suunniteltaisiin mukava kahvihetki? ☕🎉";
+"journal_update" = "Uusi ilme päiväkirjallesi! Siistit teemat ja tarrat odottavat sinua, aloita tutkiminen nyt! ✨☕"; 
+"coffee_day" = "Kansainvälinen Kahvipäivä";
+"coffee_day_celebration" = "Tänään on Kansainvälinen Kahvipäivä! ☕🎉 Juhli suosikkikahvisi kanssa ja tallenna hetki.";
+"espresso_day" = "Espressopäivä"; 
+"espresso_day_message" = "Tänään on Espressopäivä! ⚡☕ Aloita päiväsi vahvan espresson energialla.";
+"chocolate_day" = "Maailman Suklaapäivä"; 
+"chocolate_day_message" = "Tänään on Maailman Suklaapäivä! 🍫☕ Yhdistä kahvisi palaan suklaata makean tauon saamiseksi.";
+"barista_day" = "Maailman Baristapäivä";
+"barista_day_message" = "Tänään on Maailman Baristapäivä! 🎨☕ Juhli kahvin valmistuksen taidetta ja tunne itsesi baristaksi."; 
+"valentines_day" = "Ystävänpäivä";
+"valentines_day_message" = "Tänään on Ystävänpäivä! ❤️☕ Jaa kahvisi rakkaasi kanssa ja juhli tätä erityistä päivää yhdessä.";
+"friendship_day" = "Kansainvälinen Ystävyyspäivä";
+"friendship_day_message" = "Tänään on Kansainvälinen Ystävyyspäivä! 🤝☕ Luo muistoja parhaan ystäväsi kanssa kahvikupin ääressä.";
+"new_years_day" = "Uudenvuodenpäivä";
+"new_years_day_message" = "Tänään on vuoden ensimmäinen päivä! 🎉☕ Ota kahvisi ja ala unelmoida uusista aluista.";
+
+//PremiumVC
+"premium_pass" = "Premium-passi";
+"free_3_days" = "Täysin ilmainen 3 päivää!";
+"cancel_anytime" = "Peruuta milloin tahansa.";
+"monthly_pass" = "Kuukausipassi";
+"annual_pass" = "Vuosipassi";
+"free_for_3_days" = "Ilmainen 3 päivää";
+"per_month" = "%@ /kuukausi";
+"coffee_beans_gifted" = "*180 kahvipapua lahjoitetaan ilmaisen kokeilun alussa.";
+"terms_and_privacy" = "Käyttöehdot ja tietosuojakäytäntö"; 
+"terms_of_service" = "Käyttöehdot";
+"privacy_policy" = "Tietosuojakäytäntö";
+"and" = "ja";
+"begin_free_trial" = "Aloita ilmainen kokeilu"; 
+"subscription_unavailable" = "Tilaustiedot eivät ole saatavilla tällä hetkellä."; 
+"apple_account_subscription" = "
+Apple-tililtäsi veloitetaan maksu. Kuukausittainen (tilaus) passi maksaa %@ ja uusiutuu automaattisesti joka kuukausi. Vuotuinen (tilaus) passi, joka veloitetaan yhtenä etukäteismaksuna, maksaa %@ ja uusiutuu automaattisesti vuosittain. Tilauksesi uusiutuu automaattisesti 24 tunnin sisällä ennen nykyisen kauden päättymistä. Voit hallita tilaustasi Apple-tiliasetuksista.
+";
+"trial_info_unavailable" = "Ilmaisen kokeilun tiedot eivät ole saatavilla tällä hetkellä.";
+"trial_info_annual" = "%@ vuodessa ilmaisen kokeilun jälkeen. Peruuta milloin tahansa.";
+"subscribe_premium_pass" = "Tilaa Premium Pass\nsaadaksesi kaikki ominaisuudet käyttöön!";
+"become_premium_user" = "Ryhdy Premium-käyttäjäksi";
+"monthly_trial_info" = "%@ kuukaudessa. Peru milloin tahansa.";
+"completely_free_3_days" = "Täysin ilmainen 3 päivää!";
+"begin_free_trial" = "Aloita ilmainen kokeilu";
+"annual_trial_info" = "%@ vuodessa ilmaisen kokeilun jälkeen. Peru milloin tahansa.";
+"daily_streak_title" = "Päivittäinen Putki";
+"daily_streak_label_zero" = "Pisin kahviputki: 0 päivä";
+"daily_streak_message" = "Aloita päivittäinen putkesi merkinnällä!";
+"daily_streak_label" = "Pisin kahviputki: %d päivä(ä)";
+
+//AchievementLockAnalysisVC
+"first_sip" = "Ensimmäinen Siemaus";
+"morning_brew" = "Aamukahvi";
+"sweet_moments" = "Makeat Hetket";
+"favorite_coffee_quest" = "Etsimässä Suosikkikahvia";
+"sweet_coffee_stop" = "Makea Kahvitauko";
+"taste_of_repetition" = "Toiston Maku";
+"motivation_filter" = "Motivaatiokohdistin";
+"work_break_revitalizer" = "Taukovirkistäjä";
+"natures_brew" = "Luonnon Juoma";
+"inspiration_with_coffee" = "Inspiraatiota Kahvista";
+"different_sips" = "Erilaisia Siemauksia";
+"world_coffees" = "Maailman Kahvit";
+"gourmet_coffee_expert" = "Gourmetkahvin Asiantuntija";
+"cold_enthusiast" = "Kylmien Juomien Rakastaja";
+"night_owl" = "Yökyöpeli";
+"travelers_cup" = "Matkailijan Kuppi";
+"coffee_classic" = "Kahviklassikko";
+"white_coffee" = "Valkoinen Kahvi";
+"love_in_first_sip" = "Rakkautta Ensisiemauksella";
+"romance_in_cup" = "Romantiikkaa Kupissa";
+"friends_sip" = "Ystävien Siemaus";
+"special_moments" = "Erityiset Hetket";
+"chat_in_cup" = "Jutustelua Kupissa";
+"coffee_journey" = "Kahvimatka";
+"explore_together" = "Tutkitaan Yhdessä";
+"calm_sips" = "Rauhalliset Siemaukset";
+"chat_tour" = "Jutustelukierros";
+"every_moment" = "Jokainen Hetki";
+"first_sip_achievement" = "Ensimmäinen askel kahvimatkallasi! Tallenna ensimmäinen siemauksesi, avaa tämä erityinen saavutus ja avaa ovet kahviharrastuksellesi. 🎈☕";
+"morning_brew_achievement" = "Avaa tämä erityinen saavutus kokeilemalla 10 erilaista kahvilajia aamukahvihetkelläsi! Päivän aloitus ei ole koskaan ollut näin miellyttävä. ☀️☕";
+"flavor_harmony_achievement" = "Kokeile 5 erilaista kahvia Sweet Momentsissa avataksesi makuharmonia-saavutuksen! 🍩☕";
+"crown_favorite_coffee" = "Kokeile samaa kahvia 20 kertaa kruunataksesi suosikkisi! ⭐☕";
+"delicious_achievement" = "Tutustu 10 makeaan kahviin, kuten Mochaan, Affogatoon ja Irish Coffeeen, ja avaa tämä herkullinen saavutus! ✨☕";
+"relive_coffee_achievement" = "Koe sama kahvi ja hetki uudelleen 5 kertaa avataksesi saavutuksen! ☕🌀";
+"work_break_energy" = "Kruunaa energiasi 20 työpaussikahvilla! ☕⚡";
+"work_break_ritual" = "Avaa tämä saavutus 5 työpaussikahvilla ja aloita rituaalisi! ☕💼";
+"camp_coffee_achievement" = "Avaa tämä seikkailusaavutus juomalla 5 leirikahvia kuukauden aikana! ☕🏕️";
+"inspiring_coffee_achievement" = "Avaa tämä lukko lukemalla 5 kirjaa tai nauttimalla inspiroivia kahveja kuukauden aikana! ☕📝";
+"flavor_map_achievement" = "Löydä makujen kartta 7 erilaisella kahvilla 7 päivän aikana! 🌟☕";
+"cultural_flavors" = "Tutustu kahvin maailmaan kulttuurimakujen, kuten Turkkilaisen Kahvin, Wieniläiskahvin ja Café de Ollan kautta! ☕🌍";
+"exquisite_coffees" = "Astukaa makujen maailmaan kahden hienostuneen kahvin, kuten Macchiaton, Ristreton ja Breven kautta! 🧭☕";
+"cool_success" = "Saavuta viileä onnistuminen 20 kylmällä kahvilla, kuten Frappe, Cold Brew ja Shakerato! ❄️☕";
+"spirit_of_night" = "Pysy hereillä kahvilla 20 yötä ja vangitse yön henki! 🌌☕";
+"taste_world" = "Maista maailmaa 10 erilaisella kahvilla matkustaessasi, kirjoita uusi tarina jokaisella siemauksella! 🗺️☕";
+"crown_culture" = "Kruunaa kahvikulttuuri 20 klassisella maulla, kuten Espresso, Americano ja Turkkilainen Kahvi! 🌰☕";
+"explore_smoothness" = "Tutustu kahvin pehmeyteen kokeilemalla 20 maitopohjaista kahvia, kuten Latte, Breve ja Cappuccino! 🍶☕";
+"romantic_moment" = "Viimeistele taikuus romanttisessa hetkessä ensimmäisellä kahvillasi ja juhlista tätä erityistä kokemusta! ❤️☕";
+"crown_love_moments" = "Kruunaa rakkaudentäyteiset hetket 10 eri kahvilaadulla romanttisessa tunnelmassa! 💖☕";
+"first_coffee_friend" = "Ensimmäinen kahvi ystävän kanssa, ensimmäinen siemaus ystävyytesi tarinasta! 🕊️☕";
+"friendship_love_moments" = "Luo ystävyys- tai rakkaushetkiä 20 kahvikupilla ja suorita tämä erityinen saavutus! 🎀☕";
+"deepen_conversations" = "Syvennä keskustelujasi kahvin äärellä 5 kertaa kuukaudessa ja avaa tämä palkinto! ☕💬";
+"discover_all_coffee_types" = "Tutki kaikki kahvityypit ja tule kahvilegendaksi! ☕🏆";
+"share_coffee_with_friends" = "Jaa 10 erilaista kahvia ystäviesi kanssa ja anna ystävyyden sekoittua kahviin! 🤗☕";
+"discover_worlds_with_coffee" = "Löydä uusia maailmoja 10 kahvin avulla luku- tai leirintähetkillä! 📚🌄☕";
+"enhance_conversations_with_coffee" = "Paranna keskustelujasi 20 erilaisella kahvilla keskustelujen aikana! 💭☕";
+"experience_all_coffee_moments" = "Koe kaikki kahvihetket ja saavuta kahvimatkasi huippu! 🎉☕";
+"journey_of_the_cup" = "Kupin Matka";

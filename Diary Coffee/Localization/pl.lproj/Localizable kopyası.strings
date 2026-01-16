@@ -1,0 +1,524 @@
+/* 
+  Localizable(Vietnamese).strings
+  Diary Coffee
+
+  Created by Öykü Hazer Ekinci on 18.01.2025.
+  
+*/
+
+//DiaryEntryVC
+"daily_max_limit" = "Bạn đã đạt đến giới hạn hàng ngày.";
+"record_mood" = "Vui lòng ghi lại tâm trạng của bạn.";
+"record_coffee_moment" = "Vui lòng ghi lại loại khoảnh khắc cà phê.";
+"record_coffee_type" = "Vui lòng ghi lại loại cà phê của bạn.";
+"unsaved_changes" = "Các thay đổi chưa được lưu.";
+"confirm_exit" = "Bạn có chắc chắn muốn thoát không?";
+"exit" = "Thoát";
+
+//CalendarVC
+"delete_entry" = "Xóa mục?";
+"confirm_delete_entry" = "Bạn có chắc chắn muốn xóa mục này không?";
+"day_recorded" = "Ngày đã được ghi lại!";
+
+//AnalysisVC
+"report" = "Báo cáo";
+
+//AnalysisDetailVC
+"frequently_recorded" = "Thường xuyên ghi lại";
+"most_records" = "Nhiều bản ghi nhất";
+"least_records" = "Ít bản ghi nhất";
+
+//CoffeeTrackerAnalysisVC
+"a_year_gone_with_coffee" = "Một năm với cà phê";
+
+//ProfileVC
+"my_info" = "Thông tin của tôi";
+
+//ProfileDetailVC
+"account" = "Tài khoản";
+"not_set" = "Chưa thiết lập";
+"change_name" = "Đổi tên";
+"info_updated" = "Thông tin của bạn đã được cập nhật thành công!";
+"change_birthday" = "Thay đổi ngày sinh";
+"change_gender" = "Thay đổi giới tính";
+"profile_photo_updated" = "Ảnh đại diện đã được cập nhật thành công!";
+
+//PhotoGalleryVC
+"photo_gallery" = "Bộ sưu tập ảnh";
+"no_photos" = "Chưa có ảnh nào được ghi lại.";
+
+//SettingsVC
+"settings" = "Cài đặt";
+"records_deleted" = "Bản ghi của bạn đã bị xóa!";
+"pin_all_set" = "Đã thiết lập PIN!";
+"customization" = "Tùy chỉnh";
+"change_pin" = "Thay đổi PIN";
+"notifications" = "Thông báo";
+"language" = "Ngôn ngữ";
+"haptics" = "Cảm ứng phản hồi";
+"send_feedback" = "Gửi phản hồi";
+"system" = "Hệ thống";
+"service_center" = "Trung tâm dịch vụ";
+"write_review" = "Viết đánh giá";
+"app_version" = "Phiên bản ứng dụng";
+"data" = "Dữ liệu";
+"delete_data" = "Xóa dữ liệu của tôi";
+"pin_lock" = "Khóa PIN";
+"password_warning" = "Mật khẩu không thể khôi phục nếu bị quên.";
+"info_updated" = "Thông tin của bạn đã được cập nhật thành công!";
+
+//LanguageVC
+"select_language" = "Chọn ngôn ngữ";
+"done" = "Hoàn thành";
+
+//ProfileNotificationVC
+"notifications" = "Thông báo";
+"record_notification" = "Thông báo ghi chép";
+"get_daily_reminders" = "Nhận nhắc nhở hàng ngày";
+"remind_me_at" = "Nhắc tôi vào lúc";
+"smart_scheduling_reminder" = "Nhắc nhở lập lịch thông minh";
+"fortune_cookie_notification" = "Thông báo bánh quy may mắn";
+"info_updated" = "Thông tin của bạn đã được cập nhật thành công!";
+
+//DeleteDataVC
+"delete_my_data" = "Xóa dữ liệu của tôi";
+"my_records" = "Hồ sơ của tôi";
+"delete_all_records" = "Xóa tất cả hồ sơ";
+"account" = "Tài khoản";
+"delete_my_account" = "Xóa tài khoản của tôi";
+"delete_my_data_description" = "Mọi thứ bạn đã ghi lại - tất cả các ghi chú, ảnh, biểu tượng và hơn thế nữa - sẽ bị xóa. Các giao dịch mua và cài đặt ghi âm của bạn sẽ được giữ lại. Vui lòng tiến hành cẩn thận vì điều này không thể hoàn tác.";
+"delete_my_account_description" = "Nếu bạn xóa tài khoản của mình, tất cả hồ sơ (ghi chú, ảnh, biểu tượng, v.v.), giao dịch mua (chủ đề, hạt cà phê, v.v.) và dữ liệu của bạn cũng sẽ bị xóa. Vui lòng tiến hành cẩn thận vì điều này không thể hoàn tác.";
+
+//DeleteAllRecordsVC
+"delete_all_records" = "Xóa tất cả hồ sơ";
+"are_you_sure" = "Bạn có chắc chắn không?";
+"delete_all_records_description" = "Mọi thứ bạn đã ghi lại - tất cả các ghi chú, ảnh, biểu tượng và hơn thế nữa - sẽ bị xóa. Các giao dịch mua và cài đặt ghi âm của bạn sẽ được giữ lại. Vui lòng tiến hành cẩn thận vì điều này không thể hoàn tác.";
+"read_and_agree" = "Tôi đã đọc các lưu ý và đồng ý tiếp tục.";
+"cancel" = "Hủy";
+
+//DeleteMyAccountVC
+"delete_my_account" = "Xóa tài khoản của tôi";
+"are_you_sure" = "Bạn có chắc chắn không?";
+"delete_my_account_description" = "Nếu bạn xóa tài khoản của mình, tất cả hồ sơ (ghi chú, ảnh, biểu tượng, v.v.), giao dịch mua (chủ đề, Cỏ ba lá, v.v.) và dữ liệu của bạn cũng sẽ bị xóa. Vui lòng tiến hành cẩn thận vì điều này không thể hoàn tác.";
+"read_and_agree" = "Tôi đã đọc các lưu ý và đồng ý tiếp tục.";
+
+//WidgetsVC
+"apply" = "Áp dụng";
+"widgets" = "Tiện ích";
+"widget_changed_successfully" = "Tiện ích đã được thay đổi thành công!";
+
+//StoreVC
+"themes" = "Chủ đề";
+"stickers" = "Nhãn dán";
+"beans" = "Hạt";
+"store" = "Cửa hàng";
+"payment_success" = "Thanh toán của bạn đã được xử lý thành công!";
+"payment_failed" = "Thanh toán thất bại. Vui lòng thử lại.";
+
+//PremiumOptionsCollectionView
+"in_depth_analysis" = "Phân tích chuyên sâu";
+"in_depth_analysis_desc" = "Khám phá các mẫu ẩn trong thói quen hàng ngày của bạn.";
+"up_to_3_photos" = "Tối đa 3 ảnh";
+"up_to_3_photos_desc" = "Ghi lại nhiều khoảnh khắc hơn trong ngày của bạn.";
+"daily_entries" = "Nhập hàng ngày";
+"daily_entries_desc" = "Nâng cấp để ghi lại tối đa 3 khoảnh khắc mỗi ngày.";
+"express_your_mood" = "Thể hiện cảm xúc của bạn";
+"express_your_mood_desc" = "Mở khóa bộ sưu tập đầy đủ để có nhiều lựa chọn hơn.";
+"special_gift" = "Một món quà đặc biệt đang chờ bạn";
+"special_gift_desc" = "180 hạt cà phê cho người đăng ký lần đầu.";
+
+//ThemesCollectionView
+"for_lovers_of_classic_cups" = "Dành cho những người yêu thích cốc cổ điển";
+
+//PrimeEmotionSetCell
+"natures_joy" = "Niềm vui của thiên nhiên, đuôi vẫy khắp nơi.";
+"golden_leaves" = "Lá vàng, không khí mát lành.";
+"camping" = "Sao trên trời, lửa dưới đất.";
+"warm_lights" = "Ánh đèn ấm áp, khoảnh khắc ấm cúng đáng nhớ.";
+"spooky_thrills" = "Hồi hộp rùng rợn, những đêm sáng ngọt ngào.";
+"sweet_bites" = "Những món ngọt, khoảnh khắc vui vẻ khó quên.";
+"laughter_louder" = "Tiếng cười to hơn với những kết nối trái tim.";
+"heartbeats_shared" = "Nhịp tim được chia sẻ, mọi thứ trở nên sáng rực hơn.";
+"stars_whisper" = "Những ngôi sao thì thầm, bí mật dưới ánh trăng được hé lộ.";
+"dancing_nights" = "Những đêm khiêu vũ, nhịp điệu vui vẻ bất tận.";
+"time_fades" = "Thời gian phai mờ, sự sáng tạo vẫn sống mãi.";
+"learning_laughter" = "Học tập, tiếng cười, giấy nhàu nát thỉnh thoảng.";
+"colors_bloom" = "Màu sắc nở rộ, hy vọng nắng lên.";
+"cozy_warmth" = "Ấm áp dưới những chiếc chăn tuyết.";
+"golden_rays" = "Tia nắng vàng, hoàng hôn kỷ niệm cuộc sống.";
+"dreams_realized" = "Những giấc mơ trở thành hiện thực, khoảnh khắc tập trung thăng hoa.";
+
+//MainAlertView
+"cancel" = "Hủy bỏ";
+"delete" = "Xóa";
+"exit" = "Thoát";
+
+//PointView
+"enjoying_diary_coffee" = "Bạn có đang thưởng thức cà phê nhật ký không?";
+"no" = "Không";
+"yes" = "Có";
+
+//CreateAccountView
+"create_an_account" = "Tạo tài khoản";
+"log_in_save_records" = "Đăng nhập và lưu tất cả bản ghi của bạn vào tài khoản riêng!";
+"later" = "Để sau";
+"create" = "Tạo";
+
+//FirstRecordView
+"congratulations" = "Chúc mừng";
+"first_coffee_recorded" = "Cà phê đầu tiên đã được ghi lại!";
+"next" = "Tiếp theo";
+"look_a_bit_deeper" = "Hãy nhìn sâu hơn một chút";
+"personal_reports" = "Bạn có thể xem các báo cáo cá nhân về các bản ghi của mình!";
+"got_it" = "Hiểu rồi!";
+
+//PremiumAccessView
+"premium_access" = "Quyền truy cập cao cấp";
+"get_started" = "Bắt đầu!";
+"in_depth_analysis" = "Phân tích chuyên sâu";
+"up_to_3_photos" = "Tối đa 3 ảnh";
+"daily_entries" = "Nhập hàng ngày";
+"express_your_mood" = "Thể hiện cảm xúc của bạn";
+"special_gift_awaits" = "Một món quà đặc biệt đang chờ bạn";
+
+//DisconnectView
+"failed_to_connect" = "Không thể kết nối với mạng.";
+"try_again" = "Thử lại";
+
+//ProblemView
+"something_went_wrong" = "Đã xảy ra sự cố, nhưng chúng tôi sẽ xử lý!";
+"services_maintenance" = "Dịch vụ của chúng tôi đang được bảo trì. Vui lòng đóng và mở lại ứng dụng.";
+"ok" = "OK";
+
+//LoginTitleView
+"capture_every_sip" = "Ghi lại từng ngụm\nĐăng nhập và Bắt đầu Tạo Kỷ niệm";
+
+//PinContainerView
+"pin_code" = "Mã PIN";
+"set_pin" = "Đặt PIN";
+
+//NameTextFieldView
+"enter_your_name" = "Nhập tên của bạn";
+
+//BirthdayButtonView
+"select_your_birthday" = "Chọn ngày sinh của bạn";
+
+//BirthdayDatePickerView
+"select_date" = "Chọn ngày";
+
+//ReminderTimePickerView
+"select_time" = "Chọn thời gian";
+
+//MoodSelectorView
+"coffee_mood_today" = "Hôm nay bạn đang trong tâm trạng cà phê nào?";
+
+//CoffeeMemorySelectorView
+"coffee_moments" = "Khoảnh khắc cà phê";
+
+//CoffeeTypeSelectorView
+"coffee_types" = "Các Loại Cà Phê";
+
+//NoteView
+"todays_brewed_thoughts" = "Những Suy Nghĩ Được Pha Chế Hôm Nay";
+"write" = "Viết…";
+
+//PhotoView
+"coffee_moments_in_photos" = "Những Khoảnh Khắc Cà Phê Qua Ảnh";
+"camera" = "Máy ảnh";
+"album" = "Album";
+
+//PhotoSelectView
+"photo_options" = "Tùy Chọn Ảnh";
+"select_from_album" = "Chọn từ Album";
+"open_camera" = "Mở Máy Ảnh";
+
+//StickerView
+"coffee_moments_in_stickers" = "Khoảnh Khắc Cà Phê Trong Nhãn Dán";
+"no_stickers_available" = "Không Có Nhãn Dán Nào";
+"no_stickers_message" = "Bạn không có nhãn dán nào để sử dụng. Vui lòng mua trước.";
+"ok" = "OK";
+
+//StickerSelectorView
+"purchase" = "Mua";
+
+//CalendarMiniView
+"which_day_record_for" = "Bản ghi này dành cho ngày nào?";
+"cancel" = "Hủy";
+"ok" = "OK";
+
+//CalendarView
+"oops_day_yet_to_come" = "Ối, ngày đó vẫn chưa tới!";
+
+//CalendarMoodSelectionView
+"how_was_your_day" = "Ngày của bạn thế nào?";
+
+//YearMonthSegmentControl
+"entire_year" = "Cả Năm";
+"by_month" = "Theo Tháng";
+
+//YearMonthPickerView
+"choose_month_and_year" = "Chọn Tháng và Năm";
+
+//CoffeeMoodFlowView
+"mood_flow" = "Dòng Cảm Xúc";
+"start_mood_flow" = "Bắt đầu dòng cảm xúc của bạn với một mục!";
+
+//CoffeeMoodScoreView
+"coffee_mood_score" = "Điểm Tâm Trạng Cà Phê";
+"moods_logged" = "Tâm Trạng Đã Ghi Lại";
+"coffee_logged" = "Cà Phê Đã Ghi Lại";
+"start_logging_coffee_moods" = "Bắt đầu ghi lại tâm trạng cà phê của bạn!";
+
+//MoodStatusView
+"mood_statistics" = "Thống Kê Tâm Trạng";
+
+//CoffeeAchievementLockView
+"journey_of_the_cup" = "Hành Trình Của Cốc";
+
+//CoffeeTrackerView
+"a_year_gone_with_coffee" = "Một Năm Đã Qua Cùng Cà Phê";
+"look_back_on_2024" = "Nhìn lại năm %d của bạn.";
+"go" = "Đi";
+
+//MomentStatusView
+"frequently_together" = "Thường xuyên cùng nhau";
+"moments_you_drank_coffee" = "Những Khoảnh Khắc Bạn Uống Cà Phê";
+"you_drank_coffee" = "Bạn đã uống cà phê";
+"moments" = "Khoảnh khắc";
+
+//CoffeeStatusView
+"your_favorite_coffees" = "Những Cà Phê Bạn Yêu Thích";
+"the_coffee_you_enjoyed_the_most" = "Cà Phê Bạn Thích Nhất";
+"you_enjoyed_the_most" = "Bạn Thích Nhất";
+"the_coffee" = "Cà Phê";
+
+//CoffeeStatusByMood
+"coffee_for_your_mood" = "Cà Phê Cho Tâm Trạng Của Bạn";
+"your_favorite_in_this_mood" = "Món yêu thích của bạn trong tâm trạng này";
+"recorded_together_with" = "Ghi lại cùng với…";
+
+//SortByView
+"sort_by" = "Sắp Xếp Theo";
+"most_records" = "Nhiều Ghi Chép Nhất";
+"least_records" = "Ít Ghi Chép Nhất";
+
+//PremiumAnalysisView
+"premium_analysis" = "Phân Tích Cao Cấp";
+
+//PremiumSubscribeView
+"subscribe_to_premium" = "Đăng ký Premium\n để xem thêm phân tích!";
+"premium_pass" = "Thẻ Premium";
+
+//ThemesView
+"special_theme" = "Chủ Đề Đặc Biệt";
+"classic_theme" = "Chủ Đề Cổ Điển";
+
+//StoreStickerView
+"coffee_break_alone" = "Một buổi nghỉ cà phê một mình, tên gọi khác của sự bình yên.";
+"warm_up_with_coffee" = "Hãy ấm áp với cà phê trong không khí trong lành của mùa thu.";
+"coffee_accompanying_you" = "Hãy để cà phê đồng hành cùng bạn khi bạn chìm đắm trong từng trang sách.";
+"campfire_and_coffee" = "Sự hòa quyện hoàn hảo giữa lửa trại và cà phê.";
+"coffee_with_purring_companion" = "Thưởng thức một tách cà phê cùng với người bạn mèo kêu rừ rừ.";
+"christmas_with_ginger_scented_coffee" = "Chào đón Giáng sinh với cà phê thơm mùi gừng!";
+"coffee_leads" = "Cà phê luôn đóng vai chính!";
+"coffee_in_conversations" = "Những cuộc trò chuyện ấm áp nhất luôn có cà phê đồng hành.";
+"sip_of_coffee_inspiration" = "Một ngụm cà phê, một chút cảm hứng.";
+"coffee_and_dessert_harmony" = "Sự hòa quyện hoàn hảo giữa cà phê và món tráng miệng.";
+"balanced_coffee_break" = "Một buổi nghỉ cà phê cân bằng cho lối sống lành mạnh.";
+"walk_with_coffee" = "Đi dạo với người bạn trung thành của bạn và một tách cà phê.";
+"deepen_feelings_with_coffee" = "Làm sâu sắc cảm xúc của bạn với một tách cà phê.";
+"sweet_closeness_with_coffee" = "Sự gần gũi ngọt ngào bắt đầu từ cà phê.";
+"coffee_complements_hobbies" = "Cà phê làm trọn vẹn mọi thứ, kể cả sở thích của bạn.";
+"peaceful_moments_with_coffee" = "Khoảnh khắc yên bình trong kỳ nghỉ cùng cà phê.";
+"warm_and_deep_like_coffee" = "Ấm áp và sâu lắng, giống như cà phê.";
+"serenity_with_coffee" = "Tìm thấy sự thanh thản với một ngụm cà phê trong im lặng.";
+"little_break_with_coffee" = "Một khoảng nghỉ nhỏ cho chính bạn với cà phê.";
+"first_light_and_coffee" = "Ánh sáng đầu tiên của buổi sáng và hương thơm của cà phê.";
+"make_night_beautiful_with_coffee" = "Làm cho đêm thêm đẹp với cà phê.";
+"coffee_planning_day" = "Cà phê luôn bên bạn khi lập kế hoạch cho ngày mới.";
+"coffee_with_podcast" = "Một tách cà phê ấm áp đồng hành cùng podcast của bạn.";
+"coffee_with_moments_together" = "Cà phê thêm hương vị vào những khoảnh khắc bên nhau.";
+"coffee_between_classes" = "Ai có thể từ chối một tách cà phê giữa giờ học?";
+"coffee_is_self_love" = "Cách tốt nhất để yêu thương bản thân: một tách cà phê.";
+"recharge_with_coffee" = "Nạp năng lượng với cà phê giữa lúc mua sắm.";
+"share_coffee_moments" = "Đây là thời điểm hoàn hảo để chia sẻ những khoảnh khắc đầy cà phê của bạn!";
+"spring_freshness_and_coffee" = "Sự tươi mới của mùa xuân và sự ấm áp của cà phê.";
+"time_for_a_cup_of_coffee" = "Luôn có thời gian cho một tách cà phê.";
+"coffee_while_exploring" = "Cà phê luôn ở bên tôi khi khám phá những nơi mới.";
+"romantic_coffee_with_loved_one" = "Một tách cà phê lãng mạn bên người bạn yêu.";
+"weather_and_coffee" = "Dù thời tiết thế nào, cà phê làm mọi thứ trở nên tốt hơn.";
+"warm_touch_in_winter" = "Cảm nhận hơi ấm của cà phê trong cái lạnh mùa đông.";
+"power_of_coffee_at_work" = "Cảm nhận sức mạnh của cà phê trong giờ nghỉ làm.";
+"refresh_after_workout" = "Làm mới bản thân sau khi tập luyện với một tách cà phê.";
+"balance_mind_body_with_coffee" = "Cân bằng tâm trí và cơ thể của bạn với cà phê.";
+
+//BeansView
+"premium_pass" = "Thẻ Premium";
+"beans_180" = "180 Hạt";
+"gifted_on_subscription" = "Tặng kèm khi đăng ký";
+"learn_more" = "Tìm hiểu thêm";
+"bonus_19_percent" = "Thưởng 19%";
+"bonus_39_percent" = "Thưởng 39%";
+"bonus_79_percent" = "Thưởng 79%";
+
+//BuyView
+"buy_now" = "MUA NGAY";
+"sticker_already_purchased" = "Hình dán đã được mua.";
+"emotion_already_purchased" = "Cảm xúc đã được mua.";
+"not_enough_beans" = "Bạn không có đủ hạt cà phê để thực hiện giao dịch này.";
+"successfully_purchased" = "đã được mua thành công.";
+
+//PremiumView
+"elevate_coffee_moments" = "Nâng tầm những khoảnh khắc cà phê";
+"upgrade_ultimate_experience" = "Nâng cấp để có trải nghiệm tuyệt vời nhất!";
+
+//AccountView
+"account" = "Tài khoản";
+"user_id" = "ID Người dùng:";
+
+//RecordsView
+"my_records" = "Hồ sơ của tôi";
+"recorded_days" = "Ngày đã ghi lại";
+"photos" = "Ảnh";
+"photo_gallery" = "Thư viện ảnh";
+
+//FeaturesView
+"features" = "Tính năng";
+"widgets" = "Tiện ích";
+
+//ProfilePictureView
+"change_profile_picture" = "Thay đổi ảnh đại diện";
+
+//ProfileNameChangeView
+"change_name" = "Đổi tên";
+"done" = "Xong";
+
+//ProfileBirthdayChangeView
+"change_birthday" = "Thay đổi ngày sinh";
+"cancel" = "Hủy";
+"yes" = "Có";
+
+//ProfileGenderChangeView
+"change_gender" = "Thay đổi giới tính";
+"male" = "Nam";
+"female" = "Nữ";
+"other" = "Khác";
+"done" = "Xong";
+
+//ProfileFeedbackView
+"send_feedback" = "Gửi phản hồi";
+"cancel" = "Hủy";
+"send" = "Gửi";
+
+//NotificationManager
+"morning_notification" = "Czy Twoja poranna kawa jest gotowa? Zaczynajmy nagrywać dzień!";
+"day_rhythm_notification" = "Jak wygląda rytm Twojego dnia? Może czas na przerwę na kawę i uchwycenie chwili?";
+"record_reminder" = "Nie zapomnij zapisać swojego dnia!";
+"week_checkin" = "Jak mija Twój tydzień? Nie zapomnij zrobić przerwy na kawę!";
+"monday_greeting" = "Witaj poniedziałku!☀️ Czy możesz być dla nas łaskawy dziś? 🤞 Ale najpierw... kawa! ☕🫶";
+"weekend_reminder" = "Weekend jest tuż za rogiem! Może zaplanujesz przytulny moment z kawą? ☕🎉";
+"journal_update" = "Całkowicie nowy wygląd Twojego dziennika! Czekają na Ciebie fajne motywy i naklejki, zacznij odkrywać już teraz! ✨☕";
+"coffee_day" = "Międzynarodowy Dzień Kawy";
+"coffee_day_celebration" = "Dziś jest Międzynarodowy Dzień Kawy! ☕🎉 Świętuj swoją ulubioną kawą i uchwyć ten moment.";
+"espresso_day" = "Dzień Espresso";
+"espresso_day_message" = "Dziś jest Dzień Espresso! ⚡☕ Zacznij dzień z energią mocnego espresso.";
+"chocolate_day" = "Światowy Dzień Czekolady";
+"chocolate_day_message" = "Dziś jest Światowy Dzień Czekolady! 🍫☕ Połącz kawę z kawałkiem czekolady na słodką przerwę.";
+"barista_day" = "Światowy Dzień Baristy";
+"barista_day_message" = "Dziś jest Światowy Dzień Baristy! 🎨☕ Świętuj sztukę parzenia kawy i poczuj się jak barista.";
+"valentines_day" = "Walentynki";
+"valentines_day_message" = "Dziś są Walentynki! ❤️☕ Podziel się kawą z ukochaną osobą i świętujcie ten wyjątkowy dzień razem.";
+"friendship_day" = "Międzynarodowy Dzień Przyjaźni";
+"friendship_day_message" = "Dziś jest Międzynarodowy Dzień Przyjaźni! 🤝☕ Twórz wspomnienia z najlepszym przyjacielem przy filiżance kawy.";
+"new_years_day" = "Nowy Rok";
+"new_years_day_message" = "Dziś jest pierwszy dzień roku! 🎉☕ Weź kawę i zacznij marzyć o nowych początkach.";
+
+//PremiumVC
+"premium_pass" = "Premium Pass";
+"free_3_days" = "Całkowicie darmowe przez 3 dni!";
+"cancel_anytime" = "Anuluj w każdej chwili.";
+"monthly_pass" = "Miesięczny Pass";
+"annual_pass" = "Roczny Pass";
+"free_for_3_days" = "Darmowe przez 3 dni";
+"per_month" = "%@ /miesiąc";
+"coffee_beans_gifted" = "*Na początku okresu próbnego otrzymasz 180 ziaren kawy w prezencie.";
+"terms_and_privacy" = "Regulamin i Polityka Prywatności";
+"terms_of_service" = "Regulamin";
+"privacy_policy" = "Polityka Prywatności";
+"and" = "i";
+"begin_free_trial" = "Rozpocznij Darmowy Okres Próbny";
+"subscription_unavailable" = "Informacje o subskrypcji są obecnie niedostępne.";
+"apple_account_subscription" = "
+Twoje konto Apple zostanie obciążone. Miesięczny abonament wynosi %@ i automatycznie odnawia się każdego miesiąca. Roczny abonament, opłacany z góry, wynosi %@ i automatycznie odnawia się każdego roku. Subskrypcja zostanie automatycznie odnowiona w ciągu 24 godzin przed końcem bieżącego okresu. Subskrypcją można zarządzać w Ustawieniach Konta Apple.
+";
+"trial_info_unavailable" = "Informacje o darmowym okresie próbnym są obecnie niedostępne.";
+"trial_info_annual" = "%@ rocznie po darmowym okresie próbnym. Anuluj w każdej chwili.";
+"subscribe_premium_pass" = "Subskrybuj Premium Pass\naby uzyskać dostęp do wszystkich funkcji!";
+"become_premium_user" = "Zostań użytkownikiem Premium";
+"monthly_trial_info" = "%@ miesięcznie. Anuluj w każdej chwili.";
+"completely_free_3_days" = "Całkowicie darmowe przez 3 dni!";
+"begin_free_trial" = "Rozpocznij Darmowy Okres Próbny";
+"annual_trial_info" = "%@ rocznie po darmowym okresie próbnym. Anuluj w każdej chwili.";
+"daily_streak_title" = "Codzienna Passa";
+"daily_streak_label_zero" = "Najdłuższa passa kawowa: 0 dzień";
+"daily_streak_message" = "Rozpocznij codzienną passę od wpisu!";
+"daily_streak_label" = "Najdłuższa passa kawowa: %d dzień(dni)";
+
+//AchievementLockAnalysisVC
+"first_sip" = "Pierwszy Łyk";
+"morning_brew" = "Poranna Kawa";
+"sweet_moments" = "Słodkie Chwile";
+"favorite_coffee_quest" = "Poszukiwanie Ulubionej Kawy";
+"sweet_coffee_stop" = "Słodka Przerwa Na Kawę";
+"taste_of_repetition" = "Smak Powtórzenia";
+"motivation_filter" = "Filtr Motywacyjny";
+"work_break_revitalizer" = "Odświeżacz Przerwy w Pracy";
+"natures_brew" = "Napój Natury";
+"inspiration_with_coffee" = "Inspiracja z Kawą";
+"different_sips" = "Różne Łyki";
+"world_coffees" = "Kawy Świata";
+"gourmet_coffee_expert" = "Ekspert Kawy Gourmet";
+"cold_enthusiast" = "Miłośnik Zimnych Napojów";
+"night_owl" = "Nocny Marek";
+"travelers_cup" = "Kubek Podróżnika";
+"coffee_classic" = "Klasyczna Kawa";
+"white_coffee" = "Biała Kawa";
+"love_in_first_sip" = "Miłość Od Pierwszego Łyka";
+"romance_in_cup" = "Romantyzm w Filiżance";
+"friends_sip" = "Łyk z Przyjaciółmi";
+"special_moments" = "Wyjątkowe Chwile";
+"chat_in_cup" = "Rozmowa w Filiżance";
+"coffee_journey" = "Podróż z Kawą";
+"explore_together" = "Odkrywajmy Razem";
+"calm_sips" = "Spokojne Łyki";
+"chat_tour" = "Wycieczka Rozmów";
+"every_moment" = "Każda Chwila";
+"first_sip_achievement" = "Pierwszy krok w twojej kawowej podróży! Zarejestruj swój pierwszy łyk, odblokuj to wyjątkowe osiągnięcie i otwórz drzwi do swojej pasji do kawy. 🎈☕";
+"morning_brew_achievement" = "Odblokuj to wyjątkowe osiągnięcie, próbując 10 różnych rodzajów kawy w swoim porannym momencie kawowym! Rozpoczęcie dnia nigdy nie było tak przyjemne. ☀️☕";
+"flavor_harmony_achievement" = "Spróbuj 5 różnych rodzajów kawy w Sweet Moments, aby odblokować osiągnięcie harmonii smaku! 🍩☕";
+"crown_favorite_coffee" = "Spróbuj tej samej kawy 20 razy, aby wybrać swoją ulubioną! ⭐☕";
+"delicious_achievement" = "Odkryj 10 słodkich kaw, takich jak Mocha, Affogato i Irish Coffee, i odblokuj to pyszne osiągnięcie! ✨☕";
+"relive_coffee_achievement" = "Przeżyj tę samą kawę i chwilę 5 razy, aby odblokować osiągnięcie! ☕🌀";
+"work_break_energy" = "Dodaj sobie energii 20 kawami podczas przerw w pracy! ☕⚡";
+"work_break_ritual" = "Odblokuj to osiągnięcie 5 kawami podczas przerw w pracy i rozpocznij swój rytuał! ☕💼";
+"camp_coffee_achievement" = "Odblokuj to osiągnięcie przygody dzięki 5 kawom z obozu w ciągu miesiąca! ☕🏕️";
+"inspiring_coffee_achievement" = "Odblokuj tę blokadę, czytając 5 książek lub pijąc inspirujące kawy w ciągu miesiąca! ☕📝";
+"flavor_map_achievement" = "Odkryj mapę smaków dzięki 7 różnym kawom w ciągu 7 dni! 🌟☕";
+"cultural_flavors" = "Odkryj świat kawy z kulturowymi smakami, takimi jak Turecka Kawa, Wiedeńska Kawa i Café de Olla! ☕🌍";
+"exquisite_coffees" = "Wejdź w świat smaku z dwoma wykwintnymi kawami, takimi jak Macchiato, Ristretto i Breve! 🧭☕";
+"cool_success" = "Osiągnij sukces dzięki 20 zimnym kawom, takim jak Frappe, Cold Brew i Shakerato! ❄️☕";
+"spirit_of_night" = "Zostań obudzony przez 20 nocy z kawą i uchwyć ducha nocy! 🌌☕";
+"taste_world" = "Skosztuj świata z 10 różnymi rodzajami kawy podczas podróży, napisz nową historię przy każdym łyku! 🗺️☕";
+"crown_culture" = "Ukoronuj kulturę kawy 20 klasycznymi smakami, takimi jak Espresso, Americano i Kawa Turecka! 🌰☕";
+"explore_smoothness" = "Odkryj łagodność kawy, próbując 20 kaw na bazie mleka, takich jak Latte, Breve i Cappuccino! 🍶☕";
+"romantic_moment" = "Dopełnij magię romantycznej chwili swoją pierwszą kawą i świętuj to wyjątkowe doświadczenie! ❤️☕";
+"crown_love_moments" = "Uwiecznij swoje miłosne chwile z 10 różnymi rodzajami kawy w romantycznej atmosferze! 💖☕";
+"first_coffee_friend" = "Pierwsza kawa z przyjacielem, pierwszy łyk twojej historii przyjaźni! 🕊️☕";
+"friendship_love_moments" = "Stwórz chwile przyjaźni lub miłości z 20 kawami i ukończ to wyjątkowe osiągnięcie! 🎀☕";
+"deepen_conversations" = "Pogłęb swoje rozmowy przy kawie 5 razy w miesiącu i odblokuj tę nagrodę! ☕💬";
+"discover_all_coffee_types" = "Odkryj wszystkie rodzaje kawy i zostań legendą kawy! ☕🏆";
+"share_coffee_with_friends" = "Podziel się 10 różnymi rodzajami kawy z przyjaciółmi, niech przyjaźń zmiesza się z kawą! 🤗☕";
+"discover_worlds_with_coffee" = "Odkryj nowe światy z 10 kawami podczas czytania lub biwakowania! 📚🌄☕";
+"enhance_conversations_with_coffee" = "Ulepsz swoje rozmowy dzięki 20 różnym kawom podczas czatów! 💭☕";
+"experience_all_coffee_moments" = "Przeżyj wszystkie kawowe chwile i osiągnij szczyt swojej kawowej podróży! 🎉☕";
+"journey_of_the_cup" = "Podróż Filiżanki";
